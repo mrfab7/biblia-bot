@@ -1,0 +1,4 @@
+# Node.js package files
+node_modules/
+
+config.json
