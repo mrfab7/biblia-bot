@@ -3,8 +3,8 @@
 // See LICENSE file for full license information.
 
 const { SlashCommandBuilder, MessageFlags, EmbedBuilder } = require('discord.js');
-const fs = require('fs');
-const path = require('path');
+const emojis = require('../../config.json').emojis || {};
+const { fetchVerse } = require('../../bible/fetch_verse.js');
 
 /**
  * To-do:
@@ -16,47 +16,6 @@ const path = require('path');
  * [-] Send the verse in an embed.
  **/
 
-function formatBookName(rawBook) {
-	return rawBook
-		.split(' ')
-		.map(word => word.charAt(0).toUpperCase() + word.slice(1))
-		.join(' ');
-}
-
-function parseReference(reference) {
-	const parts = reference.trim().split(' ');
-	if (parts.length === 3) {
-		return {
-			book: formatBookName(`${parts[0]} ${parts[1]}`),
-			chapter: String(parts[2].split(':')[0]),
-			verse: String(parts[2].split(':')[1]),
-		};
-	}
-	else if (parts.length === 2) {
-		return {
-			book: formatBookName(parts[0]),
-			chapter: String(parts[1].split(':')[0]),
-			verse: String(parts[1].split(':')[1]),
-		};
-	}
-	throw new Error('Invalid verse format.');
-}
-
-async function getVerseContent(filePath, book, chapter, verse) {
-	if (!fs.existsSync(filePath)) return { error: 'Verse file not found.' };
-	const data = await fs.promises.readFile(filePath, { encoding: 'utf8' });
-	const jsonData = JSON.parse(data);
-
-	// Try both root-level and nested book keys for flexibility
-	if (jsonData[book] && jsonData[book][chapter] && jsonData[book][chapter][verse]) {
-		return { content: jsonData[book][chapter][verse] };
-	}
-	if (jsonData[chapter] && jsonData[chapter][verse]) {
-		return { content: jsonData[chapter][verse] };
-	}
-	return { error: 'Verse not found in the data.' };
-}
-
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('verse')
@@ -66,6 +25,14 @@ module.exports = {
 				.setName('verse')
 				.setDescription('The Bible verse to retrieve (e.g. John 3:16, Psalm 23:1, 2 Timothy 1:7)')
 				.setRequired(true))
+		.addStringOption(option =>
+			option
+				.setName('language')
+				.setDescription('[WIP, only for testing purposes.]')
+				.setRequired(false)
+				.addChoices(
+					{ name: 'English', value: 'en' },
+				))
 		.addStringOption(option =>
 			option
 				.setName('version')
@@ -101,28 +68,26 @@ module.exports = {
 	async execute(interaction) {
 		try {
 			const reference = interaction.options.getString('verse');
+			const language = interaction.options.getString('language') || 'en';
 			const version = interaction.options.getString('version') || 'ESV';
 
-			const { book, chapter, verse } = parseReference(reference);
-			const filePath = path.join(__dirname, '..', '..', 'api', 'en', version, `${version}_books`, `${book}.json`);
-
-			console.log(`Retrieving verse: ${book} ${chapter}:${verse} (${version})`);
-			console.log(`File path: ${filePath}`);
-
-			const result = await getVerseContent(filePath, book, chapter, verse);
+			// Fetch verse from reference
+			const result = await fetchVerse(reference, language, version);
 
 			if (result.content) {
 				const verseEmbed = new EmbedBuilder()
-					.setColor('#0099ff')
-					.setTitle(`${book} ${chapter}:${verse} (${version})`)
-					.setDescription(result.content);
+					.setColor('#5c64f4')
+					.setTitle(`${emojis.bible} ${result.reference.reference} (${result.version})`)
+					.setDescription(`>>> ${result.content}`);
 
-				await interaction.reply({
-					embeds: [verseEmbed],
-				});
+				await interaction.reply({ embeds: [verseEmbed] });
 			}
 			else {
-				await interaction.reply({ content: result.error, flags: MessageFlags.Ephemeral });
+				const errorEmbed = new EmbedBuilder()
+					.setColor('#fa6969')
+					.setTitle(`${emojis.filenotfound} Verse Not Found`)
+					.setDescription('>>> The verse you requested could not be found. Please check the reference and try again.');
+				await interaction.reply({ embeds: [errorEmbed], flags: MessageFlags.Ephemeral });
 			}
 		}
 		catch (error) {
