@@ -1,8 +1,14 @@
 // Copyright (c) 2024 Jaden Zaleski
 // SPDX-License-Identifier: MIT
-// See LICENSE file for full license information.
+// See ..\..\bible\LICENSE file for full license information.
 
-const { SlashCommandBuilder, MessageFlags, EmbedBuilder } = require('discord.js');
+const {
+	SlashCommandBuilder,
+	MessageFlags,
+	EmbedBuilder,
+	ActionRowBuilder,
+	ButtonBuilder,
+	ButtonStyle } = require('discord.js');
 const emojis = require('../../config.json').emojis || {};
 const { fetchVerse } = require('../../bible/fetch_verse.js');
 
@@ -67,6 +73,8 @@ module.exports = {
 				)),
 	async execute(interaction) {
 		try {
+			await interaction.deferReply();
+
 			const reference = interaction.options.getString('verse');
 			const language = interaction.options.getString('language') || 'en';
 			const version = interaction.options.getString('version') || 'ESV';
@@ -75,24 +83,83 @@ module.exports = {
 			const result = await fetchVerse(reference, language, version);
 
 			if (result.content) {
+				const webView = new ButtonBuilder()
+					.setLabel('View on Bible Gateway')
+					.setURL(`https://www.biblegateway.com/passage/?search=${encodeURIComponent(result.reference.reference)}&version=${result.version}`)
+					.setStyle(ButtonStyle.Link);
+
 				const verseEmbed = new EmbedBuilder()
 					.setColor('#5c64f4')
 					.setTitle(`${emojis.bible} ${result.reference.reference} (${result.version})`)
 					.setDescription(`>>> ${result.content}`);
 
-				await interaction.reply({ embeds: [verseEmbed] });
+				const row = new ActionRowBuilder()
+					.addComponents(webView);
+
+				await interaction.editReply({
+					embeds: [verseEmbed],
+					components: [row],
+				});
 			}
 			else {
+				// If the verse was not found, send an error message
+				const createIssue = new ButtonBuilder()
+					.setLabel('Create Issue')
+					.setURL(
+						'https://github.com/mrfab7/bible-bot/issues/new?assignees=&labels=bug&template=bug_report.md'
+                        + '&title=Verse+Not+Found'
+                        + '&body=' + encodeURIComponent(result.error || 'Unknown error'),
+					)
+					.setStyle(ButtonStyle.Link);
+
+				const row = new ActionRowBuilder()
+					.addComponents(createIssue);
+
 				const errorEmbed = new EmbedBuilder()
 					.setColor('#fa6969')
 					.setTitle(`${emojis.filenotfound} Verse Not Found`)
-					.setDescription('>>> The verse you requested could not be found. Please check the reference and try again.');
-				await interaction.reply({ embeds: [errorEmbed], flags: MessageFlags.Ephemeral });
+					.setDescription(`>>> The verse you requested could not be found. Please check the reference and try again.\n\`\`\`${result.error || 'Unknown error'}\`\`\``)
+					.setFooter({ text: 'If you believe this is an error, please create an issue using the button below.' });
+
+				// Log the error to the console for debugging
+				console.error(result.error);
+
+				await interaction.editReply({
+					embeds: [errorEmbed],
+					components: [row],
+					flags: MessageFlags.Ephemeral,
+				});
 			}
 		}
 		catch (error) {
 			console.error('Error retrieving verse:', error);
-			await interaction.reply({ content: 'An error occurred while retrieving the verse. Please try again later.', flags: MessageFlags.Ephemeral });
+
+			const createIssue = new ButtonBuilder()
+				.setLabel('Create Issue')
+				.setURL(
+					'https://github.com/mrfab7/bible-bot/issues/new?assignees=&labels=bug&template=bug_report.md'
+                        + '&title=Verse+Not+Found'
+                        + '&body=' + encodeURIComponent('[verse.js/ERROR] An error occurred while retrieving the verse.' + '\n\n' + error || 'Unknown error'),
+				)
+				.setStyle(ButtonStyle.Link);
+
+			const row = new ActionRowBuilder()
+				.addComponents(createIssue);
+
+			const errorEmbed = new EmbedBuilder()
+				.setColor('#fa6969')
+				.setTitle(`${emojis.filenotfound} Verse Not Found`)
+				.setDescription(`>>> An error occured while retrieving the verse.\n\`\`\`${error}\`\`\``)
+				.setFooter({ text: 'If you believe this is an error, please create an issue using the button below.' });
+
+			// Log the error to the console for debugging
+			console.error(result.error);
+
+			await interaction.editReply({
+				embeds: [errorEmbed],
+				components: [row],
+				flags: MessageFlags.Ephemeral,
+			});
 		}
 	},
 };
