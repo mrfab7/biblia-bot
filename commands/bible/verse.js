@@ -18,11 +18,12 @@ const { fetchVerse } = require('../../bible/fetch_verse.js');
  * [x] Add error handling for invalid verse formats or API errors.
  * [-] Implement autocomplete for version selection to only show valid versions based on selected language or default language.
  * [-] Add more Bible languages.
- * [-] Allow for multiple verse retrievals in a single command (e.g. John 3:16-20).
- * [-] Send the verse in an embed.
+ * [x] Allow for multiple verse retrievals in a single command (e.g. John 3:16-20).
+ * [x] Send the verse in an embed.
  **/
 
 module.exports = {
+	category: 'bible',
 	data: new SlashCommandBuilder()
 		.setName('verse')
 		.setDescription('Retrieves a verse from the Bible.')
