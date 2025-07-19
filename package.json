@@ -12,7 +12,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node .",
+    "deploy": "node ./deploy-commands.js"
   },
   "dependencies": {
     "discord.js": "^14.19.3"
