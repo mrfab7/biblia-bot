@@ -2,6 +2,7 @@ const { SlashCommandBuilder, EmbedBuilder, MessageFlags } = require('discord.js'
 const emojis = require('../../config.json').emojis || {};
 
 module.exports = {
+	category: 'utility',
 	data: new SlashCommandBuilder()
 		.setName('ping')
 		.setDescription('Retrieves the bot\'s latency.'),
