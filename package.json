@@ -16,7 +16,10 @@
     "deploy": "node ./deploy-commands.js"
   },
   "dependencies": {
-    "discord.js": "^14.19.3"
+    "better-sqlite3": "^12.2.0",
+    "discord.js": "^14.21.0",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "@eslint/js": "^9.27.0",
