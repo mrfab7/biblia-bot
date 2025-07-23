@@ -3,7 +3,7 @@ const { Events, MessageFlags } = require('discord.js');
 module.exports = {
 	name: Events.InteractionCreate,
 	async execute(interaction) {
-		if (!interaction.isChatInputCommand()) return;
+		if (!interaction.isCommand() && !interaction.isAutocomplete()) return;
 
 		const command = interaction.client.commands.get(interaction.commandName);
 
@@ -13,7 +13,12 @@ module.exports = {
 		}
 
 		try {
-			await command.execute(interaction);
+			if (interaction.isAutocomplete()) {
+				await command.autocomplete(interaction);
+			}
+			else if (interaction.isCommand()) {
+				await command.execute(interaction);
+			}
 		}
 		catch (error) {
 			console.error(error);
