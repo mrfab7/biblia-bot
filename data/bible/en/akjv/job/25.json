@@ -1,0 +1,36 @@
+{
+  "info": {
+    "book": "Job",
+    "chapter": "25",
+    "translation": "American King James Version",
+    "translationID": "akjv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "Then answered Bildad the Shuhite, and said,",
+      "topic": ""
+    },
+    "2": {
+      "text": "Dominion and fear are with him, he makes peace in his high places.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Is there any number of his armies? and on whom does not his light arise?",
+      "topic": ""
+    },
+    "4": {
+      "text": "How then can man be justified with God? or how can he be clean that is born of a woman?",
+      "topic": ""
+    },
+    "5": {
+      "text": "Behold even to the moon, and it shines not; yes, the stars are not pure in his sight.",
+      "topic": ""
+    },
+    "6": {
+      "text": "How much less man, that is a worm? and the son of man, which is a worm?",
+      "topic": ""
+    }
+  }
+}

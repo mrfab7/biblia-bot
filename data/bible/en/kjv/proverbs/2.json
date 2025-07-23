@@ -1,0 +1,100 @@
+{
+  "info": {
+    "book": "Proverbs",
+    "chapter": "2",
+    "translation": "King James Bible",
+    "translationID": "kjv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "My son, if thou wilt receive my words, and hide my commandments with thee;",
+      "topic": ""
+    },
+    "2": {
+      "text": "So that thou incline thine ear unto wisdom, [and] apply thine heart to understanding;",
+      "topic": ""
+    },
+    "3": {
+      "text": "Yea, if thou criest after knowledge, [and] liftest up thy voice for understanding;",
+      "topic": ""
+    },
+    "4": {
+      "text": "If thou seekest her as silver, and searchest for her as [for] hid treasures;",
+      "topic": ""
+    },
+    "5": {
+      "text": "Then shalt thou understand the fear of the LORD, and find the knowledge of God.",
+      "topic": ""
+    },
+    "6": {
+      "text": "For the LORD giveth wisdom: out of his mouth [cometh] knowledge and understanding.",
+      "topic": ""
+    },
+    "7": {
+      "text": "He layeth up sound wisdom for the righteous: [he is] a buckler to them that walk uprightly.",
+      "topic": ""
+    },
+    "8": {
+      "text": "He keepeth the paths of judgment, and preserveth the way of his saints.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Then shalt thou understand righteousness, and judgment, and equity; [yea], every good path.",
+      "topic": ""
+    },
+    "10": {
+      "text": "When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;",
+      "topic": ""
+    },
+    "11": {
+      "text": "Discretion shall preserve thee, understanding shall keep thee:",
+      "topic": ""
+    },
+    "12": {
+      "text": "To deliver thee from the way of the evil [man], from the man that speaketh froward things;",
+      "topic": ""
+    },
+    "13": {
+      "text": "Who leave the paths of uprightness, to walk in the ways of darkness;",
+      "topic": ""
+    },
+    "14": {
+      "text": "Who rejoice to do evil, [and] delight in the frowardness of the wicked;",
+      "topic": ""
+    },
+    "15": {
+      "text": "Whose ways [are] crooked, and [they] froward in their paths:",
+      "topic": ""
+    },
+    "16": {
+      "text": "To deliver thee from the strange woman, [even] from the stranger [which] flattereth with her words;",
+      "topic": ""
+    },
+    "17": {
+      "text": "Which forsaketh the guide of her youth, and forgetteth the covenant of her God.",
+      "topic": ""
+    },
+    "18": {
+      "text": "For her house inclineth unto death, and her paths unto the dead.",
+      "topic": ""
+    },
+    "19": {
+      "text": "None that go unto her return again, neither take they hold of the paths of life.",
+      "topic": ""
+    },
+    "20": {
+      "text": "That thou mayest walk in the way of good [men], and keep the paths of the righteous.",
+      "topic": ""
+    },
+    "21": {
+      "text": "For the upright shall dwell in the land, and the perfect shall remain in it.",
+      "topic": ""
+    },
+    "22": {
+      "text": "But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.",
+      "topic": ""
+    }
+  }
+}

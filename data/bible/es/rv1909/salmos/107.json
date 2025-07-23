@@ -1,0 +1,184 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "107",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Alabad a Jehová, porque [Él es] bueno; porque para siempre [es] su misericordia.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Díganlo los redimidos de Jehová, los que ha redimido del poder del enemigo,",
+      "topic": ""
+    },
+    "3": {
+      "text": "y los ha congregado de las tierras; del oriente y del occidente, del norte y del sur.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Anduvieron perdidos por el desierto, por la soledad sin camino, sin hallar ciudad en donde morar.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Hambrientos y sedientos, su alma desfallecía en ellos.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Pero clamaron a Jehová en su angustia, y Él los libró de sus aflicciones;",
+      "topic": ""
+    },
+    "7": {
+      "text": "y los dirigió por camino derecho, para que viniesen a una ciudad en la cual morar.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Alaben la misericordia de Jehová, y sus maravillas para con los hijos de los hombres.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Porque Él sacia al alma sedienta, y llena de bien al alma hambrienta.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Los que moraban en tinieblas y sombra de muerte, aprisionados en aflicción y en hierros;",
+      "topic": ""
+    },
+    "11": {
+      "text": "Por cuanto fueron rebeldes a las palabras de Jehová, y aborrecieron el consejo del Altísimo.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Por lo que quebrantó con trabajo sus corazones, cayeron y no hubo quien les ayudase;",
+      "topic": ""
+    },
+    "13": {
+      "text": "entonces clamaron a Jehová en su angustia, y Él los libró de sus aflicciones.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Los sacó de las tinieblas y de la sombra de muerte, y rompió sus prisiones.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Alaben la misericordia de Jehová, y sus maravillas para con los hijos de los hombres.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Porque quebrantó las puertas de bronce, y desmenuzó los cerrojos de hierro.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Los insensatos, a causa del camino de su rebelión y a causa de sus maldades, fueron afligidos.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Su alma abominó todo alimento, y llegaron hasta las puertas de la muerte.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Pero clamaron a Jehová en su angustia, y Él los libró de sus aflicciones.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Envió su palabra, y los sanó, y los libró de su ruina.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Alaben la misericordia de Jehová, y sus maravillas para con los hijos de los hombres;",
+      "topic": ""
+    },
+    "22": {
+      "text": "y ofrezcan sacrificios de acción de gracias, y publiquen sus obras con júbilo.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Los que descienden al mar en navíos, y hacen negocio en las muchas aguas,",
+      "topic": ""
+    },
+    "24": {
+      "text": "ellos han visto las obras de Jehová, y sus maravillas en las profundidades.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Porque Él habló, e hizo levantar el viento tempestuoso, que encrespa las olas.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Suben a los cielos, descienden a los abismos; sus almas se derriten con el mal.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Tiemblan y titubean como borrachos, y toda su destreza es inútil.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Entonces claman a Jehová en su angustia, y Él los libra de sus aflicciones.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Él cambia la tormenta en calma, y se apaciguan sus olas.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Se alegran luego porque se aquietaron; y así Él los guía al puerto anhelado.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Alaben la misericordia de Jehová, y sus maravillas para con los hijos de los hombres.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Exáltenlo en la congregación del pueblo; y alábenlo en la reunión de los ancianos.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Él convierte los ríos en desierto, y los manantiales en sequedales;",
+      "topic": ""
+    },
+    "34": {
+      "text": "la tierra fructífera en yermo, por la maldad de los que la habitan.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Vuelve el desierto en estanques de aguas, y la tierra seca en manantiales.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Y hace que allí habiten los hambrientos, para que dispongan ciudad donde morar;",
+      "topic": ""
+    },
+    "37": {
+      "text": "y siembran campos, y plantan viñas, y rinden abundante fruto.",
+      "topic": ""
+    },
+    "38": {
+      "text": "Y los bendice, y se multiplican en gran manera; y no disminuye su ganado.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Y luego son menoscabados y abatidos a causa de tiranía, de males y congojas.",
+      "topic": ""
+    },
+    "40": {
+      "text": "Él derrama menosprecio sobre los príncipes, y les hace andar errantes, vagabundos y sin camino:",
+      "topic": ""
+    },
+    "41": {
+      "text": "Él levanta de la miseria al pobre, y hace multiplicar las familias como rebaños de ovejas.",
+      "topic": ""
+    },
+    "42": {
+      "text": "Véanlo los rectos, y alégrense; y toda maldad cierre su boca.",
+      "topic": ""
+    },
+    "43": {
+      "text": "¿Quién es sabio y guardará estas cosas, y entenderá las misericordias de Jehová?",
+      "topic": ""
+    }
+  }
+}

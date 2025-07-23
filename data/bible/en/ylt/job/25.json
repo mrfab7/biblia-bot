@@ -1,0 +1,36 @@
+{
+  "info": {
+    "book": "Job",
+    "chapter": "25",
+    "translation": "Young's Literal Translation",
+    "translationID": "ylt",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "And Bildad the Shuhite answereth and saith:—",
+      "topic": ""
+    },
+    "2": {
+      "text": "The rule and fear are with Him, Making peace in His high places.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Is their any number to His troops? And on whom ariseth not His light?",
+      "topic": ""
+    },
+    "4": {
+      "text": "And what? is man righteous with God? And what? is he pure—born of a woman?",
+      "topic": ""
+    },
+    "5": {
+      "text": "Lo—unto the moon, and it shineth not, And stars have not been pure in His eyes.",
+      "topic": ""
+    },
+    "6": {
+      "text": "How much less man—a grub, And the son of man—a worm!",
+      "topic": ""
+    }
+  }
+}

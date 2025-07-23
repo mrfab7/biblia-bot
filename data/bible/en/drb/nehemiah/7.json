@@ -1,0 +1,304 @@
+{
+  "info": {
+    "book": "Nehemiah",
+    "chapter": "7",
+    "translation": "Douay-Rheims Bible",
+    "translationID": "drb",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "Now after the wall was built, and I had set up the doors, and numbered the porters and singing men, and Levites:",
+      "topic": ""
+    },
+    "2": {
+      "text": "I commanded Hanani my brother, and Hananias ruler of the house of Jerusalem, (for he seemed as a sincere man, and one that feared God above the rest,)",
+      "topic": ""
+    },
+    "3": {
+      "text": "And I said to them: Let not the gates of Jerusalem be opened till the sun be hot. And while they were yet standing by, the gates were shut, and barred: and I set watchmen of the inhabitants of Jerusalem, every one by their courses, and every man over against his house.",
+      "topic": ""
+    },
+    "4": {
+      "text": "And the city was very wide and great, and the people few in the midst thereof, and the houses were not built.",
+      "topic": ""
+    },
+    "5": {
+      "text": "But God had put in my heart, and I assembled the princes and magistrates, and common people, to number them: and I found a book of the number of them who came up at first, and therein it was found written:",
+      "topic": ""
+    },
+    "6": {
+      "text": "These are the children of the province, who came up from the captivity of them that had been carried away, whom Nabuchodonosor the king of Babylon had carried away, and who returned into Judea, every one into his own city.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Who came with Zorobabel, Josue, Nehemias, Azarias, Raamias, Nahamani, Mardochai, Belsam, Mespharath, Begoia, Nahum, Baana. The number of the men of the people of Israel:",
+      "topic": ""
+    },
+    "8": {
+      "text": "The children of Pharos, two thousand one hundred seventy-two.",
+      "topic": ""
+    },
+    "9": {
+      "text": "The children of Sephatia, three hundred seventy-two.",
+      "topic": ""
+    },
+    "10": {
+      "text": "The children of Area, six hundred fifty-two.",
+      "topic": ""
+    },
+    "11": {
+      "text": "The children of Phahath Moab of the children of Josue and Joab, two thousand eight hundred eighteen.",
+      "topic": ""
+    },
+    "12": {
+      "text": "The children of Elam, one thousand two hundred fifty-four.",
+      "topic": ""
+    },
+    "13": {
+      "text": "The children of Zethua, eight hundred forty-five.",
+      "topic": ""
+    },
+    "14": {
+      "text": "The children of Zachai, seven hundred sixty.",
+      "topic": ""
+    },
+    "15": {
+      "text": "The children of Bannui, six hundred forty-eight.",
+      "topic": ""
+    },
+    "16": {
+      "text": "The children of Bebai, six hundred twenty-eight.",
+      "topic": ""
+    },
+    "17": {
+      "text": "The children of Azgad, two thousand three hundred twenty-two.",
+      "topic": ""
+    },
+    "18": {
+      "text": "The children of Adonicam, six hundred sixty-seven.",
+      "topic": ""
+    },
+    "19": {
+      "text": "The children of Beguai, two thousand sixty-seven.",
+      "topic": ""
+    },
+    "20": {
+      "text": "The children of Adin, six hundred fifty-five.",
+      "topic": ""
+    },
+    "21": {
+      "text": "The children of Ater, children of Hezechias, ninety-eight.",
+      "topic": ""
+    },
+    "22": {
+      "text": "The children of Hasem, three hundred twenty-eight.",
+      "topic": ""
+    },
+    "23": {
+      "text": "The children of Besai, three hundred twenty-four.",
+      "topic": ""
+    },
+    "24": {
+      "text": "The children of Hareph, a hundred and twelve.",
+      "topic": ""
+    },
+    "25": {
+      "text": "The children of Gabaon, ninety-five.",
+      "topic": ""
+    },
+    "26": {
+      "text": "The children of Bethlehem, and Netupha, a hundred eighty-eight.",
+      "topic": ""
+    },
+    "27": {
+      "text": "The men of Anathoth, a hundred twenty-eight.",
+      "topic": ""
+    },
+    "28": {
+      "text": "The men of Bethazmoth, forty-two.",
+      "topic": ""
+    },
+    "29": {
+      "text": "The men of Cariathiarim, Cephira, end Beroth, seven hundred forty-three.",
+      "topic": ""
+    },
+    "30": {
+      "text": "The men of Rama and Geba, six hundred twenty-one.",
+      "topic": ""
+    },
+    "31": {
+      "text": "The men of Machmas, a hundred twenty-two.",
+      "topic": ""
+    },
+    "32": {
+      "text": "The men of Bethel and Hai, a hundred twenty-three.",
+      "topic": ""
+    },
+    "33": {
+      "text": "The men of the other Nebo, fifty-two.",
+      "topic": ""
+    },
+    "34": {
+      "text": "The men of the other Elam, one thousand two hundred fifty-four.",
+      "topic": ""
+    },
+    "35": {
+      "text": "The children of Harem, three hundred and twenty.",
+      "topic": ""
+    },
+    "36": {
+      "text": "The children of Jericho, three hundred forty-Ave.",
+      "topic": ""
+    },
+    "37": {
+      "text": "The children of Led, of Hadid and One, seven hundred twenty-one.",
+      "topic": ""
+    },
+    "38": {
+      "text": "The children of Senaa, three thousand nine hundred thirty.",
+      "topic": ""
+    },
+    "39": {
+      "text": "The priests: the children of Idaia in the house of Josue, nine hundred and seventy-three.",
+      "topic": ""
+    },
+    "40": {
+      "text": "The children of Emmer, one thousand fifty-two.",
+      "topic": ""
+    },
+    "41": {
+      "text": "41The children of Phashur, one thousand two hundred forty-seven.",
+      "topic": ""
+    },
+    "42": {
+      "text": "The children of Arem, one thousand and seventeen. The Levites:",
+      "topic": ""
+    },
+    "43": {
+      "text": "The children of Josue and Cedmihel, the sons",
+      "topic": ""
+    },
+    "44": {
+      "text": "Of Oduia, seventy-four. The singing men:",
+      "topic": ""
+    },
+    "45": {
+      "text": "The children of Asaph, a hundred forty-eight.",
+      "topic": ""
+    },
+    "46": {
+      "text": "The porters: the children of Sellum, the children of Ater, the children of Telmon, the children of Accub, the children of Hatita, the children of Sobai: a hundred thirty-eight.",
+      "topic": ""
+    },
+    "47": {
+      "text": "The Nathinites: the children of Soha, the children of Hasupha, the children of Tebbaoth,",
+      "topic": ""
+    },
+    "48": {
+      "text": "The children of Ceros, the children of Siaa, the children of Phadon, the children of Lebana, the children of Hagaba, the children of Selmai,",
+      "topic": ""
+    },
+    "49": {
+      "text": "The children of Hanan, the children of Geddel, the children of Gaher,",
+      "topic": ""
+    },
+    "50": {
+      "text": "The children of Raaia, the children of Rasin, the children of Necoda,",
+      "topic": ""
+    },
+    "51": {
+      "text": "The children of Gezem, the children of Asa, the children of Phasea,",
+      "topic": ""
+    },
+    "52": {
+      "text": "The children of Besai, the children of Munim, the children of Nephussim,",
+      "topic": ""
+    },
+    "53": {
+      "text": "The children of Bacbuc, the children of Hacupha, the children of Harhur,",
+      "topic": ""
+    },
+    "54": {
+      "text": "The children of Besloth, the children of Mahida, the children of Harsa,",
+      "topic": ""
+    },
+    "55": {
+      "text": "The children of Bercos, the children of Sisara, the children of Thema,",
+      "topic": ""
+    },
+    "56": {
+      "text": "The children of Nasia, the children of Hatipha,",
+      "topic": ""
+    },
+    "57": {
+      "text": "The children of the servants of Solomon, the children of Sothai, the children of Sophereth, the children of Pharida,",
+      "topic": ""
+    },
+    "58": {
+      "text": "The children of Jahala, the children of Darcon, the children of Jeddel,",
+      "topic": ""
+    },
+    "59": {
+      "text": "The children of Saphatia, the children of Hatil, the children of Phochereth, who was born of Sabaim, the son of Amon.",
+      "topic": ""
+    },
+    "60": {
+      "text": "All the Nathinites, and the children of the servants of Solomon, three hundred ninety-two.",
+      "topic": ""
+    },
+    "61": {
+      "text": "And these are they that came up from Telmela, Thelharsa, Cherub, Addon, and Emmer: and could not shew the house of their fathers, nor their seed, whether they were of Israel.",
+      "topic": ""
+    },
+    "62": {
+      "text": "The children of Dalaia, the children of Tobia, the children of Necoda, six hundred forty-two.",
+      "topic": ""
+    },
+    "63": {
+      "text": "And of the priests, the children of Habia, the children of Accos, the children of Berzellai, who took a wife of the daughters of Berzellai the Galaadite, and he was called by their name.",
+      "topic": ""
+    },
+    "64": {
+      "text": "These sought their writing in the re- cord, and found it not: and they were cast out of the priesthood.",
+      "topic": ""
+    },
+    "65": {
+      "text": "And Athersatha said to them, that they should not eat of the holies of holies, until there stood up a priest learned and skilful.",
+      "topic": ""
+    },
+    "66": {
+      "text": "All the multitude as it were one man, forty-two thousand three hundred sixty,",
+      "topic": ""
+    },
+    "67": {
+      "text": "Beside their menservants and womenservants, who were seven thousand three hundred thirty-seven: and among them singing men, and singing women, two hundred forty-five.",
+      "topic": ""
+    },
+    "68": {
+      "text": "Their horses, seven hundred thirty- six: their mules two hundred forty-five:",
+      "topic": ""
+    },
+    "69": {
+      "text": "Their camels, four hundred thirty- five, their asses, six thousand seven hundred and twenty.",
+      "topic": ""
+    },
+    "70": {
+      "text": "And some of the heads of the families gave unto the work. Athersatha gave into the treasure a thousand drama of gold, fifty bowls, and five hundred and thirty garments for priests.",
+      "topic": ""
+    },
+    "71": {
+      "text": "And some of the heads of families gave to the treasure of the work, twenty thousand drama of gold, and two thousand two hundred pounds of silver.",
+      "topic": ""
+    },
+    "72": {
+      "text": "And that which the rest of the people gave, was twenty thousand drama of gold, and two thousand pounds of silver, and sixty-seven garments for priests.",
+      "topic": ""
+    },
+    "73": {
+      "text": "And the priests, and the Levites, and the porters, and the singing men, and the rest of the common people, and the Nathinites, and all Israel dwelt in their cities.",
+      "topic": ""
+    }
+  }
+}

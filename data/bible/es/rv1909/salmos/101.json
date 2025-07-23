@@ -1,0 +1,44 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "101",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "«Salmo de David» Misericordia y juicio cantaré; a ti cantaré yo, oh Jehová.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Me conduciré con sabiduría en el camino de la perfección cuando vengas a mí. En integridad de mi corazón andaré en medio de mi casa.",
+      "topic": ""
+    },
+    "3": {
+      "text": "No pondré delante de mis ojos cosa inicua; aborrezco la obra de los que se desvían; no se acercarán a mí.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Corazón perverso se apartará de mí; no conoceré al malvado.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Al que solapadamente infama a su prójimo, yo lo cortaré; no sufriré al de ojos altaneros, y de corazón vanidoso.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Mis ojos [pondré] en los fieles de la tierra, para que estén conmigo; el que anduviere en el camino de la perfección, éste me servirá.",
+      "topic": ""
+    },
+    "7": {
+      "text": "No habitará dentro de mi casa el que hace fraude; el que habla mentiras no se afirmará delante de mis ojos.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Por las mañanas cortaré a todos los impíos de la tierra; para extirpar de la ciudad de Jehová a todos los que hacen iniquidad.",
+      "topic": ""
+    }
+  }
+}

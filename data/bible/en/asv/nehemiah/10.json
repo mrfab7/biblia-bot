@@ -1,0 +1,168 @@
+{
+  "info": {
+    "book": "Nehemiah",
+    "chapter": "10",
+    "translation": "American Standard Version",
+    "translationID": "asv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "Now those that sealed were: Nehemiah the governor, the son of Hacaliah, and Zedekiah,",
+      "topic": ""
+    },
+    "2": {
+      "text": "Seraiah, Azariah, Jeremiah,",
+      "topic": ""
+    },
+    "3": {
+      "text": "Pashhur, Amariah, Malchijah,",
+      "topic": ""
+    },
+    "4": {
+      "text": "Hattush, Shebaniah, Malluch,",
+      "topic": ""
+    },
+    "5": {
+      "text": "Harim, Meremoth, Obadiah,",
+      "topic": ""
+    },
+    "6": {
+      "text": "Daniel, Ginnethon, Baruch,",
+      "topic": ""
+    },
+    "7": {
+      "text": "Meshullam, Abijah, Mijamin,",
+      "topic": ""
+    },
+    "8": {
+      "text": "Maaziah, Bilgai, Shemaiah; these were the priests.",
+      "topic": ""
+    },
+    "9": {
+      "text": "And the Levites: namely, Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;",
+      "topic": ""
+    },
+    "10": {
+      "text": "and their brethren, Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,",
+      "topic": ""
+    },
+    "11": {
+      "text": "Mica, Rehob, Hashabiah,",
+      "topic": ""
+    },
+    "12": {
+      "text": "Zaccur, Sherebiah, Shebaniah,",
+      "topic": ""
+    },
+    "13": {
+      "text": "Hodiah, Bani, Beninu.",
+      "topic": ""
+    },
+    "14": {
+      "text": "The chiefs of the people: Parosh, Pahath-moab, Elam, Zattu, Bani,",
+      "topic": ""
+    },
+    "15": {
+      "text": "Bunni, Azgad, Bebai,",
+      "topic": ""
+    },
+    "16": {
+      "text": "Adonijah, Bigvai, Adin,",
+      "topic": ""
+    },
+    "17": {
+      "text": "Ater, Hezekiah, Azzur,",
+      "topic": ""
+    },
+    "18": {
+      "text": "Hodiah, Hashum, Bezai,",
+      "topic": ""
+    },
+    "19": {
+      "text": "Hariph, Anathoth, Nobai,",
+      "topic": ""
+    },
+    "20": {
+      "text": "Magpiash, Meshullam, Hezir,",
+      "topic": ""
+    },
+    "21": {
+      "text": "Meshezabel, Zadok, Jaddua,",
+      "topic": ""
+    },
+    "22": {
+      "text": "Pelatiah, Hanan, Anaiah,",
+      "topic": ""
+    },
+    "23": {
+      "text": "Hoshea, Hananiah, Hasshub,",
+      "topic": ""
+    },
+    "24": {
+      "text": "Hallohesh, Pilha, Shobek,",
+      "topic": ""
+    },
+    "25": {
+      "text": "Rehum, Hashabnah, Maaseiah,",
+      "topic": ""
+    },
+    "26": {
+      "text": "and Ahiah, Hanan, Anan,",
+      "topic": ""
+    },
+    "27": {
+      "text": "Malluch, Harim, Baanah.",
+      "topic": ""
+    },
+    "28": {
+      "text": "And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinim, and all they that had separated themselves from the peoples of the lands unto the law of God, their wives, their sons, and their daughters, every one that had knowledge, and understanding;",
+      "topic": ""
+    },
+    "29": {
+      "text": "they clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of Jehovah our Lord, and his ordinances and his statutes;",
+      "topic": ""
+    },
+    "30": {
+      "text": "and that we would not give our daughters unto the peoples of the land, nor take their daughters for our sons;",
+      "topic": ""
+    },
+    "31": {
+      "text": "and if the peoples of the land bring wares or any grain on the sabbath day to sell, that we would not buy of them on the sabbath, or on a holy day; and that we would forego the seventh year, and the exaction of every debt.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;",
+      "topic": ""
+    },
+    "33": {
+      "text": "for the showbread, and for the continual meal-offering, and for the continual burnt-offering, for the sabbaths, for the new moons, for the set feasts, and for the holy things, and for the sin-offerings to make atonement for Israel, and for all the work of the house of our God.",
+      "topic": ""
+    },
+    "34": {
+      "text": "And we cast lots, the priests, the Levites, and the people, for the wood-offering, to bring it into the house of our God, according to our fathers’ houses, at times appointed, year by year, to burn upon the altar of Jehovah our God, as it is written in the law;",
+      "topic": ""
+    },
+    "35": {
+      "text": "and to bring the first-fruits of our ground, and the first-fruits of all fruit of all manner of trees, year by year, unto the house of Jehovah;",
+      "topic": ""
+    },
+    "36": {
+      "text": "also the first-born of our sons, and of our cattle, as it is written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God;",
+      "topic": ""
+    },
+    "37": {
+      "text": "and that we should bring the first-fruits of our dough, and our heave-offerings, and the fruit of all manner of trees, the new wine and the oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites; for they, the Levites, take the tithes in all the cities of our tillage.",
+      "topic": ""
+    },
+    "38": {
+      "text": "And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure-house.",
+      "topic": ""
+    },
+    "39": {
+      "text": "For the children of Israel and the children of Levi shall bring the heave-offering of the grain, of the new wine, and of the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.",
+      "topic": ""
+    }
+  }
+}

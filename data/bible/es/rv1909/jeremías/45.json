@@ -1,0 +1,32 @@
+{
+  "info": {
+    "book": "Jeremías",
+    "chapter": "45",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Palabra que habló el profeta Jeremías a Baruc, hijo de Nerías, cuando escribía en el libro estas palabras de boca de Jeremías, en el año cuarto de Joacim, hijo de Josías, rey de Judá, diciendo:",
+      "topic": ""
+    },
+    "2": {
+      "text": "Así dice Jehová, Dios de Israel, a ti, oh Baruc:",
+      "topic": ""
+    },
+    "3": {
+      "text": "Tú dijiste: ¡Ay de mí ahora! Porque Jehová ha añadido tristeza a mi dolor; fatigado estoy de mi gemir y no hallo descanso.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Así le dirás: Así dice Jehová: He aquí que yo destruyo lo que edifiqué, y arranco lo que planté, y toda esta tierra.",
+      "topic": ""
+    },
+    "5": {
+      "text": "¿Y tú buscas para ti grandes cosas? No las busques; porque he aquí que yo traigo mal sobre toda carne, dice Jehová, y a ti te daré tu vida por despojo en todos los lugares adonde vayas.",
+      "topic": ""
+    }
+  }
+}

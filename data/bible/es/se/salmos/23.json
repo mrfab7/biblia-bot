@@ -1,0 +1,36 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "23",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Salmo de David. El SEÑOR es mi pastor; no desfalleceré.",
+      "topic": ""
+    },
+    "2": {
+      "text": "En lugares de delicados pastos me hará yacer; junto a aguas de reposo me pastoreará.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Convertirá mi alma; me guiará por sendas de justicia por su nombre.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Aunque ande en valle de sombra de muerte, no temeré mal alguno ; porque tú estarás conmigo; tu vara y tu cayado me confortarán.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Aderezarás mesa delante de mí, en presencia de mis angustiadores; ungiste mi cabeza con aceite; mi copa está rebosando.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida; y en la Casa del SEÑOR reposaré para siempre.",
+      "topic": ""
+    }
+  }
+}

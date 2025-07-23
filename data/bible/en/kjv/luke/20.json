@@ -1,0 +1,200 @@
+{
+  "info": {
+    "book": "Luke",
+    "chapter": "20",
+    "translation": "King James Bible",
+    "translationID": "kjv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "And it came to pass, [that] on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon [him] with the elders,",
+      "topic": ""
+    },
+    "2": {
+      "text": "And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?",
+      "topic": ""
+    },
+    "3": {
+      "text": "And he answered and said unto them, I will also ask you one thing; and answer me:",
+      "topic": ""
+    },
+    "4": {
+      "text": "The baptism of John, was it from heaven, or of men?",
+      "topic": ""
+    },
+    "5": {
+      "text": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?",
+      "topic": ""
+    },
+    "6": {
+      "text": "But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet.",
+      "topic": ""
+    },
+    "7": {
+      "text": "And they answered, that they could not tell whence [it was].",
+      "topic": ""
+    },
+    "8": {
+      "text": "And Jesus said unto them, Neither tell I you by what authority I do these things.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.",
+      "topic": ""
+    },
+    "10": {
+      "text": "And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent [him] away empty.",
+      "topic": ""
+    },
+    "11": {
+      "text": "And again he sent another servant: and they beat him also, and entreated [him] shamefully, and sent [him] away empty.",
+      "topic": ""
+    },
+    "12": {
+      "text": "And again he sent a third: and they wounded him also, and cast [him] out.",
+      "topic": ""
+    },
+    "13": {
+      "text": "Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence [him] when they see him.",
+      "topic": ""
+    },
+    "14": {
+      "text": "But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir: come, let us kill him, that the inheritance may be ours.",
+      "topic": ""
+    },
+    "15": {
+      "text": "So they cast him out of the vineyard, and killed [him]. What therefore shall the lord of the vineyard do unto them?",
+      "topic": ""
+    },
+    "16": {
+      "text": "He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard [it], they said, God forbid.",
+      "topic": ""
+    },
+    "17": {
+      "text": "And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?",
+      "topic": ""
+    },
+    "18": {
+      "text": "Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.",
+      "topic": ""
+    },
+    "19": {
+      "text": "And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.",
+      "topic": ""
+    },
+    "20": {
+      "text": "And they watched [him], and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.",
+      "topic": ""
+    },
+    "21": {
+      "text": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person [of any], but teachest the way of God truly:",
+      "topic": ""
+    },
+    "22": {
+      "text": "Is it lawful for us to give tribute unto Caesar, or no?",
+      "topic": ""
+    },
+    "23": {
+      "text": "But he perceived their craftiness, and said unto them, Why tempt ye me?",
+      "topic": ""
+    },
+    "24": {
+      "text": "Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar’s.",
+      "topic": ""
+    },
+    "25": {
+      "text": "And he said unto them, Render therefore unto Caesar the things which be Caesar’s, and unto God the things which be God’s.",
+      "topic": ""
+    },
+    "26": {
+      "text": "And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Then came to [him] certain of the Sadducees, which deny that there is any resurrection; and they asked him,",
+      "topic": ""
+    },
+    "28": {
+      "text": "Saying, Master, Moses wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother.",
+      "topic": ""
+    },
+    "29": {
+      "text": "There were therefore seven brethren: and the first took a wife, and died without children.",
+      "topic": ""
+    },
+    "30": {
+      "text": "And the second took her to wife, and he died childless.",
+      "topic": ""
+    },
+    "31": {
+      "text": "And the third took her; and in like manner the seven also: and they left no children, and died.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Last of all the woman died also.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Therefore in the resurrection whose wife of them is she? for seven had her to wife.",
+      "topic": ""
+    },
+    "34": {
+      "text": "And Jesus answering said unto them, The children of this world marry, and are given in marriage:",
+      "topic": ""
+    },
+    "35": {
+      "text": "But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:",
+      "topic": ""
+    },
+    "36": {
+      "text": "Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.",
+      "topic": ""
+    },
+    "37": {
+      "text": "Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.",
+      "topic": ""
+    },
+    "38": {
+      "text": "For he is not a God of the dead, but of the living: for all live unto him.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Then certain of the scribes answering said, Master, thou hast well said.",
+      "topic": ""
+    },
+    "40": {
+      "text": "And after that they durst not ask him any [question at all].",
+      "topic": ""
+    },
+    "41": {
+      "text": "And he said unto them, How say they that Christ is David’s son?",
+      "topic": ""
+    },
+    "42": {
+      "text": "And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand,",
+      "topic": ""
+    },
+    "43": {
+      "text": "Till I make thine enemies thy footstool.",
+      "topic": ""
+    },
+    "44": {
+      "text": "David therefore calleth him Lord, how is he then his son?",
+      "topic": ""
+    },
+    "45": {
+      "text": "Then in the audience of all the people he said unto his disciples,",
+      "topic": ""
+    },
+    "46": {
+      "text": "Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;",
+      "topic": ""
+    },
+    "47": {
+      "text": "Which devour widows’ houses, and for a shew make long prayers: the same shall receive greater damnation.",
+      "topic": ""
+    }
+  }
+}

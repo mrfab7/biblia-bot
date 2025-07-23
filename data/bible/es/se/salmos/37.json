@@ -1,0 +1,172 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "37",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ De David. Alef No te enojes con los malignos, ni tengas envidia de los que hacen iniquidad.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Porque como hierba serán presto cortados, y decaerán como verdor de renuevo.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Bet Espera en el SEÑOR, y haz bien; vive en la tierra, y manten la verdad.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Pon asimismo tu delicia en el SEÑOR, y él te dará las peticiones de tu corazón.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Guímel Vuelve hacia el SEÑOR tu camino; y espera en él; y él hará.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Y exhibirá tu justicia como la luz, y tu rectitud como el mediodía.",
+      "topic": ""
+    },
+    "7": {
+      "text": "¶ Dálet Calla ante el SEÑOR, y espera en él; no te enojes con el que prospera en su camino, con el hombre que hace maldades.",
+      "topic": ""
+    },
+    "8": {
+      "text": "He Déjate de la ira, y depón el enojo; no te enojes en manera alguna para hacerte malo.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Porque los malignos serán talados, mas los que esperan al SEÑOR, ellos heredarán la tierra.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Vau Pues de aquí a poco no estará el malo; y contemplarás sobre su lugar, y no aparecerá.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Pero los mansos heredarán la tierra, y se recrearán con la multitud de la paz.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Zain Piensa el impío contra el justo, y cruje sobre él sus dientes.",
+      "topic": ""
+    },
+    "13": {
+      "text": "El Señor se reirá de él; porque ve que viene su día.",
+      "topic": ""
+    },
+    "14": {
+      "text": "He Los impíos desenvainaron espada, y entesaron su arco, para arruinar al pobre y al menesteroso; para degollar a los de recto proceder.",
+      "topic": ""
+    },
+    "15": {
+      "text": "La espada de ellos entrará en su mismo corazón, y su arco será quebrado.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Tet Mejor es lo poco del justo, que las muchas riquezas de los pecadores.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Porque los brazos de los impíos serán quebrados; mas el que sustenta a los justos es el SEÑOR.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Yod Conoce el SEÑOR los días de los perfectos; y su heredad será para siempre.",
+      "topic": ""
+    },
+    "19": {
+      "text": "No serán avergonzados en el mal tiempo; y en los días de hambre serán saciados.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Caf Porque los impíos perecerán, y los enemigos del SEÑOR como los más gordos de los carneros serán consumidos; se disiparán como humo.",
+      "topic": ""
+    },
+    "21": {
+      "text": "¶ Lámed El impío toma prestado, y no paga; mas el justo tiene misericordia, y da.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Porque los benditos de él heredarán la tierra; y los malditos de él serán talados.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Mem Por el SEÑOR son ordenados los pasos del hombre bueno , y él quiere su camino.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Cuando cayere, no será postrado; porque el SEÑOR sustenta su mano.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Nun Joven fui, y he envejecido, y no he visto justo desamparado, ni su simiente que mendigue pan.",
+      "topic": ""
+    },
+    "26": {
+      "text": "En todo tiempo tiene misericordia, y presta; y su simiente es para bendición.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Sámec Apártate del mal, y haz el bien, y vivirás para siempre.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Porque el SEÑOR ama la rectitud, y no desamparará a sus misericordiosos, para siempre serán guardados; mas la simiente de los impíos será talada.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Ayin Los justos heredarán la tierra, y vivirán para siempre sobre ella.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Pe La boca del justo hablará sabiduría; y su lengua proferirá juicio.",
+      "topic": ""
+    },
+    "31": {
+      "text": "La ley de su Dios está en su corazón; por tanto sus pasos no vacilarán.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Tsade Acecha el impío al justo, y procura matarlo.",
+      "topic": ""
+    },
+    "33": {
+      "text": "El SEÑOR no lo dejará en sus manos, ni lo condenará cuando le juzgaren.",
+      "topic": ""
+    },
+    "34": {
+      "text": "¶ Cof Espera al SEÑOR, y guarda su camino, y él te ensalzará para heredar la tierra; cuando los pecadores serán talados, lo verás.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Resh Yo vi al impío robusto, y reverdeciendo como un laurel verde.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Pero pasó, y he aquí no aparece; lo busqué, y no fue hallado.",
+      "topic": ""
+    },
+    "37": {
+      "text": "Sin Considera al perfecto, y mira al recto; que la postrimería de cada uno de ellos es paz.",
+      "topic": ""
+    },
+    "38": {
+      "text": "Mas los rebeldes fueron todos destruidos; la postrimería de los impíos fue talada.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Tau Pero la salud de los justos es el SEÑOR, y él es su fortaleza en el tiempo de la angustia.",
+      "topic": ""
+    },
+    "40": {
+      "text": "Y el SEÑOR los ayudó, y los libera, y los libertará de los impíos; y los salvará, por cuanto esperaron en él.",
+      "topic": ""
+    }
+  }
+}

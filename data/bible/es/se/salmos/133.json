@@ -1,0 +1,24 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "133",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Canción de las gradas: de David. ¡Mirad cuán bueno y cuán suave es habitar los hermanos igualmente en uno!",
+      "topic": ""
+    },
+    "2": {
+      "text": "Es como el buen óleo sobre la cabeza, el cual desciende sobre la barba, la barba de Aarón, que desciende sobre el borde de sus vestiduras;",
+      "topic": ""
+    },
+    "3": {
+      "text": "como el rocío de Hermón, que desciende sobre los montes de Sion. Porque allí envía el SEÑOR bendición, y vida eterna.",
+      "topic": ""
+    }
+  }
+}

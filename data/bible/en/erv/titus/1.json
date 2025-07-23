@@ -1,0 +1,76 @@
+{
+  "info": {
+    "book": "Titus",
+    "chapter": "1",
+    "translation": "English Revised Version",
+    "translationID": "erv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the knowledge of the truth which is according to godliness,",
+      "topic": ""
+    },
+    "2": {
+      "text": "in hope of eternal life, which God, who cannot lie, promised before times eternal;",
+      "topic": ""
+    },
+    "3": {
+      "text": "but in his own seasons manifested his word in the message, wherewith I was intrusted according to the commandment of God our Saviour;",
+      "topic": ""
+    },
+    "4": {
+      "text": "to Titus, my true child after a common faith: Grace and peace from God the Father and Christ Jesus our Saviour.",
+      "topic": ""
+    },
+    "5": {
+      "text": "For this cause left I thee in Crete, that thou shouldest set in order the things that were wanting, and appoint elders in every city, as I gave thee charge;",
+      "topic": ""
+    },
+    "6": {
+      "text": "if any man is blameless, the husband of one wife, having children that believe, who are not accused of riot or unruly.",
+      "topic": ""
+    },
+    "7": {
+      "text": "For the bishop must be blameless, as God’s steward; not selfwilled, not soon angry, no brawler, no striker, not greedy of filthy lucre;",
+      "topic": ""
+    },
+    "8": {
+      "text": "but given to hospitality, a lover of good, soberminded, just, holy, temperate;",
+      "topic": ""
+    },
+    "9": {
+      "text": "holding to the faithful word which is according to the teaching, that he may be able both to exhort in the sound doctrine, and to convict the gainsayers.",
+      "topic": ""
+    },
+    "10": {
+      "text": "For there are many unruly men, vain talkers and deceivers, specially they of the circumcision,",
+      "topic": ""
+    },
+    "11": {
+      "text": "whose mouths must be stopped; men who overthrow whole houses, teaching things which they ought not, for filthy lucre’s sake.",
+      "topic": ""
+    },
+    "12": {
+      "text": "One of themselves, a prophet of their own, said, Cretans are alway liars, evil beasts, idle gluttons.",
+      "topic": ""
+    },
+    "13": {
+      "text": "This testimony is true. For which cause reprove them sharply, that they may be sound in the faith,",
+      "topic": ""
+    },
+    "14": {
+      "text": "not giving heed to Jewish fables, and commandments of men who turn away from the truth.",
+      "topic": ""
+    },
+    "15": {
+      "text": "To the pure all things are pure: but to them that are defiled and unbelieving nothing is pure; but both their mind and their conscience are defiled.",
+      "topic": ""
+    },
+    "16": {
+      "text": "They profess that they know God; but by their works they deny him, being abominable, and disobedient, and unto every good work reprobate.",
+      "topic": ""
+    }
+  }
+}

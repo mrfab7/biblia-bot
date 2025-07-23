@@ -1,0 +1,212 @@
+{
+  "info": {
+    "book": "Juan",
+    "chapter": "12",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Jesús, pues, seis días antes de la Pascua, vino a Betania, donde Lázaro había sido muerto, al cual Jesús había resucitado de los muertos.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Y le hicieron allí una cena y Marta servía, y Lázaro era uno de los que estaban sentados a la mesa juntamente con él.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Entonces María tomó una libra de ungüento de nardo líquido, de mucho precio, y ungió los pies de Jesús, y limpió sus pies con sus cabellos; y la casa se llenó del olor del ungüento.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Y dijo uno de sus discípulos, Judas Iscariote, hijo de Simón, el que le había de entregar:",
+      "topic": ""
+    },
+    "5": {
+      "text": "¿Por qué no se ha vendido este ungüento por trescientos denarios, y se dio a los pobres?",
+      "topic": ""
+    },
+    "6": {
+      "text": "Mas dijo esto, no por el cuidado que él tenía de los pobres, sino porque era ladrón, y tenía la bolsa, y sustraía de lo que se echaba en ella .",
+      "topic": ""
+    },
+    "7": {
+      "text": "Entonces Jesús dijo: Déjala; para el día de mi sepultura ha guardado esto;",
+      "topic": ""
+    },
+    "8": {
+      "text": "porque a los pobres siempre los tenéis con vosotros, mas a mí no siempre me tendréis.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Entonces muchos del pueblo de los judíos supieron que él estaba allí; y vinieron no solamente por causa de Jesús, sino también por ver a Lázaro, al cual había resucitado de los muertos.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Consultaron asimismo los príncipes de los sacerdotes, sobre matar también a Lázaro;",
+      "topic": ""
+    },
+    "11": {
+      "text": "porque muchos de los judíos iban y creían en Jesús por causa de él.",
+      "topic": ""
+    },
+    "12": {
+      "text": "¶ El siguiente día, la multitud que había venido al día de la Fiesta, cuando oyeron que Jesús venía a Jerusalén,",
+      "topic": ""
+    },
+    "13": {
+      "text": "tomaron ramos de palmas, y salieron a recibirle, y clamaban: ¡Hosanna, Bendito el que viene en el Nombre del Señor, el Rey de Israel!",
+      "topic": ""
+    },
+    "14": {
+      "text": "Y halló Jesús un asnillo, y se sentó sobre él, como está escrito:",
+      "topic": ""
+    },
+    "15": {
+      "text": "No temas, oh hija de Sión: he aquí tu Rey viene, sentado sobre un pollino de asna.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Mas estas cosas no las entendieron sus discípulos de primero; pero cuando Jesús fue glorificado, entonces se acordaron de que estas cosas estaban escritas de él, y que le hicieron estas cosas.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Y la multitud que estaba con él, daba testimonio de cuando llamó a Lázaro del sepulcro, y le resucitó de los muertos.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Por lo cual también había venido la multitud a recibirle, porque habían oído que él había hecho esta señal;",
+      "topic": ""
+    },
+    "19": {
+      "text": "mas los fariseos dijeron entre sí: ¿Veis que nada aprovecháis? He aquí, que todo el mundo se va tras de él.",
+      "topic": ""
+    },
+    "20": {
+      "text": "¶ Y había unos griegos de los que habían subido a adorar en la Fiesta.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Estos pues, se llegaron a Felipe, que era de Betsaida de Galilea, y le rogaron, diciendo: Señor, querríamos ver a Jesús.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Vino Felipe, y lo dijo a Andrés; entonces Andrés y Felipe, lo dicen a Jesús.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Entonces Jesús les respondió, diciendo: La hora viene en que el Hijo del hombre ha de ser clarificado.",
+      "topic": ""
+    },
+    "24": {
+      "text": "De cierto, de cierto os digo, que si el grano que cae en la tierra, no muriere, él solo queda; mas si muriere, mucho fruto lleva.",
+      "topic": ""
+    },
+    "25": {
+      "text": "El que ama su vida, la perderá; y el que aborrece su vida en este mundo, para vida eterna la guardará.",
+      "topic": ""
+    },
+    "26": {
+      "text": "El que me sirve, sígame; y donde yo estuviere, allí también estará mi servidor. Al que me sirviere, mi Padre le honrará.",
+      "topic": ""
+    },
+    "27": {
+      "text": "¶ Ahora está turbada mi alma; ¿y qué diré? Padre, sálvame de esta hora; mas por esto he venido en esta hora.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Padre, clarifica tu Nombre. Entonces vino una voz del cielo: Y lo he clarificado, y lo clarificaré otra vez.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Y el pueblo que estaba presente, y la había oído, decía que había sido trueno. Otros decían: un ángel le ha hablado.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Respondió Jesús, y dijo: No ha venido esta voz por mi causa, sino por causa de vosotros.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Ahora es el juicio de este mundo; ahora el príncipe de este mundo será echado fuera.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Y yo, si fuere levantado de la tierra, a todos traeré a mí mismo.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Y esto decía señalando de qué muerte había de morir.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Le respondió el pueblo: Nosotros hemos oído de la ley, que el Cristo permanece para siempre, ¿cómo pues dices tú: Conviene que el Hijo del hombre sea levantado? ¿Quién es este Hijo del hombre?",
+      "topic": ""
+    },
+    "35": {
+      "text": "Entonces Jesús les dice: Aún por un poco estará la Luz entre vosotros; andad entre tanto que tenéis luz, para que no os tomen las tinieblas; porque el que anda en tinieblas, no sabe dónde va.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Entre tanto que tenéis la Luz, creed en la Luz, para que seáis hijos de la Luz. Estas cosas habló Jesús, y se fue, y se escondió de ellos.",
+      "topic": ""
+    },
+    "37": {
+      "text": "¶ Pero aun habiendo hecho delante de ellos tantas señales, no creían en él.",
+      "topic": ""
+    },
+    "38": {
+      "text": "Para que se cumpliese la palabra que dijo el profeta Isaías: ¿Señor, quién creerá a nuestro dicho? ¿Y el brazo del Señor, a quién es revelado?",
+      "topic": ""
+    },
+    "39": {
+      "text": "Por esto no podían creer, porque otra vez dijo Isaías:",
+      "topic": ""
+    },
+    "40": {
+      "text": "Cegó los ojos de ellos, y endureció su corazón; Para que no vean con los ojos, y entiendan de corazón, Y se conviertan, y yo los sane.",
+      "topic": ""
+    },
+    "41": {
+      "text": "Estas cosas dijo Isaías cuando vio su gloria, y habló de él.",
+      "topic": ""
+    },
+    "42": {
+      "text": "¶ Con todo eso, aun de los príncipes, muchos creyeron en él; mas por causa de los fariseos no lo confesaban, para no ser echados de la sinagoga.",
+      "topic": ""
+    },
+    "43": {
+      "text": "Porque amaban más la gloria de los hombres que la gloria de Dios.",
+      "topic": ""
+    },
+    "44": {
+      "text": "¶ Mas Jesús clamó y dijo: El que cree en mí, no cree en mí, sino en el que me envió;",
+      "topic": ""
+    },
+    "45": {
+      "text": "y el que me ve, ve al que me envió.",
+      "topic": ""
+    },
+    "46": {
+      "text": "Yo, la Luz, he venido al mundo, para que todo aquel que cree en mí no permanezca en tinieblas.",
+      "topic": ""
+    },
+    "47": {
+      "text": "Y el que oyere mis palabras, y no creyere, yo no le juzgo; porque no he venido a juzgar al mundo, sino a salvar al mundo.",
+      "topic": ""
+    },
+    "48": {
+      "text": "El que me desecha, y no recibe mis palabras, tiene quien le juzgue; la palabra que he hablado, ella le juzgará en el día postrero.",
+      "topic": ""
+    },
+    "49": {
+      "text": "Porque yo no he hablado de mí mismo; mas el Padre que me envió, él me dio mandamiento de lo que he de decir, y de lo que he de hablar.",
+      "topic": ""
+    },
+    "50": {
+      "text": "Y sé que su mandamiento es vida eterna; así que, lo que yo hablo, como el Padre me lo ha dicho, así hablo.",
+      "topic": ""
+    }
+  }
+}

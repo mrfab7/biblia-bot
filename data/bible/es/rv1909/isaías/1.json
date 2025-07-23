@@ -1,0 +1,136 @@
+{
+  "info": {
+    "book": "Isaías",
+    "chapter": "1",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Visión de Isaías hijo de Amoz, la cual vio acerca de Judá y Jerusalén, en días de Uzías, Jotam, Acaz y Ezequías, reyes de Judá.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Oíd, cielos, y escucha tú, tierra; porque habla Jehová: Crié hijos, y los engrandecí, y ellos se rebelaron contra mí.",
+      "topic": ""
+    },
+    "3": {
+      "text": "El buey conoce a su dueño, y el asno el pesebre de su señor: [Pero] Israel no conoce, mi pueblo no tiene entendimiento.",
+      "topic": ""
+    },
+    "4": {
+      "text": "¡Oh gente pecadora, pueblo cargado de maldad, generación de malignos, hijos depravados! Dejaron a Jehová, provocaron a ira al Santo de Israel, se tornaron atrás.",
+      "topic": ""
+    },
+    "5": {
+      "text": "¿Para qué habéis de ser castigados aún? Todavía os rebelaréis; Toda cabeza está enferma, y todo corazón doliente.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Desde la planta del pie hasta la cabeza no [hay] en él cosa sana, [sino] herida, hinchazón y podrida llaga; no están curadas, ni vendadas, ni suavizadas con aceite.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Vuestra tierra [está] destruida, vuestras ciudades puestas a fuego, vuestra tierra la devoran extranjeros delante de vosotros, y [es] asolada como asolamiento de extraños.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Y queda la hija de Sión como choza en viña, y como cabaña en melonar, como ciudad asolada.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Si Jehová de los ejércitos no nos hubiese dejado un pequeño remanente, como Sodoma fuéramos, [y] semejantes a Gomorra.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Príncipes de Sodoma, oíd la palabra de Jehová; escuchad la ley de nuestro Dios, pueblo de Gomorra.",
+      "topic": ""
+    },
+    "11": {
+      "text": "¿Para qué me sirven a mí, dice Jehová, la multitud de vuestros sacrificios? Harto estoy de holocaustos de carneros, y de sebo de animales gordos; no quiero sangre de bueyes, ni de ovejas, ni de machos cabríos.",
+      "topic": ""
+    },
+    "12": {
+      "text": "¿Quién demanda esto de vuestras manos, cuando venís a presentaros delante de mí, para hollar mis atrios?",
+      "topic": ""
+    },
+    "13": {
+      "text": "No me traigáis más vana ofrenda; el incienso me es abominación; lunas nuevas, sábados, y el convocar asambleas, no lo puedo soportar; [son] iniquidad vuestras fiestas solemnes.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Vuestras lunas nuevas y vuestras fiestas solemnes aborrece mi alma; me son gravosas; cansado estoy de soportarlas.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Cuando extendiereis vuestras manos, yo esconderé de vosotros mis ojos; asimismo cuando multiplicareis la oración, yo no oiré; llenas están de sangre vuestras manos.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Lavaos, limpiaos; quitad la iniquidad de vuestras obras de delante de mis ojos; dejad de hacer lo malo.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Aprended a hacer el bien; buscad juicio, restituid al agraviado, haced justicia al huérfano, abogad por la viuda.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Venid luego, dice Jehová, y estemos a cuenta; si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos; si fueren rojos como el carmesí, vendrán a ser como blanca lana.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Si quisiereis y obedeciereis, comeréis el bien de la tierra.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Si no quisiereis y fuereis rebeldes, seréis consumidos a espada; porque la boca de Jehová lo ha dicho.",
+      "topic": ""
+    },
+    "21": {
+      "text": "¡Cómo se ha convertido en ramera la ciudad fiel! Llena estuvo de juicio, en ella habitó justicia, mas ahora, homicidas.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Tu plata se ha tornado en escorias, tu vino con agua está mezclado.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Tus príncipes [son] prevaricadores y compañeros de ladrones; todos aman el soborno, y van tras las recompensas; no oyen en juicio al huérfano, ni llega a ellos la causa de la viuda.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Por tanto, dice el Señor, Jehová de los ejércitos, el Fuerte de Israel: Ea, tomaré satisfacción de mis enemigos, me vengaré de mis adversarios:",
+      "topic": ""
+    },
+    "25": {
+      "text": "Y volveré mi mano sobre ti, y limpiaré hasta lo más puro tus escorias, y quitaré todo tu estaño:",
+      "topic": ""
+    },
+    "26": {
+      "text": "Y restituiré tus jueces como al principio, y tus consejeros como de primero: entonces te llamarán Ciudad de Justicia, Ciudad Fiel.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Sión con juicio será rescatada, y los convertidos de ella con justicia.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Mas los rebeldes y pecadores a una serán quebrantados, y los que dejan a Jehová serán consumidos.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Porque ellos se avergonzarán de los olmos que amasteis, y vosotros seréis confundidos por los huertos que escogisteis.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Porque seréis como el olmo al que se le cae la hoja, y como huerto al que le faltan las aguas.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Y el fuerte será como estopa, y lo que hizo como centella; y ambos serán encendidos juntamente, y no habrá quien apague.",
+      "topic": ""
+    }
+  }
+}

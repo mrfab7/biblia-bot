@@ -1,0 +1,336 @@
+{
+  "info": {
+    "book": "Rut",
+    "chapter": "6",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Entonces dijo Salomón: Jehová ha dicho que Él habitaría en la densa oscuridad.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Yo, pues, he edificado una casa de morada para ti, y una habitación en que mores para siempre.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Y volviendo el rey su rostro, bendijo a toda la congregación de Israel. Y toda la congregación de Israel estaba en pie.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Y él dijo: Bendito [sea] Jehová, el Dios de Israel, el cual con su mano ha cumplido [lo que] habló por su boca a David mi padre, diciendo:",
+      "topic": ""
+    },
+    "5": {
+      "text": "Desde el día que saqué mi pueblo de la tierra de Egipto, ninguna ciudad he elegido de todas las tribus de Israel para edificar casa donde estuviese mi nombre, ni he escogido varón que fuese príncipe sobre mi pueblo Israel.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Mas a Jerusalén he elegido para que esté en ella mi nombre, y a David he elegido para que esté sobre mi pueblo Israel.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Y David mi padre tuvo en [su] corazón edificar casa al nombre de Jehová, el Dios de Israel.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Mas Jehová dijo a David mi padre: Respecto a haber tenido en tu corazón edificar casa a mi nombre, bien has hecho en haber tenido esto en tu corazón.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Pero tú no edificarás la casa, sino tu hijo que saldrá de tus lomos, él edificará casa a mi nombre.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Y Jehová ha cumplido su palabra que había dicho, pues me levanté yo en lugar de David mi padre, y me he sentado en el trono de Israel, como Jehová había dicho, y he edificado casa al nombre de Jehová, el Dios de Israel.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Y en ella he puesto el arca, en la cual [está] el pacto de Jehová que Él hizo con los hijos de Israel.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Se puso luego Salomón delante del altar de Jehová, en presencia de toda la congregación de Israel, y extendió sus manos.",
+      "topic": ""
+    },
+    "13": {
+      "text": "Porque Salomón había hecho una plataforma de bronce, de cinco codos de largo, y de cinco codos de ancho, y de altura de tres codos, y la había puesto en medio del atrio. Y se puso sobre ella, e hincando sus rodillas delante de toda la congregación de Israel, y extendiendo sus manos al cielo, dijo:",
+      "topic": ""
+    },
+    "14": {
+      "text": "Jehová, Dios de Israel, no [hay] Dios semejante a ti ni en el cielo ni en la tierra, que guardas el pacto y la misericordia a tus siervos que caminan delante de ti con todo su corazón;",
+      "topic": ""
+    },
+    "15": {
+      "text": "Que has guardado para tu siervo David mi padre lo que le prometiste; tú lo prometiste con tu boca, y con tu mano [lo] has cumplido, como [sucede] este día.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Ahora pues, oh Jehová, Dios de Israel, cumple a tu siervo David mi padre lo que le has prometido, diciendo: No te faltará varón delante de mí, que se siente en el trono de Israel, a condición que tus hijos guarden su camino, andando en mi ley, como tú delante de mí has andado.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Ahora pues, oh Jehová, Dios de Israel, sea confirmada tu palabra que dijiste a tu siervo David.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Mas ¿es verdad que Dios ha de habitar con el hombre en la tierra? He aquí, los cielos y los cielos de los cielos no te pueden contener; ¿cuánto menos esta casa que he edificado?",
+      "topic": ""
+    },
+    "19": {
+      "text": "Mas tú mirarás a la oración de tu siervo, y a su ruego, oh Jehová Dios mío, para oír el clamor y la oración con que tu siervo ora delante de ti.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Que tus ojos estén abiertos sobre esta casa de día y de noche, sobre el lugar del cual dijiste: Mi nombre estará allí; que oigas la oración con que tu siervo ora en este lugar.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Asimismo que oigas el ruego de tu siervo, y de tu pueblo Israel, cuando en este lugar hicieren oración, que tú oirás desde los cielos, desde el lugar de tu morada; que oigas y perdones.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Si alguno pecare contra su prójimo, y él le pidiere juramento haciéndole jurar, y el juramento viniere delante de tu altar en esta casa,",
+      "topic": ""
+    },
+    "23": {
+      "text": "entonces escucha tú desde los cielos, y actúa, y juzga a tus siervos, dando la paga al impío, tornándole su proceder sobre su cabeza, y justificando al justo en darle conforme a su justicia.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Si tu pueblo Israel cayere delante de los enemigos, por haber prevaricado contra ti, y se convirtieren, y confesaren tu nombre, y rogaren delante de ti en esta casa,",
+      "topic": ""
+    },
+    "25": {
+      "text": "entonces escucha tú desde los cielos, y perdona el pecado de tu pueblo Israel, y hazles volver a la tierra que diste a ellos y a sus padres.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Si los cielos se cerraren, y no hubiere lluvia, por haber ellos pecado contra ti, si oraren a ti en este lugar, y confesaren tu nombre, y se convirtieren de sus pecados, cuando los afligieres,",
+      "topic": ""
+    },
+    "27": {
+      "text": "entonces escucha tú desde los cielos, y perdona el pecado de tus siervos y de tu pueblo Israel, y enséñales el buen camino para que anden en él, y darás lluvia sobre tu tierra, la cual diste por heredad a tu pueblo.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Y si hubiere hambre en la tierra, o si hubiere pestilencia, si hubiere tizoncillo o añublo, langosta o pulgón; o si los sitiaren sus enemigos en las ciudades de su tierra; cualquiera que [sea] la plaga o enfermedad;",
+      "topic": ""
+    },
+    "29": {
+      "text": "toda oración y toda súplica que hiciere cualquier hombre, o todo tu pueblo Israel, cualquiera que conociere su llaga y su dolor en su corazón, si extendiere sus manos hacia esta casa,",
+      "topic": ""
+    },
+    "30": {
+      "text": "entonces escucha tú desde los cielos, desde el lugar de tu habitación, y perdona, y da a cada uno conforme a todos sus caminos, habiendo conocido su corazón (porque sólo tú conoces el corazón de los hijos de los hombres);",
+      "topic": ""
+    },
+    "31": {
+      "text": "para que te teman y anden en tus caminos, todos los días que vivan sobre la faz de la tierra que tú diste a nuestros padres.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Y también al extranjero que no fuere de tu pueblo Israel, que hubiere venido de lejanas tierras a causa de tu grande nombre, y de tu mano fuerte, y de tu brazo extendido, si vinieren, y oraren en esta casa,",
+      "topic": ""
+    },
+    "33": {
+      "text": "entonces escucha tú desde los cielos, desde el lugar de tu morada, y haz conforme a todas las cosas por las cuales el extranjero hubiere clamado a ti; para que todos los pueblos de la tierra conozcan tu nombre, y te teman así como tu pueblo Israel, y sepan que tu nombre es invocado sobre esta casa que yo he edificado.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Si tu pueblo saliere a la guerra contra sus enemigos por el camino que tú los enviares, y oraren a ti hacia esta ciudad que tú elegiste, hacia la casa que he edificado a tu nombre,",
+      "topic": ""
+    },
+    "35": {
+      "text": "entonces escucha tú desde los cielos su oración y su súplica, y ampara su causa.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Si pecaren contra ti (pues no [hay] hombre que no peque), y te enojares contra ellos, y los entregares delante de [sus] enemigos, y éstos los llevaren cautivos a tierra lejana o cercana;",
+      "topic": ""
+    },
+    "37": {
+      "text": "si ellos volvieren en sí en la tierra donde fueren llevados cautivos; y se convirtieren, y oraren a ti en la tierra de su cautividad, y dijeren: Pecamos, hemos hecho inicuamente, impíamente hemos actuado;",
+      "topic": ""
+    },
+    "38": {
+      "text": "si se convirtieren a ti de todo su corazón y de toda su alma en la tierra de su cautividad, donde los hubieren llevado cautivos, y oraren hacia su tierra que tú diste a sus padres, [hacia] la ciudad que tú elegiste, y hacia la casa que he edificado a tu nombre;",
+      "topic": ""
+    },
+    "39": {
+      "text": "entonces escucha tú desde los cielos, desde el lugar de tu morada, su oración y su súplica, y ampara su causa, y perdona a tu pueblo que pecó contra ti.",
+      "topic": ""
+    },
+    "40": {
+      "text": "Ahora, pues, oh Dios mío, te ruego que estén abiertos tus ojos, y atentos tus oídos a la oración en este lugar.",
+      "topic": ""
+    },
+    "41": {
+      "text": "Oh Jehová Dios, levántate ahora para habitar en tu reposo, tú y el arca de tu fortaleza; sean, oh Jehová Dios, vestidos de salvación tus sacerdotes, y tus santos se regocijen en tu bondad.",
+      "topic": ""
+    },
+    "42": {
+      "text": "Jehová Dios, no voltees tu rostro de tu ungido; acuérdate de las misericordias para con David tu siervo.",
+      "topic": ""
+    },
+    "43": {
+      "text": "hijo de Jahat, hijo de Gersón, hijo de Leví.",
+      "topic": ""
+    },
+    "44": {
+      "text": "Y sus hermanos, los hijos de Merari, estaban a la mano izquierda, [esto es], Etán, hijo de Quisi, hijo de Abdi, hijo de Maluc;",
+      "topic": ""
+    },
+    "45": {
+      "text": "hijo de Hasabías, hijo de Amasías, hijo de Hilcías;",
+      "topic": ""
+    },
+    "46": {
+      "text": "hijo de Amasai, hijo de Bani, hijo de Semer;",
+      "topic": ""
+    },
+    "47": {
+      "text": "hijo de Mahali, hijo de Musi, hijo de Merari, hijo de Leví.",
+      "topic": ""
+    },
+    "48": {
+      "text": "Y sus hermanos los levitas [fueron] puestos sobre todo el ministerio del tabernáculo de la casa de Dios.",
+      "topic": ""
+    },
+    "49": {
+      "text": "Mas Aarón y sus hijos quemaban ofrendas sobre el altar del holocausto, y sobre el altar del incienso, en toda la obra del lugar santísimo, y para hacer las expiaciones sobre Israel, conforme a todo lo que Moisés siervo de Dios había mandado.",
+      "topic": ""
+    },
+    "50": {
+      "text": "Y los hijos de Aarón [son] éstos: Eleazar su hijo, Finees su hijo, Abisúa su hijo;",
+      "topic": ""
+    },
+    "51": {
+      "text": "Buqui su hijo, Uzi su hijo, Zeraías su hijo;",
+      "topic": ""
+    },
+    "52": {
+      "text": "Meraiot su hijo, Amarías su hijo, Ahitob su hijo;",
+      "topic": ""
+    },
+    "53": {
+      "text": "Sadoc su hijo, Ahimaas su hijo.",
+      "topic": ""
+    },
+    "54": {
+      "text": "Y éstas [son] sus habitaciones, conforme a sus domicilios y sus términos, las de los hijos de Aarón por las familias de los coatitas, porque de ellos les tocó en suerte.",
+      "topic": ""
+    },
+    "55": {
+      "text": "Les dieron, pues, a Hebrón en tierra de Judá, y sus ejidos alrededor de ella.",
+      "topic": ""
+    },
+    "56": {
+      "text": "Mas el territorio de la ciudad y sus aldeas se dieron a Caleb, hijo de Jefone.",
+      "topic": ""
+    },
+    "57": {
+      "text": "Y a los hijos de Aarón dieron las ciudades de Judá, [esto es], a Hebrón, [la ciudad] de refugio, además a Libna con sus ejidos, a Jatir y Estemoa con sus ejidos,",
+      "topic": ""
+    },
+    "58": {
+      "text": "a Hilem con sus ejidos, y a Debir con sus ejidos;",
+      "topic": ""
+    },
+    "59": {
+      "text": "a Asán con sus ejidos, y a Bet-semes con sus ejidos.",
+      "topic": ""
+    },
+    "60": {
+      "text": "Y de la tribu de Benjamín, a Geba, con sus ejidos, y a Alemet con sus ejidos, y a Anatot con sus ejidos. Todas sus ciudades [fueron] trece ciudades, repartidas por sus linajes.",
+      "topic": ""
+    },
+    "61": {
+      "text": "A los hijos de Coat, que quedaron de su parentela, dieron por suerte diez ciudades de la media [tribu] de Manasés.",
+      "topic": ""
+    },
+    "62": {
+      "text": "Y a los hijos de Gersón, por sus linajes, dieron de la tribu de Isacar, de la tribu de Aser, de la tribu de Neftalí y de la tribu de Manasés en Basán, trece ciudades.",
+      "topic": ""
+    },
+    "63": {
+      "text": "Y a los hijos de Merari, por sus linajes, de la tribu de Rubén, y de la tribu de Gad, y de la tribu de Zabulón, se dieron por suerte doce ciudades.",
+      "topic": ""
+    },
+    "64": {
+      "text": "Y dieron los hijos de Israel a los levitas ciudades con sus ejidos.",
+      "topic": ""
+    },
+    "65": {
+      "text": "Y dieron por suerte de la tribu de los hijos de Judá, y de la tribu de los hijos de Simeón, y de la tribu de los hijos de Benjamín, las ciudades que nombraron por [sus] nombres.",
+      "topic": ""
+    },
+    "66": {
+      "text": "Y a los linajes de los hijos de Coat dieron ciudades con sus términos de la tribu de Efraín.",
+      "topic": ""
+    },
+    "67": {
+      "text": "Y les dieron las ciudades de refugio, Siquem con sus ejidos en el monte de Efraín, y a Gezer con sus ejidos,",
+      "topic": ""
+    },
+    "68": {
+      "text": "y a Jocmeam con sus ejidos, y a Bet-horón con sus ejidos,",
+      "topic": ""
+    },
+    "69": {
+      "text": "a Ajalón con sus ejidos, y a Gat-rimón con sus ejidos.",
+      "topic": ""
+    },
+    "70": {
+      "text": "De la media tribu de Manasés, a Aner con sus ejidos, y a Bilam con sus ejidos, para los del linaje de los hijos de Coat que habían quedado.",
+      "topic": ""
+    },
+    "71": {
+      "text": "Y a los hijos de Gersón [dieron] de la familia de la media tribu de Manasés, a Golán en Basán con sus ejidos y a Astarot con sus ejidos;",
+      "topic": ""
+    },
+    "72": {
+      "text": "y de la tribu de Isacar, a Cedes con sus ejidos, a Daberat con sus ejidos,",
+      "topic": ""
+    },
+    "73": {
+      "text": "y a Ramot con sus ejidos, y a Anem con sus ejidos;",
+      "topic": ""
+    },
+    "74": {
+      "text": "y de la tribu de Aser a Masal con sus ejidos, y a Abdón con sus ejidos,",
+      "topic": ""
+    },
+    "75": {
+      "text": "y a Hucoc con sus ejidos, y a Rehob con sus ejidos.",
+      "topic": ""
+    },
+    "76": {
+      "text": "Y de la tribu de Neftalí, a Cedes en Galilea con sus ejidos, y a Hamón con sus ejidos, a Quiriataim con sus ejidos.",
+      "topic": ""
+    },
+    "77": {
+      "text": "Y a los hijos de Merari que habían quedado, [dieron] de la tribu de Zabulón a Rimón con sus ejidos, y a Tabor con sus ejidos.",
+      "topic": ""
+    },
+    "78": {
+      "text": "Y del otro lado del Jordán, frente a Jericó, al oriente del Jordán, [dieron] de la tribu de Rubén, a Beser en el desierto con sus ejidos; y a Jahaza con sus ejidos.",
+      "topic": ""
+    },
+    "79": {
+      "text": "Y a Cademot con sus ejidos, y a Mefaat con sus ejidos.",
+      "topic": ""
+    },
+    "80": {
+      "text": "Y de la tribu de Gad, a Ramot en Galaad con sus ejidos, y a Mahanaim con sus ejidos,",
+      "topic": ""
+    },
+    "81": {
+      "text": "y a Hesbón con sus ejidos, y a Jazer con sus ejidos.",
+      "topic": ""
+    }
+  }
+}

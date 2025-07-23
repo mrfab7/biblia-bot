@@ -1,0 +1,236 @@
+{
+  "info": {
+    "book": "Numbers",
+    "chapter": "33",
+    "translation": "Smith's Literal Translation",
+    "translationID": "slt",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "These the departure of the sons of Israel who will go from the land of Egypt according to their army by the hand of Moses and Aaron.",
+      "topic": ""
+    },
+    "2": {
+      "text": "And Moses will write their goings out according to their departures by the mouth of Jehovah: and these their departures according to their goings out.",
+      "topic": ""
+    },
+    "3": {
+      "text": "And they will remove from Rameses in the first month, in the fifteenth day to the first month: on the morrow of the passover and the sons of Israel went forth with a high hand before the eyes of all the Egyptians.",
+      "topic": ""
+    },
+    "4": {
+      "text": "And the Egyptians burying whom Jehovah smote among them, all the first-born: and upon their gods Jehovah did judgments.",
+      "topic": ""
+    },
+    "5": {
+      "text": "And the sons of Israel will remove from Rameses, and they will encamp in Succoth.",
+      "topic": ""
+    },
+    "6": {
+      "text": "And they will remove from Succoth, and encamp in Etham, which is in the extremity of the desert.",
+      "topic": ""
+    },
+    "7": {
+      "text": "And they will remove from Etham, and dwell upon the mouth of Hiroth, which is before Baal-Zephon: and they will encamp before Migdol.",
+      "topic": ""
+    },
+    "8": {
+      "text": "And they will remove from before Hiroth, and they will pass through the midst of the sea of the desert, and they will go a way of three days in the desert of Etham, and they will encamp in Marah.",
+      "topic": ""
+    },
+    "9": {
+      "text": "And they will remove from Marah and will come to Elim: and in Elim twelve fountains of water, and seventy palm trees; and they will encamp there.",
+      "topic": ""
+    },
+    "10": {
+      "text": "And they will remove from Elim, and encamp by the sea of sedge.",
+      "topic": ""
+    },
+    "11": {
+      "text": "And they will remove from the sea of sedge, and encamp in the desert of Sin.",
+      "topic": ""
+    },
+    "12": {
+      "text": "And they will remove from the desert of Sin, and encamp in Dophkah.",
+      "topic": ""
+    },
+    "13": {
+      "text": "And they will remove from Dophkah, and encamp in Alush.",
+      "topic": ""
+    },
+    "14": {
+      "text": "And they will remove from Alush, and encamp in Rephidim; and no water was there for the people to drink.",
+      "topic": ""
+    },
+    "15": {
+      "text": "And they will remove from Rephidim, and encamp in the desert of Sinai.",
+      "topic": ""
+    },
+    "16": {
+      "text": "And they will remove from the desert of Sinai, and encamp in the Sepulchres of Longing.",
+      "topic": ""
+    },
+    "17": {
+      "text": "And they will remove from the Sepulchres of Longing, and encamp in Hazeroth.",
+      "topic": ""
+    },
+    "18": {
+      "text": "And they will remove from Hazeroth, and encamp in Rithmah.",
+      "topic": ""
+    },
+    "19": {
+      "text": "And they will remove from Rithmah, and encamp in Rimmon-Parez.",
+      "topic": ""
+    },
+    "20": {
+      "text": "And they will remove from Rimmon-Parez, and encamp in Libnah.",
+      "topic": ""
+    },
+    "21": {
+      "text": "And they will remove from Libnah, and encamp in Rissah.",
+      "topic": ""
+    },
+    "22": {
+      "text": "And they will remove from Rissah, and encamp in Kehelathah.",
+      "topic": ""
+    },
+    "23": {
+      "text": "And they will remove from Kehelathah, and encamp in mount Shapher.",
+      "topic": ""
+    },
+    "24": {
+      "text": "And they will remove from mount Shapher and encamp in Haradah.",
+      "topic": ""
+    },
+    "25": {
+      "text": "And they will remove from Haradah, and encamp in Makheloth.",
+      "topic": ""
+    },
+    "26": {
+      "text": "And they will remove from Makheloth, and encamp in Tahath.",
+      "topic": ""
+    },
+    "27": {
+      "text": "And they will remove from Tahath, and encamp in Tarah.",
+      "topic": ""
+    },
+    "28": {
+      "text": "And they will remove from Tarah, and encamp in Mithcah.",
+      "topic": ""
+    },
+    "29": {
+      "text": "And they will remove from Mithcah, and encamp in Hashmonah.",
+      "topic": ""
+    },
+    "30": {
+      "text": "And they will remove from Hashmonah, and encamp in Moseroth.",
+      "topic": ""
+    },
+    "31": {
+      "text": "And they will remove from Moseroth, and encamp among the sons of Jakan.",
+      "topic": ""
+    },
+    "32": {
+      "text": "And they will remove from the sons of Jakan, and encamp in the mount of Gidgad.",
+      "topic": ""
+    },
+    "33": {
+      "text": "And they will remove from the mount of Gidgad, and encamp in Jotbathah.",
+      "topic": ""
+    },
+    "34": {
+      "text": "And they will remove from Jotbathah, and encamp in Ebionah.",
+      "topic": ""
+    },
+    "35": {
+      "text": "And they will remove from Ebionah, and encamp in Ezion-Gaber.",
+      "topic": ""
+    },
+    "36": {
+      "text": "And they will remove from Ezion-Gaber, and encamp in the desert of Zin; it Kadesh.",
+      "topic": ""
+    },
+    "37": {
+      "text": "And they will remove from Kadesh, and encamp in mount Hor, in the extremity of the land of Edom.",
+      "topic": ""
+    },
+    "38": {
+      "text": "And Aaron the priest will go up to mount Hor by the mouth of Jehovah, and will die there in the fortieth year to the coming out of the sons of Israel from the land of Egypt, in the fifth month, in one to the month.",
+      "topic": ""
+    },
+    "39": {
+      "text": "And Aaron the son of three and twenty and a hundred years in his dying in mount Hor.",
+      "topic": ""
+    },
+    "40": {
+      "text": "And the Canaanite, king Arad, will hear, and he will dwell in the south in the land Canaan, in the coming of the sons of Israel.",
+      "topic": ""
+    },
+    "41": {
+      "text": "And they will remove from mount Hor, and encamp in Zalmonah.",
+      "topic": ""
+    },
+    "42": {
+      "text": "And they will remove from Zalmonah, and encamp in Punon.",
+      "topic": ""
+    },
+    "43": {
+      "text": "And they will remove from Pinion, and encamp in Oboth.",
+      "topic": ""
+    },
+    "44": {
+      "text": "And they will remove from Oboth, and encamp in the heaps of Abarim, in the bound of Moab.",
+      "topic": ""
+    },
+    "45": {
+      "text": "And they will remove from the heaps, and encamp in Dibon-Gad.",
+      "topic": ""
+    },
+    "46": {
+      "text": "And they will remove from Dibon-Gad, and encamp in Almon-Diblathaim.",
+      "topic": ""
+    },
+    "47": {
+      "text": "And they will remove from Almon-Diblathaim, and encamp in the mountains of Abarim before Nebo.",
+      "topic": ""
+    },
+    "48": {
+      "text": "And they will remove from the mountains of Abarim, and encamp in the desert of Moab by Jordan of Jericho.",
+      "topic": ""
+    },
+    "49": {
+      "text": "And they will encamp by Jordan, from the house of Jesimoth, to the meadow of acacias in the desert of Moab.",
+      "topic": ""
+    },
+    "50": {
+      "text": "And Jehovah will speak to Moses in the desert of Moab, by Jordan of Jericho, saying,",
+      "topic": ""
+    },
+    "51": {
+      "text": "Speak to the sons of Israel and say to them, When ye are passing over Jordan to the land of Canaan,",
+      "topic": ""
+    },
+    "52": {
+      "text": "And have driven out all those dwelling in the land from before you, and destroy ye all their watch towers, and all their molten images ye shall destroy, and all their heights ye shall lay waste:",
+      "topic": ""
+    },
+    "53": {
+      "text": "And dispossess ye the land and dwell in it, for to you, I gave the land to possess it.",
+      "topic": ""
+    },
+    "54": {
+      "text": "And divide ye the land by lot to your tribes: to the many ye shall multiply his inheritance, and to the few ye shall diminish his inheritance; to whom shall come forth to him, there shall the lot be to him; according to the tribes of your fathers ye shall inherit.",
+      "topic": ""
+    },
+    "55": {
+      "text": "And if ye shall not drive out those dwelling in the land from before you, and it shall be whom ye shall leave from them for thorns in your eyes, and for prickles in your sides; and they pressed you upon the land which ye shall dwell upon it.",
+      "topic": ""
+    },
+    "56": {
+      "text": "And it was as I purposed to do to them I will do to you.",
+      "topic": ""
+    }
+  }
+}

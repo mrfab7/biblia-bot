@@ -1,0 +1,64 @@
+{
+  "info": {
+    "book": "1 Corinthians",
+    "chapter": "13",
+    "translation": "Catholic Public Domain Version",
+    "translationID": "cpdv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "If I were to speak in the language of men, or of Angels, yet not have charity, I would be like a clanging bell or a crashing cymbal.",
+      "topic": ""
+    },
+    "2": {
+      "text": "And if I have prophecy, and learn every mystery, and obtain all knowledge, and possess all faith, so that I could move mountains, yet not have charity, then I am nothing.",
+      "topic": ""
+    },
+    "3": {
+      "text": "And if I distribute all my goods in order to feed the poor, and if I hand over my body to be burned, yet not have charity, it offers me nothing.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Charity is patient, is kind. Charity does not envy, does not act wrongly, is not inflated.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Charity is not ambitious, does not seek for itself, is not provoked to anger, devises no evil.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Charity does not rejoice over iniquity, but rejoices in truth.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Charity suffers all, believes all, hopes all, endures all.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Charity is never torn away, even if prophecies pass away, or languages cease, or knowledge is destroyed.",
+      "topic": ""
+    },
+    "9": {
+      "text": "For we know only in part, and we prophesy only in part.",
+      "topic": ""
+    },
+    "10": {
+      "text": "But when the perfect arrives, the imperfect passes away.",
+      "topic": ""
+    },
+    "11": {
+      "text": "When I was a child, I spoke like a child, I understood like a child, I thought like a child. But when I became a man, I put aside the things of a child.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Now we see through a glass darkly. But then we shall see face to face. Now I know in part, but then I shall know, even as I am known.",
+      "topic": ""
+    },
+    "13": {
+      "text": "But for now, these three continue: faith, hope, and charity. And the greatest of these is charity.",
+      "topic": ""
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "info": {
+    "book": "Lucas",
+    "chapter": "5",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Y aconteció, que estando él junto al lago de Genezaret, la multitud se agolpaba sobre él para oír la palabra de Dios.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Y vio dos barcos que estaban cerca de la orilla del lago; y los pescadores, habiendo descendido de ellos, lavaban sus redes.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Y entrado en uno de estos barcos, el cual era de Simón, le rogó que lo desviase de tierra un poco; y sentándose, enseñaba desde el barco a la multitud.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Cuando cesó de hablar, dijo a Simón: Tira a alta mar, y echad vuestras redes para pescar.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Y respondiendo Simón, le dijo: Maestro, habiendo trabajado toda la noche, nada hemos tomado; mas en tu palabra echaré la red.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Y habiéndolo hecho, encerraron gran multitud de pescado, que su red se rompía.",
+      "topic": ""
+    },
+    "7": {
+      "text": "E hicieron señas a los compañeros que estaban en el otro barco, que viniesen a ayudarles; y vinieron, y llenaron ambos barcos, de tal manera que se anegaban.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Lo cual viendo Simón Pedro, se derribó de rodillas a Jesús, diciendo: Apártate de mí, Señor, porque soy hombre pecador.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Porque temor le había rodeado, y a todos los que estaban con él, de la presa de los peces que habían tomado;",
+      "topic": ""
+    },
+    "10": {
+      "text": "y asimismo a Jacobo y a Juan, hijos de Zebedeo, que eran compañeros de Simón. Y Jesús dijo a Simón: No temas; desde ahora tomarás hombres.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Y como llegaron a tierra los barcos, dejándolo todo, le siguieron.",
+      "topic": ""
+    },
+    "12": {
+      "text": "¶ Y aconteció que estando en una ciudad, he aquí un hombre lleno de lepra, el cual viendo a Jesús, postrándose sobre el rostro, le rogó, diciendo: Señor, si quieres, puedes limpiarme.",
+      "topic": ""
+    },
+    "13": {
+      "text": "Entonces, extendiendo la mano, le tocó diciendo: Quiero; sé limpio. Y luego la lepra se fue de él.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Y él le mandó que no lo dijese a nadie; mas ve, le dijo, muéstrate al sacerdote, y ofrece por tu limpieza, como mandó Moisés, para que les conste.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Pero tanto más se extendía su fama; y se juntaba grande multitud a oír y ser sanada por él de sus enfermedades.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Mas él se apartaba a los desiertos, y oraba.",
+      "topic": ""
+    },
+    "17": {
+      "text": "¶ Y aconteció un día, que él estaba enseñando, y los fariseos y doctores de la ley estaban sentados, los cuales habían venido de todas las aldeas de Galilea, y de Judea y Jerusalén; y la virtud del Señor estaba allí para sanarlos.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Y he aquí unos hombres, que traían sobre un lecho un hombre que estaba paralítico; y buscaban por dónde meterle, y ponerle delante de él.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Y no hallando por donde meterle a causa de la multitud, se subieron encima de la casa, y por el tejado le bajaron con el lecho, en medio, delante de Jesús;",
+      "topic": ""
+    },
+    "20": {
+      "text": "el cual, viendo la fe de ellos, le dice: hombre, tus pecados te son perdonados.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Entonces los escribas y los fariseos comenzaron a pensar, diciendo: ¿Quién es éste que habla blasfemias? ¿Quién puede perdonar pecados sino sólo Dios?",
+      "topic": ""
+    },
+    "22": {
+      "text": "Jesús entonces, conociendo los pensamientos de ellos, respondiendo les dijo: ¿Qué pensáis en vuestros corazones?",
+      "topic": ""
+    },
+    "23": {
+      "text": "¿Qué es más fácil, decir: Tus pecados te son perdonados, o decir: Levántate y anda?",
+      "topic": ""
+    },
+    "24": {
+      "text": "Pues para que sepáis que el Hijo del hombre tiene potestad en la tierra de perdonar pecados, (dice al paralítico): A ti digo, levántate, toma tu lecho, y vete a tu casa.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Y luego, levantándose en presencia de ellos, y tomando el lecho en que estaba echado, se fue a su casa, glorificando a Dios.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Y tomó espanto a todos, y glorificaban a Dios; y fueron llenos de temor, diciendo: Hemos visto maravillas hoy.",
+      "topic": ""
+    },
+    "27": {
+      "text": "¶ Y después de estas cosas salió, y vio a un publicano llamado Leví, sentado al banco de los tributos públicos , y le dijo: Sígueme.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Y dejadas todas las cosas, levantándose, le siguió.",
+      "topic": ""
+    },
+    "29": {
+      "text": "E hizo Leví gran banquete en su casa; y había mucha compañía de publicanos y de otros, los cuales estaban a la mesa con ellos.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Y los escribas y los fariseos murmuraban contra sus discípulos, diciendo: ¿Por qué coméis y bebéis con los publicanos y pecadores?",
+      "topic": ""
+    },
+    "31": {
+      "text": "Y respondiendo Jesús, les dijo: Los que están sanos no necesitan médico, sino los que están enfermos.",
+      "topic": ""
+    },
+    "32": {
+      "text": "No he venido a llamar justos, sino pecadores a arrepentimiento.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Entonces ellos le dijeron: ¿Por qué los discípulos de Juan ayunan muchas veces y hacen oraciones, y asimismo los de los fariseos, y tus discípulos comen y beben?",
+      "topic": ""
+    },
+    "34": {
+      "text": "Y él les dijo: ¿Podéis hacer que los que están de bodas ayunen, entre tanto que el esposo está con ellos?",
+      "topic": ""
+    },
+    "35": {
+      "text": "Pero vendrán días cuando el esposo les será quitado; entonces ayunarán en aquellos días.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Y les decía también una parábola: Nadie corta un pedazo de un vestido nuevo para remendar un vestido viejo; pues si lo hace, rompe el nuevo, y el remiendo sacado de él no armoniza con el viejo.",
+      "topic": ""
+    },
+    "37": {
+      "text": "Y nadie echa vino nuevo en odres viejos; de otra manera el vino nuevo romperá los odres, y el vino se derramará, y los odres se perderán.",
+      "topic": ""
+    },
+    "38": {
+      "text": "Mas el vino nuevo en odres nuevos se ha de echar; y lo uno y lo otro se conserva.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Y ninguno que bebiere del añejo, quiere luego el nuevo; porque dice: El añejo es mejor.",
+      "topic": ""
+    }
+  }
+}

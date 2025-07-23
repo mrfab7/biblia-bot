@@ -1,0 +1,716 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "119",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "ALEF. Bienaventurados los perfectos de camino; los que andan en la ley de Jehová.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Bienaventurados los que guardan sus testimonios, y con todo el corazón le buscan:",
+      "topic": ""
+    },
+    "3": {
+      "text": "Pues no hacen iniquidad los que andan en sus caminos.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Tú encargaste que sean muy guardados tus mandamientos.",
+      "topic": ""
+    },
+    "5": {
+      "text": "¡Oh que fuesen ordenados mis caminos para guardar tus estatutos!",
+      "topic": ""
+    },
+    "6": {
+      "text": "Entonces no sería yo avergonzado, cuando atendiese a todos tus mandamientos.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Te alabaré con rectitud de corazón, cuando aprendiere los juicios de tu justicia.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Tus estatutos guardaré; no me dejes enteramente.",
+      "topic": ""
+    },
+    "9": {
+      "text": "BET. ¿Con qué limpiará el joven su camino? Con guardar tu palabra.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Con todo mi corazón te he buscado; no me dejes divagar de tus mandamientos.",
+      "topic": ""
+    },
+    "11": {
+      "text": "En mi corazón he guardado tus dichos, para no pecar contra ti.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Bendito tú, oh Jehová; enséñame tus estatutos.",
+      "topic": ""
+    },
+    "13": {
+      "text": "Con mis labios he contado todos los juicios de tu boca.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Me he gozado en el camino de tus testimonios, [más que] sobre toda riqueza.",
+      "topic": ""
+    },
+    "15": {
+      "text": "En tus mandamientos meditaré, consideraré tus caminos.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Me deleitaré en tus estatutos; no me olvidaré de tus palabras.",
+      "topic": ""
+    },
+    "17": {
+      "text": "GIMEL. Haz bien a tu siervo; para que viva y guarde tu palabra.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Abre mis ojos, y miraré las maravillas de tu ley.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Advenedizo soy yo en la tierra; no encubras de mí tus mandamientos.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Quebrantada está mi alma de desear tus juicios en todo tiempo.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Destruiste a los soberbios malditos, que se desvían de tus mandamientos.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Aparta de mí oprobio y menosprecio; porque tus testimonios he guardado.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Príncipes también se sentaron y hablaron contra mí; [mas] tu siervo meditaba en tus estatutos.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Pues tus testimonios [son] mi delicia, y mis consejeros.",
+      "topic": ""
+    },
+    "25": {
+      "text": "DALET. Mi alma está pegada al polvo; vivifícame según tu palabra.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Mis caminos te conté, y me has respondido: Enséñame tus estatutos.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Hazme entender el camino de tus mandamientos, y hablaré de tus maravillas.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Se deshace mi alma de ansiedad; fortaléceme según tu palabra.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Aparta de mí el camino de mentira; y concédeme con gracia tu ley.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Escogí el camino de la verdad; he puesto tus juicios delante de mí.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Me he apegado a tus testimonios; oh Jehová, no me avergüences.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Por el camino de tus mandamientos correré, cuando tú ensanches mi corazón.",
+      "topic": ""
+    },
+    "33": {
+      "text": "HE. Enséñame, oh Jehová, el camino de tus estatutos, y lo guardaré hasta el fin.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Dame entendimiento, y guardaré tu ley; y la observaré de todo corazón.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Guíame por la senda de tus mandamientos; porque en ella tengo mi voluntad.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Inclina mi corazón a tus testimonios, y no a la avaricia.",
+      "topic": ""
+    },
+    "37": {
+      "text": "Aparta mis ojos, que no vean la vanidad; avívame en tu camino.",
+      "topic": ""
+    },
+    "38": {
+      "text": "Confirma tu palabra a tu siervo, que te teme.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Quita de mí el oprobio que he temido; porque buenos [son] tus juicios.",
+      "topic": ""
+    },
+    "40": {
+      "text": "He aquí yo he anhelado tus mandamientos; vivifícame en tu justicia.",
+      "topic": ""
+    },
+    "41": {
+      "text": "VAV. Venga a mí tu misericordia, oh Jehová; tu salvación, conforme a tu palabra.",
+      "topic": ""
+    },
+    "42": {
+      "text": "Y daré por respuesta al que me injuria, que en tu palabra he confiado.",
+      "topic": ""
+    },
+    "43": {
+      "text": "Y no quites de mi boca, en ningún tiempo, la palabra de verdad; porque en tus juicios he esperado.",
+      "topic": ""
+    },
+    "44": {
+      "text": "Y guardaré tu ley continuamente, eternamente y para siempre.",
+      "topic": ""
+    },
+    "45": {
+      "text": "Y andaré en libertad, porque busqué tus mandamientos.",
+      "topic": ""
+    },
+    "46": {
+      "text": "Y hablaré de tus testimonios delante de los reyes, y no me avergonzaré.",
+      "topic": ""
+    },
+    "47": {
+      "text": "Y me deleitaré en tus mandamientos, los cuales he amado.",
+      "topic": ""
+    },
+    "48": {
+      "text": "Alzaré asimismo mis manos a tus mandamientos que amé; y meditaré en tus estatutos.",
+      "topic": ""
+    },
+    "49": {
+      "text": "ZAYIN. Acuérdate de la palabra dada a tu siervo, en la cual me has hecho esperar.",
+      "topic": ""
+    },
+    "50": {
+      "text": "Ésta es mi consuelo en mi aflicción; pues tu palabra me ha vivificado.",
+      "topic": ""
+    },
+    "51": {
+      "text": "Los soberbios se burlaron mucho de mí; mas no me he apartado de tu ley.",
+      "topic": ""
+    },
+    "52": {
+      "text": "Me acordé, oh Jehová, de tus juicios antiguos, y me consolé.",
+      "topic": ""
+    },
+    "53": {
+      "text": "Horror se apoderó de mí, a causa de los impíos que dejan tu ley.",
+      "topic": ""
+    },
+    "54": {
+      "text": "Cánticos han sido para mí tus estatutos en la casa de mis peregrinaciones.",
+      "topic": ""
+    },
+    "55": {
+      "text": "Me acordé en la noche de tu nombre, oh Jehová, y guardé tu ley.",
+      "topic": ""
+    },
+    "56": {
+      "text": "Esto tuve, porque guardé tus mandamientos.",
+      "topic": ""
+    },
+    "57": {
+      "text": "JET. [Tú eres] mi porción, oh Jehová, he dicho que guardaré tus palabras.",
+      "topic": ""
+    },
+    "58": {
+      "text": "Tu presencia supliqué de todo corazón; ten misericordia de mí según tu palabra.",
+      "topic": ""
+    },
+    "59": {
+      "text": "Consideré mis caminos, y torné mis pies a tus testimonios.",
+      "topic": ""
+    },
+    "60": {
+      "text": "Me apresuré, y no me tardé en guardar tus mandamientos.",
+      "topic": ""
+    },
+    "61": {
+      "text": "Compañía de impíos me han robado; [mas] no me he olvidado de tu ley.",
+      "topic": ""
+    },
+    "62": {
+      "text": "A media noche me levantaba a alabarte por tus justos juicios.",
+      "topic": ""
+    },
+    "63": {
+      "text": "Compañero soy yo de todos los que te temen y guardan tus mandamientos.",
+      "topic": ""
+    },
+    "64": {
+      "text": "De tu misericordia, oh Jehová, está llena la tierra; enséñame tus estatutos.",
+      "topic": ""
+    },
+    "65": {
+      "text": "TET. Bien has hecho con tu siervo, oh Jehová, conforme a tu palabra.",
+      "topic": ""
+    },
+    "66": {
+      "text": "Enséñame buen sentido y sabiduría; porque tus mandamientos he creído.",
+      "topic": ""
+    },
+    "67": {
+      "text": "Antes que fuera yo humillado, descarriado andaba; mas ahora guardo tu palabra.",
+      "topic": ""
+    },
+    "68": {
+      "text": "Bueno [eres] tú, y bienhechor; enséñame tus estatutos.",
+      "topic": ""
+    },
+    "69": {
+      "text": "Contra mí forjaron mentira los soberbios; [mas] yo guardaré de todo corazón tus mandamientos.",
+      "topic": ""
+    },
+    "70": {
+      "text": "Se engrosó el corazón de ellos como sebo; [mas] yo en tu ley me he deleitado.",
+      "topic": ""
+    },
+    "71": {
+      "text": "Bueno me es haber sido humillado, para que aprenda tus estatutos.",
+      "topic": ""
+    },
+    "72": {
+      "text": "Mejor me [es] la ley de tu boca, que millares de oro y plata.",
+      "topic": ""
+    },
+    "73": {
+      "text": "YOD. Tus manos me hicieron y me formaron; hazme entender, y aprenderé tus mandamientos.",
+      "topic": ""
+    },
+    "74": {
+      "text": "Los que te temen me verán, y se alegrarán; porque en tu palabra he esperado.",
+      "topic": ""
+    },
+    "75": {
+      "text": "Conozco, oh Jehová, que tus juicios [son] justos, y que conforme a tu fidelidad me afligiste.",
+      "topic": ""
+    },
+    "76": {
+      "text": "Sea ahora tu misericordia para consolarme, conforme a lo que has dicho a tu siervo.",
+      "topic": ""
+    },
+    "77": {
+      "text": "Vengan a mí tus misericordias, y viva; porque tu ley [es] mi delicia.",
+      "topic": ""
+    },
+    "78": {
+      "text": "Sean avergonzados los soberbios, porque sin causa me han calumniado; mas yo, meditaré en tus mandamientos.",
+      "topic": ""
+    },
+    "79": {
+      "text": "Tórnense a mí los que te temen y conocen tus testimonios.",
+      "topic": ""
+    },
+    "80": {
+      "text": "Sea mi corazón íntegro en tus estatutos; para que no sea yo avergonzado.",
+      "topic": ""
+    },
+    "81": {
+      "text": "KAF. Desfallece mi alma por tu salvación, [mas] espero en tu palabra.",
+      "topic": ""
+    },
+    "82": {
+      "text": "Desfallecieron mis ojos por tu palabra, diciendo: ¿Cuándo me consolarás?",
+      "topic": ""
+    },
+    "83": {
+      "text": "Porque estoy como el odre al humo; [pero] no he olvidado tus estatutos.",
+      "topic": ""
+    },
+    "84": {
+      "text": "¿Cuántos son los días de tu siervo? ¿Cuándo harás juicio contra los que me persiguen?",
+      "topic": ""
+    },
+    "85": {
+      "text": "Los soberbios han cavado hoyos para mí; mas no obran según tu ley.",
+      "topic": ""
+    },
+    "86": {
+      "text": "Todos tus mandamientos [son] verdad; sin causa me persiguen; ayúdame.",
+      "topic": ""
+    },
+    "87": {
+      "text": "Casi me han echado por tierra; mas yo no he dejado tus mandamientos.",
+      "topic": ""
+    },
+    "88": {
+      "text": "Vivifícame conforme a tu misericordia; y guardaré los testimonios de tu boca.",
+      "topic": ""
+    },
+    "89": {
+      "text": "LAMED. Para siempre, oh Jehová, está establecida tu palabra en el cielo.",
+      "topic": ""
+    },
+    "90": {
+      "text": "Por generación y generación [es] tu fidelidad; tú afirmaste la tierra, y permanece.",
+      "topic": ""
+    },
+    "91": {
+      "text": "Por tus ordenanzas permanecen todas las cosas hasta hoy, pues todas ellas te sirven.",
+      "topic": ""
+    },
+    "92": {
+      "text": "Si tu ley no [hubiese sido] mi delicia, ya en mi aflicción hubiera perecido.",
+      "topic": ""
+    },
+    "93": {
+      "text": "Nunca jamás me olvidaré de tus mandamientos; porque con ellos me has vivificado.",
+      "topic": ""
+    },
+    "94": {
+      "text": "Tuyo soy yo, guárdame; porque he buscado tus mandamientos.",
+      "topic": ""
+    },
+    "95": {
+      "text": "Los impíos me han aguardado para destruirme; [mas] yo consideraré tus testimonios.",
+      "topic": ""
+    },
+    "96": {
+      "text": "A toda perfección he visto fin; extenso sobremanera [es] tu mandamiento.",
+      "topic": ""
+    },
+    "97": {
+      "text": "MEM. ¡Oh, cuánto amo yo tu ley! Todo el día [es] ella mi meditación.",
+      "topic": ""
+    },
+    "98": {
+      "text": "Me has hecho más sabio que mis enemigos con tus mandamientos; porque siempre [están] conmigo.",
+      "topic": ""
+    },
+    "99": {
+      "text": "Más que todos mis enseñadores he entendido; porque tus testimonios [son] mi meditación.",
+      "topic": ""
+    },
+    "100": {
+      "text": "Más que los viejos he entendido, porque he guardado tus mandamientos.",
+      "topic": ""
+    },
+    "101": {
+      "text": "De todo mal camino contuve mis pies, para guardar tu palabra.",
+      "topic": ""
+    },
+    "102": {
+      "text": "No me aparté de tus juicios; porque tú me enseñaste.",
+      "topic": ""
+    },
+    "103": {
+      "text": "¡Cuán dulces son a mi paladar tus palabras! Más que la miel a mi boca.",
+      "topic": ""
+    },
+    "104": {
+      "text": "De tus mandamientos he adquirido inteligencia; por tanto, he aborrecido todo camino de mentira.",
+      "topic": ""
+    },
+    "105": {
+      "text": "NUN. Lámpara [es] a mis pies tu palabra, y lumbrera a mi camino.",
+      "topic": ""
+    },
+    "106": {
+      "text": "Juré y ratifiqué que he de guardar tus justos juicios.",
+      "topic": ""
+    },
+    "107": {
+      "text": "Afligido estoy en gran manera: vivifícame, oh Jehová, conforme a tu palabra.",
+      "topic": ""
+    },
+    "108": {
+      "text": "Te ruego, oh Jehová, que te sean agradables las ofrendas voluntarias de mi boca; y enséñame tus juicios.",
+      "topic": ""
+    },
+    "109": {
+      "text": "De continuo [está] mi alma en mi mano; [mas] no me he olvidado de tu ley.",
+      "topic": ""
+    },
+    "110": {
+      "text": "Me tendieron lazo los impíos; pero yo no me desvié de tus mandamientos.",
+      "topic": ""
+    },
+    "111": {
+      "text": "Por heredad he tomado tus testimonios para siempre; porque [son] el gozo de mi corazón.",
+      "topic": ""
+    },
+    "112": {
+      "text": "Mi corazón incliné a poner por obra tus estatutos de continuo, hasta el fin.",
+      "topic": ""
+    },
+    "113": {
+      "text": "SAMEC. Los pensamientos [vanos] aborrezco; mas amo tu ley.",
+      "topic": ""
+    },
+    "114": {
+      "text": "Mi escondedero y mi escudo [eres] tú; en tu palabra he esperado.",
+      "topic": ""
+    },
+    "115": {
+      "text": "Apartaos de mí, malignos; pues yo guardaré los mandamientos de mi Dios.",
+      "topic": ""
+    },
+    "116": {
+      "text": "Susténtame conforme a tu palabra, y viviré; y no dejes que me avergüence de mi esperanza.",
+      "topic": ""
+    },
+    "117": {
+      "text": "Sostenme, y seré salvo; y me deleitaré siempre en tus estatutos.",
+      "topic": ""
+    },
+    "118": {
+      "text": "Hollaste a todos los que se desvían de tus estatutos; porque mentira es su engaño.",
+      "topic": ""
+    },
+    "119": {
+      "text": "[Como] escorias hiciste consumir a todos los impíos de la tierra; por tanto yo he amado tus testimonios.",
+      "topic": ""
+    },
+    "120": {
+      "text": "Mi carne se ha estremecido por temor de ti; y de tus juicios tengo miedo.",
+      "topic": ""
+    },
+    "121": {
+      "text": "AIN. Juicio y justicia he hecho; no me abandones a mis opresores.",
+      "topic": ""
+    },
+    "122": {
+      "text": "Responde por tu siervo para bien; no permitas que me opriman los soberbios.",
+      "topic": ""
+    },
+    "123": {
+      "text": "Mis ojos desfallecieron por tu salvación, y por el dicho de tu justicia.",
+      "topic": ""
+    },
+    "124": {
+      "text": "Haz con tu siervo según tu misericordia, y enséñame tus estatutos.",
+      "topic": ""
+    },
+    "125": {
+      "text": "Tu siervo soy yo, dame entendimiento; para que sepa tus testimonios.",
+      "topic": ""
+    },
+    "126": {
+      "text": "Tiempo [es] de actuar, oh Jehová; porque han invalidado tu ley.",
+      "topic": ""
+    },
+    "127": {
+      "text": "Por tanto, amo tus mandamientos más que el oro, y más que oro muy puro.",
+      "topic": ""
+    },
+    "128": {
+      "text": "Por tanto, estimo rectos todos tus preceptos [acerca] de todas las cosas, y aborrezco todo camino de mentira.",
+      "topic": ""
+    },
+    "129": {
+      "text": "PE. Maravillosos [son] tus testimonios; por tanto, los ha guardado mi alma.",
+      "topic": ""
+    },
+    "130": {
+      "text": "El principio de tus palabras alumbra; hace entender a los simples.",
+      "topic": ""
+    },
+    "131": {
+      "text": "Mi boca abrí y suspiré; porque deseaba tus mandamientos.",
+      "topic": ""
+    },
+    "132": {
+      "text": "Mírame, y ten misericordia de mí, como acostumbras con los que aman tu nombre.",
+      "topic": ""
+    },
+    "133": {
+      "text": "Ordena mis pasos con tu palabra; y ninguna iniquidad se enseñoree de mí.",
+      "topic": ""
+    },
+    "134": {
+      "text": "Líbrame de la violencia de los hombres; y guardaré tus mandamientos.",
+      "topic": ""
+    },
+    "135": {
+      "text": "Haz que tu rostro resplandezca sobre tu siervo; y enséñame tus estatutos.",
+      "topic": ""
+    },
+    "136": {
+      "text": "Ríos de agua descendieron de mis ojos, porque no guardaban tu ley.",
+      "topic": ""
+    },
+    "137": {
+      "text": "TZADI. Justo eres tú, oh Jehová, y rectos tus juicios.",
+      "topic": ""
+    },
+    "138": {
+      "text": "Tus testimonios, que has encomendado, [son] rectos y muy fieles.",
+      "topic": ""
+    },
+    "139": {
+      "text": "Mi celo me ha consumido; porque mis enemigos se olvidaron de tus palabras.",
+      "topic": ""
+    },
+    "140": {
+      "text": "Sumamente pura [es] tu palabra; y la ama tu siervo.",
+      "topic": ""
+    },
+    "141": {
+      "text": "Pequeño soy yo y desechado; [mas] no me he olvidado de tus mandamientos.",
+      "topic": ""
+    },
+    "142": {
+      "text": "Tu justicia [es] justicia eterna, y tu ley la verdad.",
+      "topic": ""
+    },
+    "143": {
+      "text": "Aflicción y angustia me hallaron; [mas] tus mandamientos fueron mi delicia.",
+      "topic": ""
+    },
+    "144": {
+      "text": "Justicia eterna [son] tus testimonios; dame entendimiento, y viviré.",
+      "topic": ""
+    },
+    "145": {
+      "text": "COF. Clamé con todo [mi] corazón; respóndeme, Jehová, y guardaré tus estatutos.",
+      "topic": ""
+    },
+    "146": {
+      "text": "A ti clamé; sálvame, y guardaré tus testimonios.",
+      "topic": ""
+    },
+    "147": {
+      "text": "Me anticipé al alba, y clamé; esperé en tu palabra.",
+      "topic": ""
+    },
+    "148": {
+      "text": "Se anticiparon mis ojos a las vigilias de la noche, para meditar en tu palabra.",
+      "topic": ""
+    },
+    "149": {
+      "text": "Oye mi voz conforme a tu misericordia; oh Jehová, vivifícame conforme a tu juicio.",
+      "topic": ""
+    },
+    "150": {
+      "text": "Se me han acercado los que siguen la maldad; Lejos están de tu ley.",
+      "topic": ""
+    },
+    "151": {
+      "text": "Cercano estás tú, oh Jehová; y todos tus mandamientos son verdad.",
+      "topic": ""
+    },
+    "152": {
+      "text": "Hace ya mucho que he entendido tus testimonios, que para siempre los has establecido.",
+      "topic": ""
+    },
+    "153": {
+      "text": "RESH. Mira mi aflicción, y líbrame; porque de tu ley no me he olvidado.",
+      "topic": ""
+    },
+    "154": {
+      "text": "Aboga mi causa, y líbrame; vivifícame con tu palabra.",
+      "topic": ""
+    },
+    "155": {
+      "text": "Lejos [está] de los impíos la salvación; porque no buscan tus estatutos.",
+      "topic": ""
+    },
+    "156": {
+      "text": "Muchas [son] tus misericordias, oh Jehová; vivifícame conforme a tus juicios.",
+      "topic": ""
+    },
+    "157": {
+      "text": "Muchos [son] mis perseguidores y mis enemigos; [mas] de tus testimonios no me he apartado.",
+      "topic": ""
+    },
+    "158": {
+      "text": "Veía a los prevaricadores, y me disgustaba; porque no guardaban tus palabras.",
+      "topic": ""
+    },
+    "159": {
+      "text": "Mira, oh Jehová, que amo tus mandamientos; vivifícame conforme a tu misericordia.",
+      "topic": ""
+    },
+    "160": {
+      "text": "El principio de tu palabra es verdad; y eterno es todo juicio de tu justicia.",
+      "topic": ""
+    },
+    "161": {
+      "text": "SIN. Príncipes me han perseguido sin causa; mas mi corazón está asombrado de tu palabra.",
+      "topic": ""
+    },
+    "162": {
+      "text": "Me gozo yo en tu palabra, como el que halla muchos despojos.",
+      "topic": ""
+    },
+    "163": {
+      "text": "La mentira aborrezco y abomino; tu ley amo.",
+      "topic": ""
+    },
+    "164": {
+      "text": "Siete veces al día te alabo sobre los juicios de tu justicia.",
+      "topic": ""
+    },
+    "165": {
+      "text": "Mucha paz tienen los que aman tu ley; y no hay para ellos tropiezo.",
+      "topic": ""
+    },
+    "166": {
+      "text": "Tu salvación he esperado, oh Jehová; y tus mandamientos he puesto por obra.",
+      "topic": ""
+    },
+    "167": {
+      "text": "Mi alma ha guardado tus testimonios, y los he amado en gran manera.",
+      "topic": ""
+    },
+    "168": {
+      "text": "He guardado tus mandamientos y tus testimonios; porque todos mis caminos están delante de ti.",
+      "topic": ""
+    },
+    "169": {
+      "text": "TAU. Llegue mi clamor delante de ti, oh Jehová; dame entendimiento conforme a tu palabra.",
+      "topic": ""
+    },
+    "170": {
+      "text": "Llegue mi oración delante de ti; líbrame conforme a tu palabra.",
+      "topic": ""
+    },
+    "171": {
+      "text": "Mis labios rebosarán alabanza, cuando me hayas enseñado tus estatutos.",
+      "topic": ""
+    },
+    "172": {
+      "text": "Hablará mi lengua tus palabras; porque todos tus mandamientos son justicia.",
+      "topic": ""
+    },
+    "173": {
+      "text": "Que tu mano me ayude; Porque tus mandamientos he escogido.",
+      "topic": ""
+    },
+    "174": {
+      "text": "He deseado tu salvación, oh Jehová; y tu ley [es] mi delicia.",
+      "topic": ""
+    },
+    "175": {
+      "text": "Que viva mi alma y te alabe; y tus juicios me ayuden.",
+      "topic": ""
+    },
+    "176": {
+      "text": "Yo anduve errante como oveja extraviada; busca a tu siervo; porque no me he olvidado de tus mandamientos.",
+      "topic": ""
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "info": {
+    "book": "1 Chronicles",
+    "chapter": "6",
+    "translation": "Darby Bible Translation",
+    "translationID": "dbt",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "The sons of Levi: Gershom, Kohath, and Merari.",
+      "topic": ""
+    },
+    "2": {
+      "text": "And the sons of Kohath: Amram, Jizhar, and Hebron, and Uzziel.",
+      "topic": ""
+    },
+    "3": {
+      "text": "And the children of Amram: Aaron, and Moses, and Miriam. And the sons of Aaron: Nadab and Abihu, Eleazar and Ithamar.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Eleazar begot Phinehas; Phinehas begot Abishua,",
+      "topic": ""
+    },
+    "5": {
+      "text": "and Abishua begot Bukki, and Bukki begot Uzzi,",
+      "topic": ""
+    },
+    "6": {
+      "text": "and Uzzi begot Zerahiah, and Zerahiah begot Meraioth;",
+      "topic": ""
+    },
+    "7": {
+      "text": "Meraioth begot Amariah, and Amariah begot Ahitub,",
+      "topic": ""
+    },
+    "8": {
+      "text": "and Ahitub begot Zadok, and Zadok begot Ahimaaz,",
+      "topic": ""
+    },
+    "9": {
+      "text": "and Ahimaaz begot Azariah, and Azariah begot Johanan,",
+      "topic": ""
+    },
+    "10": {
+      "text": "and Johanan begot Azariah (he is it that exercised the priesthood in the house that Solomon built in Jerusalem);",
+      "topic": ""
+    },
+    "11": {
+      "text": "and Azariah begot Amariah, and Amariah begot Ahitub,",
+      "topic": ""
+    },
+    "12": {
+      "text": "and Ahitub begot Zadok, and Zadok begot Shallum,",
+      "topic": ""
+    },
+    "13": {
+      "text": "and Shallum begot Hilkijah, and Hilkijah begot Azariah,",
+      "topic": ""
+    },
+    "14": {
+      "text": "and Azariah begot Seraiah, and Seraiah begot Jehozadak,",
+      "topic": ""
+    },
+    "15": {
+      "text": "and Jehozadak went away, when Jehovah carried away Judah and Jerusalem by the hand of Nebuchadnezzar.",
+      "topic": ""
+    },
+    "16": {
+      "text": "The sons of Levi: Gershom, Kohath, and Merari.",
+      "topic": ""
+    },
+    "17": {
+      "text": "And these are the names of the sons of Gershom: Libni and Shimei.",
+      "topic": ""
+    },
+    "18": {
+      "text": "And the sons of Kohath: Amram, and Jizhar, and Hebron, and Uzziel.",
+      "topic": ""
+    },
+    "19": {
+      "text": "The sons of Merari: Mahli and Mushi. And these are the families of Levi according to their fathers.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Of Gershom: Libni his son, Jahath his son, Zimmah his son,",
+      "topic": ""
+    },
+    "21": {
+      "text": "Joah his son, Iddo his son, Zerah his son, Jeathrai his son.",
+      "topic": ""
+    },
+    "22": {
+      "text": "The sons of Kohath: Amminadab his son, Korah his son, Assir his son,",
+      "topic": ""
+    },
+    "23": {
+      "text": "Elkanah his son, and Ebiasaph his son, and Assir his son,",
+      "topic": ""
+    },
+    "24": {
+      "text": "Tahath his son, Uriel his son, Uzziah his son, and Saul his son.",
+      "topic": ""
+    },
+    "25": {
+      "text": "And the sons of Elkanah: Amasai and Ahimoth.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Elkanah,—the sons of Elkanah: Zophai his son, and Nahath his son,",
+      "topic": ""
+    },
+    "27": {
+      "text": "Eliab his son, Jeroham his son, Elkanah his son.",
+      "topic": ""
+    },
+    "28": {
+      "text": "And the sons of Samuel: the firstborn Vashni and Abijah.",
+      "topic": ""
+    },
+    "29": {
+      "text": "The sons of Merari: Mahli; Libni his son, Shimei his son, Uzza his son,",
+      "topic": ""
+    },
+    "30": {
+      "text": "Shimea his son, Haggijah his son, Asaiah his son.",
+      "topic": ""
+    },
+    "31": {
+      "text": "And these are they whom David set over the service of song in the house of Jehovah after that the ark was in rest.",
+      "topic": ""
+    },
+    "32": {
+      "text": "And they ministered before the tabernacle of the tent of meeting with singing, until Solomon had built the house of Jehovah in Jerusalem; and they attended to their office according to their order.",
+      "topic": ""
+    },
+    "33": {
+      "text": "And these are they that attended, and their sons: Of the sons of the Kohathites: Heman the singer, the son of Joel, the son of Samuel,",
+      "topic": ""
+    },
+    "34": {
+      "text": "the son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,",
+      "topic": ""
+    },
+    "35": {
+      "text": "the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,",
+      "topic": ""
+    },
+    "36": {
+      "text": "the son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,",
+      "topic": ""
+    },
+    "37": {
+      "text": "the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,",
+      "topic": ""
+    },
+    "38": {
+      "text": "the son of Jizhar, the son of Kohath, the son of Levi, the son of Israel.",
+      "topic": ""
+    },
+    "39": {
+      "text": "And his brother Asaph, who stood on his right hand: Asaph, the son of Berechiah, the son of Shimea,",
+      "topic": ""
+    },
+    "40": {
+      "text": "the son of Michael, the son of Baaseiah, the son of Malchijah,",
+      "topic": ""
+    },
+    "41": {
+      "text": "the son of Ethni, the son of Zerah, the son of Adaiah,",
+      "topic": ""
+    },
+    "42": {
+      "text": "the son of Ethan, the son of Zimmah, the son of Shimei,",
+      "topic": ""
+    },
+    "43": {
+      "text": "the son of Jahath, the son of Gershom, the son of Levi.",
+      "topic": ""
+    },
+    "44": {
+      "text": "And their brethren the sons of Merari were on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,",
+      "topic": ""
+    },
+    "45": {
+      "text": "the son of Hashabiah, the son of Amaziah, the son of Hilkijah,",
+      "topic": ""
+    },
+    "46": {
+      "text": "the son of Amzi, the son of Bani, the son of Shemer,",
+      "topic": ""
+    },
+    "47": {
+      "text": "the son of Mahli, the son of Mushi, the son of Merari, the son of Levi.",
+      "topic": ""
+    },
+    "48": {
+      "text": "And their brethren the Levites were given for all the service of the tabernacle of the house of God.",
+      "topic": ""
+    },
+    "49": {
+      "text": "And Aaron and his sons offered upon the altar of the burnt-offering, and on the altar of incense, for all the work of the most holy place, and to make atonement for Israel, according to all that Moses the servant of God had commanded.",
+      "topic": ""
+    },
+    "50": {
+      "text": "And these are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,",
+      "topic": ""
+    },
+    "51": {
+      "text": "Bukki his son, Uzzi his son, Zerahiah his son,",
+      "topic": ""
+    },
+    "52": {
+      "text": "Meraioth his son, Amariah his son, Ahitub his son,",
+      "topic": ""
+    },
+    "53": {
+      "text": "Zadok his son, Ahimaaz his son.",
+      "topic": ""
+    },
+    "54": {
+      "text": "And these are their dwelling-places according to their encampments, within their borders. For the sons of Aaron, of the family of the Kohathites, for theirs was the lot;",
+      "topic": ""
+    },
+    "55": {
+      "text": "and they gave them Hebron in the land of Judah, and its suburbs round about it;",
+      "topic": ""
+    },
+    "56": {
+      "text": "but the fields of the city, and the hamlets thereof gave they to Caleb the son of Jephunneh.",
+      "topic": ""
+    },
+    "57": {
+      "text": "And to the children of Aaron they gave the city of refuge, Hebron; and Libnah and its suburbs, and Jattir, and Eshtemoa and its suburbs,",
+      "topic": ""
+    },
+    "58": {
+      "text": "and Hilen and its suburbs, Debir and its suburbs,",
+      "topic": ""
+    },
+    "59": {
+      "text": "and Ashan and its suburbs, and Beth-shemesh and its suburbs;",
+      "topic": ""
+    },
+    "60": {
+      "text": "and, out of the tribe of Benjamin, Geba and its suburbs, and Allemeth and its suburbs, and Anathoth and its suburbs: all their cities, thirteen cities, according to their families.",
+      "topic": ""
+    },
+    "61": {
+      "text": "And to the children of Kohath that remained [were given] by lot out of the families of the tribe [of Ephraim and of the tribe of Dan and] of the half tribe, half Manasseh, ten cities.",
+      "topic": ""
+    },
+    "62": {
+      "text": "And to the children of Gershom according to their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.",
+      "topic": ""
+    },
+    "63": {
+      "text": "To the children of Merari [were given] by lot, according to their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.",
+      "topic": ""
+    },
+    "64": {
+      "text": "And the children of Israel gave to the Levites the cities and their suburbs.",
+      "topic": ""
+    },
+    "65": {
+      "text": "And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities which were mentioned by name.",
+      "topic": ""
+    },
+    "66": {
+      "text": "And to the families of the children of Kohath who had the cities of their territory out of the tribe of Ephraim,",
+      "topic": ""
+    },
+    "67": {
+      "text": "they gave the city of refuge, Shechem and its suburbs in mount Ephraim; and Gezer and its suburbs,",
+      "topic": ""
+    },
+    "68": {
+      "text": "and Jokmeam and its suburbs, and Beth-horon and its suburbs,",
+      "topic": ""
+    },
+    "69": {
+      "text": "and Ajalon and its suburbs, and Gath-Rimmon and its suburbs;",
+      "topic": ""
+    },
+    "70": {
+      "text": "and out of the half tribe of Manasseh: Aner and its suburbs, and Bileam and its suburbs,—for the families of the children of Kohath that remained.",
+      "topic": ""
+    },
+    "71": {
+      "text": "To the children of Gershom [were given] out of the family of the half tribe of Manasseh: Golan in Bashan and its suburbs, and Ashtaroth and its suburbs;",
+      "topic": ""
+    },
+    "72": {
+      "text": "and out of the tribe of Issachar: Kedesh and its suburbs, Dobrath and its suburbs,",
+      "topic": ""
+    },
+    "73": {
+      "text": "and Ramoth and its suburbs, and Anem and its suburbs;",
+      "topic": ""
+    },
+    "74": {
+      "text": "and out of the tribe of Asher: Mashal and its suburbs, and Abdon and its suburbs,",
+      "topic": ""
+    },
+    "75": {
+      "text": "and Hukok and its suburbs, and Rehob and its suburbs;",
+      "topic": ""
+    },
+    "76": {
+      "text": "and out of the tribe of Naphtali: Kedesh in Galilee and its suburbs, and Hammon and its suburbs, and Kirjathaim and its suburbs.",
+      "topic": ""
+    },
+    "77": {
+      "text": "To the children of Merari that remained [were given] out of the tribe of Zebulun, Rimmono and its suburbs, [and] Tabor and its suburbs;",
+      "topic": ""
+    },
+    "78": {
+      "text": "and on the other side of the Jordan by Jericho, on the east side of the Jordan, out of the tribe of Reuben: Bezer in the wilderness and its suburbs, and Jahzah and its suburbs,",
+      "topic": ""
+    },
+    "79": {
+      "text": "and Kedemoth and its suburbs, and Mephaath and its suburbs;",
+      "topic": ""
+    },
+    "80": {
+      "text": "and out of the tribe of Gad: Ramoth in Gilead and its suburbs, and Mahanaim and its suburbs,",
+      "topic": ""
+    },
+    "81": {
+      "text": "and Heshbon and its suburbs, and Jaazer and its suburbs.",
+      "topic": ""
+    }
+  }
+}

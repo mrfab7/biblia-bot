@@ -1,0 +1,136 @@
+{
+  "info": {
+    "book": "Isaías",
+    "chapter": "40",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Consolad, consolad a mi pueblo, dice vuestro Dios.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Hablad según el corazón de Jerusalén; decidle a voces que su tiempo es ya cumplido; que su pecado es perdonado; que doble ha recibido de la mano del SEÑOR por todos sus pecados.",
+      "topic": ""
+    },
+    "3": {
+      "text": "¶ Voz que clama en el desierto; barred camino al SEÑOR, enderezad calzada en la soledad a nuestro Dios.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Todo valle sea alzado, y todo monte y collado bájese; y lo torcido se enderece; y lo áspero se allane.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Y la gloria del SEÑOR se manifestará; y toda carne juntamente la verá; porque la boca del SEÑOR habló.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Voz que decía: Da voces. Y yo respondí: ¿Qué tengo que decir a voces? Toda carne es hierba, y toda su piedad como flor del campo.",
+      "topic": ""
+    },
+    "7": {
+      "text": "La hierba se seca, y la flor se cae; porque el Espíritu del SEÑOR sopló en ella. Ciertamente hierba es el pueblo.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Se seca la hierba, se cae la flor; mas la palabra del Dios nuestro permanece para siempre.",
+      "topic": ""
+    },
+    "9": {
+      "text": "¶ Súbete sobre un monte alto, oh Sion anunciadora; levanta fuertemente tu voz anunciadora de Jerusalén; levántala, no temas. Di a las ciudades de Judá: ¡Veis aquí el Dios vuestro!",
+      "topic": ""
+    },
+    "10": {
+      "text": "He aquí, que el Señor DIOS vendrá con fortaleza; y su brazo se enseñoreará. He aquí que su salario viene con él, y su obra delante de su rostro.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Como pastor apacentará su rebaño; en su brazo cogerá los corderos, y en su seno los llevará; pastoreará suavemente , las paridas.",
+      "topic": ""
+    },
+    "12": {
+      "text": "¶ ¿Quién midió las aguas con su puño; y aderezó los cielos con su palmo; y con tres dedos apañó el polvo de la tierra; y pesó los montes con balanza, y los collados con peso?",
+      "topic": ""
+    },
+    "13": {
+      "text": "¿Quién enseñó al Espíritu del SEÑOR, o le aconsejó enseñándole?",
+      "topic": ""
+    },
+    "14": {
+      "text": "¿A quién demandó consejo para ser avisado? ¿Quién le enseñó el camino del juicio, o le enseñó ciencia, o le mostró la senda de la prudencia?",
+      "topic": ""
+    },
+    "15": {
+      "text": "He aquí que las naciones son estimadas como la gota de un acetre; y como el orín del peso; he aquí que hace desaparecer las islas como polvo.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Ni todo el Líbano bastará para el fuego; ni todos sus animales para el sacrificio.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Como nada son todos los gentiles delante de él; y en su comparación serán estimadas en vanidad y en menos que nada.",
+      "topic": ""
+    },
+    "18": {
+      "text": "¶ ¿A qué, pues, haréis semejante a Dios, o qué imágen le compondréis?",
+      "topic": ""
+    },
+    "19": {
+      "text": "El artífice apareja la imagen de talla; el platero le extiende el oro, y el platero le funde cadenas de plata.",
+      "topic": ""
+    },
+    "20": {
+      "text": "El pobre escoge, para ofrecerle, madera que no se corrompa, se busca un maestro sabio, que le haga una imagen de talla de manera que no se mueva.",
+      "topic": ""
+    },
+    "21": {
+      "text": "¿No sabéis? ¿No habéis oído? ¿Nunca os lo han dicho desde el principio? ¿No habéis sido enseñados desde que la tierra se fundó?",
+      "topic": ""
+    },
+    "22": {
+      "text": "El está sentado sobre el globo de la tierra, cuyos moradores le son como langostas; él extiende los cielos como una cortina, los despliega como una tienda para morar;",
+      "topic": ""
+    },
+    "23": {
+      "text": "el torna en nada a los poderosos, y a los que gobiernan la tierra hace como que no hubieran sido.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Como si nunca fueran plantados, como si nunca fueran sembrados, como si nunca su tronco hubiera tenido raíz en la tierra; y aun soplando en ellos se secan, y el torbellino los lleva como hojarasca.",
+      "topic": ""
+    },
+    "25": {
+      "text": "¿Y a qué, me haréis semejante, para que me comparéis? Dice el Santo.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Levantad en alto vuestros ojos y mirad quién creó estas cosas: él saca por cuenta su ejército; a todas llama por sus nombres; ninguna faltará por la multitud de sus fuerzas, y por la fortaleza de su fuerza.",
+      "topic": ""
+    },
+    "27": {
+      "text": "¶ ¿Por qué dices, oh Jacob, y hablas tú , Israel: Mi camino está escondido del SEÑOR, y de mi Dios pasó mi juicio?",
+      "topic": ""
+    },
+    "28": {
+      "text": "¿No has sabido? ¿No has oído que el Dios del siglo es el SEÑOR, el cual creó los términos de la tierra? No se trabaja, ni se fatiga con cansancio; y su entendimiento no hay quien lo alcance.",
+      "topic": ""
+    },
+    "29": {
+      "text": "El da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Los jóvenes se fatigan, y se cansan; los niños flaquean y caen;",
+      "topic": ""
+    },
+    "31": {
+      "text": "pero los que esperan al SEÑOR tendrán nuevas fuerzas; levantarán las alas, como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.",
+      "topic": ""
+    }
+  }
+}

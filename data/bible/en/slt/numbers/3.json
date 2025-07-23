@@ -1,0 +1,216 @@
+{
+  "info": {
+    "book": "Numbers",
+    "chapter": "3",
+    "translation": "Smith's Literal Translation",
+    "translationID": "slt",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "And these the generations of Aaron and Moses, in the day Jehovah spake to Moses in mount Sinai.",
+      "topic": ""
+    },
+    "2": {
+      "text": "And these the names of the sons of Aaron: the first-born Nadab, and Abihu, and Eleazar and Ithamar.",
+      "topic": ""
+    },
+    "3": {
+      "text": "These the names of the sons of Aaron, the priests being anointed, of whom he filled their hands to be priests.",
+      "topic": ""
+    },
+    "4": {
+      "text": "And Nadab and Abihu will die before Jehovah in their bringing strange fire before Jehovah, in the desert of Sinai: and there were no sons to them: and Eleazar will be priest, and Ithamar, before Aaron their father.",
+      "topic": ""
+    },
+    "5": {
+      "text": "And Jehovah will speak to Moses, saying,",
+      "topic": ""
+    },
+    "6": {
+      "text": "Bring near the tribe of Levi, and make it stand before Aaron the priest; and they served him.",
+      "topic": ""
+    },
+    "7": {
+      "text": "And they watched his watches, and the watches of all the assembly before the tent of appointment to do the work of the dwelling.",
+      "topic": ""
+    },
+    "8": {
+      "text": "And they shall watch all the vessels of the tent of appointment, and the watches of the sons of Israel, to do the work of the dwelling.",
+      "topic": ""
+    },
+    "9": {
+      "text": "And give the Levites to Aaron and to his sons; being given they were given to him from the sons of Israel.",
+      "topic": ""
+    },
+    "10": {
+      "text": "And Aaron and his sons thou shalt set up, and they shall watch their priesthood; and the stranger coming near shall die.",
+      "topic": ""
+    },
+    "11": {
+      "text": "And Jehovah will speak to Moses, saying,",
+      "topic": ""
+    },
+    "12": {
+      "text": "And I, behold, I took the Levites from the midst of the sons of Israel, instead of all the first-born cleaving the womb from the sons of Israel: and the Levites were to me.",
+      "topic": ""
+    },
+    "13": {
+      "text": "For to me all the first-born: in the day I struck all the first-born in the land of Egypt, I consecrated to me every first-born in Israel, from man to cattle: to me they shall be: I am Jehovah.",
+      "topic": ""
+    },
+    "14": {
+      "text": "And Jehovah will speak to Moses in the desert of Sinai, saying,",
+      "topic": ""
+    },
+    "15": {
+      "text": "Review the sons of Levi according to the house of their fathers, according to their families: every male from the son of a month and above shalt thou review them.",
+      "topic": ""
+    },
+    "16": {
+      "text": "And Moses will review them according to the mouth of Jehovah, as he commanded.",
+      "topic": ""
+    },
+    "17": {
+      "text": "And these shall be the sons of Levi, by their names: Gershon, and Kohath, and Merari.",
+      "topic": ""
+    },
+    "18": {
+      "text": "And these the names of the sons of Gershon according to their families: Libni and Shimei.",
+      "topic": ""
+    },
+    "19": {
+      "text": "And the sons of Kohath, according to their families: Amram, and Izebar, Hebron, and Uzziel.",
+      "topic": ""
+    },
+    "20": {
+      "text": "And the sons of Merari according to their families: Mahli, and Mushi; these they of the families of the Levites according to the house of their fathers.",
+      "topic": ""
+    },
+    "21": {
+      "text": "To Gershon the families of the Libnites, and the families of the Shimites: these they of the families of the Gershonites.",
+      "topic": ""
+    },
+    "22": {
+      "text": "They being reviewed according to the number of every male, from the son of a month and above, they being reviewed, seven thousand and five hundred.",
+      "topic": ""
+    },
+    "23": {
+      "text": "The families of the Gershonites shall encamp behind the tent to the sea.",
+      "topic": ""
+    },
+    "24": {
+      "text": "And the chief of the house of the father to the Gershonites, Eliasaph, the son of Lael.",
+      "topic": ""
+    },
+    "25": {
+      "text": "And the watches of the sons of Gershon in the tent of appointment, the dwelling, and the tent, its covering, and the vail of the door of the tent of appointment,",
+      "topic": ""
+    },
+    "26": {
+      "text": "And the curtains of the enclosure, and the covering of the door of the enclosure, which is by the dwelling, and upon the altar round about, and its cords, and all its works.",
+      "topic": ""
+    },
+    "27": {
+      "text": "And for Kohath the families of the Amramites, and the families of the Izeharites, and the families of the Hebronites, and the families of the Uzzielites these they of the families of the Kohathites.",
+      "topic": ""
+    },
+    "28": {
+      "text": "According to the number of every male, from the son of a month and above, eight thousand six hundred, watching the watches of the holy place.",
+      "topic": ""
+    },
+    "29": {
+      "text": "The families of the sons of Kohath shall encamp by the thigh of the tent to the south.",
+      "topic": ""
+    },
+    "30": {
+      "text": "And the chief of the house of the father to the families of the Kohathites, Elizaphan, son of Uzziel.",
+      "topic": ""
+    },
+    "31": {
+      "text": "And their watches, the ark, and the table, and the chandelier, and the altar, and the vessels of the holy place which they shall serve in them, and the covering and all its works.",
+      "topic": ""
+    },
+    "32": {
+      "text": "And the chief of the chiefs of the Levites, Eleazar, son of Aaron the priest, set over those watching the watches of the holy place.",
+      "topic": ""
+    },
+    "33": {
+      "text": "To Merari the families of the Mahlites, and the families of the Mushites: these they of the families of the Merari.",
+      "topic": ""
+    },
+    "34": {
+      "text": "And they being reviewed according to the number of every male, from the son of a month and above, six thousand and two hundred,",
+      "topic": ""
+    },
+    "35": {
+      "text": "And the chief of the house of the father to the families of Merari, Zuriel, son of Abihail: by the thigh of the dwelling shall they encamp to the north.",
+      "topic": ""
+    },
+    "36": {
+      "text": "And the review of the watches of the sons of Merari, the boards of the dwelling, and its bars, and its pillars, and its bases, and all its vessels, and all its works,",
+      "topic": ""
+    },
+    "37": {
+      "text": "And the pillars of the enclosure round about, and their bases, and their pegs, and their cords.",
+      "topic": ""
+    },
+    "38": {
+      "text": "And they encamping before the dwelling eastward before the tent of appointment, from the sunrising, Moses and Aaron and his sons, watching the watches of the holy place, for the watches of the sons of Israel; and the stranger coming near shall die.",
+      "topic": ""
+    },
+    "39": {
+      "text": "All they being reviewed of the Levites, which Moses reviewed and Aaron, at the mouth of Jehovah, according to their families, every male from the son of a month and above, two and twenty thousand.",
+      "topic": ""
+    },
+    "40": {
+      "text": "And Jehovah will say to Moses, Review every first-born male to the sons of Israel, from the son of a month and above, and take up the number of names.",
+      "topic": ""
+    },
+    "41": {
+      "text": "And take the Levites for me (I Jehovah) instead of all the first-born of the sons of Israel; and the cattle of the Levites instead of all the first-born among the cattle of the sons of Israel.",
+      "topic": ""
+    },
+    "42": {
+      "text": "And Moses reviewed as Jehovah commanded him, all the first-born of the sons of Israel.",
+      "topic": ""
+    },
+    "43": {
+      "text": "And every first-born male shall be according to the number of names, from the son of a month and above, for those being reviewed, two and twenty thousand three and seventy and two hundred.",
+      "topic": ""
+    },
+    "44": {
+      "text": "And Jehovah will speak to Moses, saying,",
+      "topic": ""
+    },
+    "45": {
+      "text": "Take the Levites instead of all the first-born of the sons of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be to me: I Jehovah.",
+      "topic": ""
+    },
+    "46": {
+      "text": "And the price of redemption of the three and seventy and two hundred, of those remaining over the Levites, from the first-born of the sons of Israel:",
+      "topic": ""
+    },
+    "47": {
+      "text": "And thou shalt take five shekels by the heads, according to the holy shekel thou shalt take: twenty gerahs the shekel.",
+      "topic": ""
+    },
+    "48": {
+      "text": "And give the silver to Aaron and to his sons, the price of redemption of those remaining over among them.",
+      "topic": ""
+    },
+    "49": {
+      "text": "And Moses will take the silver of the price of their redemption, from those remaining over them redeemed of the Levites.",
+      "topic": ""
+    },
+    "50": {
+      "text": "From the first-born of the sons of Israel he took the silver; five and sixty and three hundred and a thousand, according to the holy shekel.",
+      "topic": ""
+    },
+    "51": {
+      "text": "And Moses will give the silver of those being redeemed, to Aaron and to his sons, at the mouth of Jehovah, as Jehovah commanded Moses.",
+      "topic": ""
+    }
+  }
+}

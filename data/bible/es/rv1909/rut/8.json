@@ -1,0 +1,276 @@
+{
+  "info": {
+    "book": "Rut",
+    "chapter": "8",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Y aconteció que al cabo de veinte años que Salomón había edificado la casa de Jehová y su casa,",
+      "topic": ""
+    },
+    "2": {
+      "text": "reedificó Salomón las ciudades que Hiram le había dado, y estableció en ellas a los hijos de Israel.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Después vino Salomón a Hamat de Soba, y la tomó.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Y edificó a Tadmor en el desierto, y todas las ciudades de abastecimiento que edificó en Hamat.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Asimismo reedificó a Bet-horón la de arriba, y a Bet-horón la de abajo, ciudades fortificadas, de muros, puertas, y barras;",
+      "topic": ""
+    },
+    "6": {
+      "text": "y a Baalat, y a todas las ciudades de abastecimiento que Salomón tenía; también todas las ciudades de los carros, y las ciudades de la gente de a caballo; y todo lo que Salomón quiso edificar en Jerusalén, y en el Líbano, y en toda la tierra de su señorío.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Y a todo el pueblo que [había] quedado de los heteos, amorreos, ferezeos, heveos y jebuseos, que no [eran] de Israel,",
+      "topic": ""
+    },
+    "8": {
+      "text": "los hijos de los que habían quedado en la tierra después de ellos, a los cuales los hijos de Israel no destruyeron del todo, hizo Salomón tributarios hasta hoy.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Y de los hijos de Israel no puso Salomón siervos en su obra; porque [eran] hombres de guerra, y sus príncipes y sus capitanes, y comandantes de sus carros, y su gente de a caballo.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Y tenía Salomón doscientos cincuenta principales de los gobernadores, los cuales mandaban en aquella gente.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Y pasó Salomón a la hija de Faraón, de la ciudad de David a la casa que él había edificado para ella; porque dijo: Mi esposa no morará en la casa de David rey de Israel, porque aquellas habitaciones donde ha entrado el arca de Jehová, son santas.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Entonces ofreció Salomón holocaustos a Jehová sobre el altar de Jehová, que había él edificado delante del pórtico,",
+      "topic": ""
+    },
+    "13": {
+      "text": "para que ofreciesen cada cosa en su día, conforme al mandamiento de Moisés, en los sábados, en las lunas nuevas, y en las fiestas solemnes, tres veces en el año, [esto es], en la fiesta de los panes sin levadura, en la fiesta de las semanas, y en la fiesta de los tabernáculos.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Y constituyó los turnos de los sacerdotes en sus oficios, conforme a lo establecido por David su padre; y los levitas por sus órdenes, para que alabasen y ministrasen delante de los sacerdotes, cada cosa en su día; asimismo los porteros por su orden a cada puerta: porque así lo había mandado David, varón de Dios.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Y no se apartaron del mandamiento del rey dado a los sacerdotes y a los levitas, en ningún asunto, ni en cuanto a los tesoros:",
+      "topic": ""
+    },
+    "16": {
+      "text": "Porque toda la obra de Salomón estaba preparada desde el día en que la casa de Jehová fue fundada hasta que se acabó, hasta que la casa de Jehová fue acabada del todo.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Entonces Salomón fue a Ezión-geber, y a Elot, a la costa del mar en la tierra de Edom.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Porque Hiram le había enviado navíos por mano de sus siervos, y marineros diestros en el mar, los cuales fueron con los siervos de Salomón a Ofir, y tomaron de allá cuatrocientos cincuenta talentos de oro y [los] trajeron al rey Salomón.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Y Jacim, Zicri, Zabdi;",
+      "topic": ""
+    },
+    "20": {
+      "text": "Elioenai, Ziletai, Eliel;",
+      "topic": ""
+    },
+    "21": {
+      "text": "Adaías, Baraías, y Simrat, hijos de Simeí;",
+      "topic": ""
+    },
+    "22": {
+      "text": "E Ispán, Heber, Eliel;",
+      "topic": ""
+    },
+    "23": {
+      "text": "Abdón, Zicri, Hanán;",
+      "topic": ""
+    },
+    "24": {
+      "text": "Hananías, Elam, Anatotías;",
+      "topic": ""
+    },
+    "25": {
+      "text": "Ifdaías, y Peniel, hijos de Sasac;",
+      "topic": ""
+    },
+    "26": {
+      "text": "Y Samserai, Seharías, Atalía;",
+      "topic": ""
+    },
+    "27": {
+      "text": "Jaarsías, Elías, Zicri, hijos de Jeroham.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Éstos [fueron] jefes principales de familias por sus linajes, y habitaron en Jerusalén.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Y en Gabaón habitaron el padre de Gabaón, la esposa del cual se llamó Maaca,",
+      "topic": ""
+    },
+    "30": {
+      "text": "y su hijo primogénito, Abdón, luego Zur, Cis, Baal, Nadab,",
+      "topic": ""
+    },
+    "31": {
+      "text": "Gedor, Ahío y Zequer.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Y Miclot engendró a Simea. Éstos también habitaron con sus hermanos en Jerusalén, enfrente de ellos.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Y Ner engendró a Cis, y Cis engendró a Saúl, y Saúl engendró a Jonatán, Malquisúa, Abinadab y Esbaal.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Hijo de Jonatán [fue] Merib-baal, y Merib-baal engendró a Micaía.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Los hijos de Micaía: Pitón, Melec, Taarea y Acaz.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Y Acaz engendró a Joada; y Joada engendró a Alemet, y a Azmavet y a Zimri; y Zimri engendró a Mosa;",
+      "topic": ""
+    },
+    "37": {
+      "text": "y Mosa engendró a Bina, hijo del cual [fue] Rafa, hijo del cual fue Elasa, cuyo hijo fue Azel.",
+      "topic": ""
+    },
+    "38": {
+      "text": "Y los hijos de Azel [fueron] seis, cuyos nombres son Azricam, Bocru, Ismael, Searías, Abdías y Hanán; todos éstos fueron hijos de Azel.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Y los hijos de Esec su hermano: Ulam su primogénito, Jeús el segundo, Elifelet el tercero.",
+      "topic": ""
+    },
+    "40": {
+      "text": "Y fueron los hijos de Ulam hombres valientes y vigorosos, arqueros diestros, los cuales tuvieron muchos hijos y nietos, ciento cincuenta. Todos éstos [fueron] de los hijos de Benjamín.",
+      "topic": ""
+    },
+    "41": {
+      "text": "Asimismo el extranjero, que no [es] de tu pueblo Israel, que viniere de lejanas tierras a causa de tu nombre",
+      "topic": ""
+    },
+    "42": {
+      "text": "(porque oirán de tu grande nombre, y de tu mano fuerte, y de tu brazo extendido), y viniere a orar a esta casa;",
+      "topic": ""
+    },
+    "43": {
+      "text": "escucha tú en el cielo, en el lugar de tu morada, y haz conforme a todo aquello por lo cual el extranjero clamare a ti; para que todos los pueblos de la tierra conozcan tu nombre, y te teman, como [lo hace] tu pueblo Israel, y entiendan que tu nombre es invocado sobre esta casa que yo edifiqué.",
+      "topic": ""
+    },
+    "44": {
+      "text": "Si tu pueblo saliere en batalla contra sus enemigos por el camino que tú los enviares, y oraren a Jehová hacia la ciudad que tú elegiste, y [hacia] la casa que yo edifiqué a tu nombre,",
+      "topic": ""
+    },
+    "45": {
+      "text": "escucha tú en el cielo su oración y su súplica, y ampara su causa.",
+      "topic": ""
+    },
+    "46": {
+      "text": "Si hubieren pecado contra ti (porque no [hay] hombre que no peque), y tú estuvieres airado contra ellos, y los entregares delante del enemigo, para que los cautiven y lleven a tierra enemiga, sea lejos o cerca,",
+      "topic": ""
+    },
+    "47": {
+      "text": "y ellos volvieren en sí en la tierra donde fueren cautivos; si se convirtieren, y oraren a ti en la tierra de los que los cautivaron, y dijeren: Pecamos, hemos hecho lo malo, hemos cometido impiedad;",
+      "topic": ""
+    },
+    "48": {
+      "text": "y si se convirtieren a ti de todo su corazón y de toda su alma, en la tierra de sus enemigos que los hubieren llevado cautivos, y oraren a ti hacia su tierra, que tú diste a sus padres, hacia la ciudad que tú elegiste y la casa que yo he edificado a tu nombre;",
+      "topic": ""
+    },
+    "49": {
+      "text": "escucha tú en el cielo, en el lugar de tu morada, su oración y su súplica, y ampara su causa.",
+      "topic": ""
+    },
+    "50": {
+      "text": "Y perdona a tu pueblo que ha pecado contra ti, y todas sus transgresiones que han cometido contra ti; y haz que tengan de ellos misericordia los que los hubieren llevado cautivos;",
+      "topic": ""
+    },
+    "51": {
+      "text": "porque ellos [son] tu pueblo y tu heredad, que tú sacaste de Egipto, de en medio del horno de hierro.",
+      "topic": ""
+    },
+    "52": {
+      "text": "Estén abiertos tus ojos a la oración de tu siervo, y a la súplica de tu pueblo Israel, para oírlos en todo aquello por lo que te invocaren;",
+      "topic": ""
+    },
+    "53": {
+      "text": "porque tú los apartaste de entre todos los pueblos de la tierra para [que fuesen] tu heredad, como lo dijiste por mano de Moisés tu siervo, cuando sacaste a nuestros padres de Egipto, oh Señor Jehová.",
+      "topic": ""
+    },
+    "54": {
+      "text": "Y fue que cuando Salomón acabó de hacer toda esta oración y súplica a Jehová, se levantó de estar de rodillas delante del altar de Jehová con sus manos extendidas al cielo;",
+      "topic": ""
+    },
+    "55": {
+      "text": "y puesto en pie, bendijo a toda la congregación de Israel, diciendo en voz alta:",
+      "topic": ""
+    },
+    "56": {
+      "text": "Bendito [sea] Jehová, que ha dado reposo a su pueblo Israel, conforme a todo lo que Él había dicho; ninguna palabra de todas sus promesas que expresó por Moisés su siervo, ha faltado.",
+      "topic": ""
+    },
+    "57": {
+      "text": "Sea con nosotros Jehová nuestro Dios, como fue con nuestros padres; y no nos desampare ni nos deje;",
+      "topic": ""
+    },
+    "58": {
+      "text": "y que incline nuestro corazón hacia Él, para que andemos en todos sus caminos, y guardemos sus mandamientos y sus estatutos y sus derechos, los cuales mandó a nuestros padres.",
+      "topic": ""
+    },
+    "59": {
+      "text": "Y que estas mis palabras con que he orado delante de Jehová estén cerca de Jehová nuestro Dios de día y de noche, para que Él proteja la causa de su siervo, y de su pueblo Israel, cada cosa en su tiempo;",
+      "topic": ""
+    },
+    "60": {
+      "text": "para que todos los pueblos de la tierra sepan que Jehová [es] Dios, y que no [hay] otro.",
+      "topic": ""
+    },
+    "61": {
+      "text": "Sea, pues, perfecto vuestro corazón para con Jehová nuestro Dios, andando en sus estatutos, y guardando sus mandamientos, como el día de hoy.",
+      "topic": ""
+    },
+    "62": {
+      "text": "Entonces el rey, y todo Israel con él, ofrecieron sacrificios delante de Jehová.",
+      "topic": ""
+    },
+    "63": {
+      "text": "Y ofreció Salomón sacrificios de paz, los cuales ofreció a Jehová; veintidós mil bueyes, y ciento veinte mil ovejas. Así dedicaron el rey y todos los hijos de Israel la casa de Jehová.",
+      "topic": ""
+    },
+    "64": {
+      "text": "Aquel mismo día santificó el rey el medio del atrio que [estaba] delante de la casa de Jehová: porque ofreció allí los holocaustos, y los presentes, y las grosuras de las ofrendas de paz; por cuanto el altar de bronce que [estaba] delante de Jehová [era] demasiado pequeño, y no cabían en él los holocaustos, las ofrendas y las grosuras de los sacrificios de paz.",
+      "topic": ""
+    },
+    "65": {
+      "text": "En aquel tiempo Salomón hizo fiesta, y con él todo Israel, una grande congregación, desde donde entran en Hamat hasta el río de Egipto, delante de Jehová nuestro Dios, por siete días y otros siete días, esto es, por catorce días.",
+      "topic": ""
+    },
+    "66": {
+      "text": "Y el octavo día despidió al pueblo; y ellos bendiciendo al rey, se fueron a sus tiendas alegres y gozosos de corazón por todos los beneficios que Jehová había hecho a David su siervo, y a su pueblo Israel.",
+      "topic": ""
+    }
+  }
+}

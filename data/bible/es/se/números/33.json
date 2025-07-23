@@ -1,0 +1,236 @@
+{
+  "info": {
+    "book": "Números",
+    "chapter": "33",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Estas son las partidas de los hijos de Israel, los cuales salieron de la tierra de Egipto por sus escuadrones, por mano de Moisés y Aarón.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Y Moisés escribió sus salidas por sus partidas por dicho del SEÑOR. Estas, pues, son sus partidas por sus salidas.",
+      "topic": ""
+    },
+    "3": {
+      "text": "De Rameses partieron en el mes primero, a los quince días del mes primero; el segundo día de la pascua salieron los hijos de Israel con mano alta, a ojos de todo Egipto.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Estaban enterrando los egipcios a los que el SEÑOR había muerto de ellos, a todo primogénito; habiendo el SEÑOR hecho también juicios en sus dioses.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Partieron, pues, los hijos de Israel de Ramesés, y asentaron campamento en Sucot.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Y partiendo de Sucot, asentaron en Etam, que está al principio del desierto.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Y partiendo de Etam, volvieron sobre Pi-hahirot, que está delante de Baal-zefón, y asentaron delante de Migdol.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Y partiendo de Pi-hahirot, pasaron por en medio del mar al desierto, y anduvieron camino de tres días por el desierto de Etam, y asentaron en Mara.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Y partiendo de Mara, vinieron a Elim, donde había doce fuentes de aguas, y setenta palmeras; y asentaron allí.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Y partidos de Elim, asentaron junto al mar Bermejo.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Y partidos del mar Bermejo, asentaron en el desierto de Sin.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Y partidos del desierto de Sin, asentaron en Dofca.",
+      "topic": ""
+    },
+    "13": {
+      "text": "Y partidos de Dofca, asentaron en Alús.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Y partidos de Alús, asentaron en Refidim, donde el pueblo no tuvo aguas para beber.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Y partidos de Refidim, asentaron en el desierto de Sinaí.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Y partidos del desierto de Sinaí, asentaron en Kibrot-hataava.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Y partidos de Kibrot-hataava, asentaron en Hazerot.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Y partidos de Hazerot, asentaron en Ritma.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Y partidos de Ritma, asentaron en Rimón-peres.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Y partidos de Rimón-peres, asentaron en Libna.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Y partidos de Libna, asentaron en Rissa.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Y partidos de Rissa, asentaron en Ceelata,",
+      "topic": ""
+    },
+    "23": {
+      "text": "Y partidos de Ceelata, asentaron en el monte de Sefer.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Y partidos del monte de Sefer, asentaron en Harada.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Y partidos de Harada, asentaron en Macelot.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Y partidos de Macelot, asentaron en Tahat.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Y partidos de Tahat, asentaron en Tara.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Y partidos de Tara, asentaron en Mitca.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Y partidos de Mitca, asentaron en Hasmona.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Y partidos de Hasmona, asentaron en Moserot.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Y partidos de Moserot, asentaron en Bene-jaacán.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Y partidos de Bene-jaacán, asentaron en el monte de Gidgad.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Y partidos del monte de Gidgad, asentaron en Jotbata.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Y partidos de Jotbata, asentaron en Abrona.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Y partidos de Abrona, asentaron en Ezión-geber.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Y partidos de Ezión-geber, asentaron en el desierto de Zin, que es Cades.",
+      "topic": ""
+    },
+    "37": {
+      "text": "Y partidos de Cades, asentaron en el monte de Hor, en la extremidad de la tierra de Edom.",
+      "topic": ""
+    },
+    "38": {
+      "text": "Y subió Aarón el sacerdote al monte de Hor, conforme al dicho del SEÑOR, y allí murió a los cuarenta años de la salida de los hijos de Israel de la tierra de Egipto, en el mes quinto, en el primero del mes.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Y era Aarón de edad de ciento veintitrés años, cuando murió en el monte de Hor.",
+      "topic": ""
+    },
+    "40": {
+      "text": "Y el cananeo, rey de Arad, que habitaba al mediodía en la tierra de Canaán, oyó como habían entrado los hijos de Israel.",
+      "topic": ""
+    },
+    "41": {
+      "text": "Y partidos del monte de Hor, asentaron en Zalmona.",
+      "topic": ""
+    },
+    "42": {
+      "text": "Y partidos de Zalmona, asentaron en Punón.",
+      "topic": ""
+    },
+    "43": {
+      "text": "Y partidos de Punón, asentaron en Obot.",
+      "topic": ""
+    },
+    "44": {
+      "text": "Y partidos de Obot, asentaron en Ije-abarim; en el término de Moab.",
+      "topic": ""
+    },
+    "45": {
+      "text": "Y partidos de Ije-abarim, asentaron en Dibón-gad.",
+      "topic": ""
+    },
+    "46": {
+      "text": "Y partidos de Dibón-gad, asentaron en Almón-diblataim.",
+      "topic": ""
+    },
+    "47": {
+      "text": "Y partidos de Almón-diblataim, asentaron en los montes de Abarim, delante de Nebo.",
+      "topic": ""
+    },
+    "48": {
+      "text": "Y partidos de los montes de Abarim, asentaron en los campos de Moab, junto al Jordán de Jericó.",
+      "topic": ""
+    },
+    "49": {
+      "text": "Finalmente asentaron junto al Jordán, desde Bet-jesimot hasta Abel-sitim, en los campos de Moab.",
+      "topic": ""
+    },
+    "50": {
+      "text": "¶ Y habló el SEÑOR a Moisés en los campos de Moab junto al Jordán de Jericó, diciendo:",
+      "topic": ""
+    },
+    "51": {
+      "text": "Habla a los hijos de Israel, y diles: Cuando hubiereis pasado el Jordán a la tierra de Canaán,",
+      "topic": ""
+    },
+    "52": {
+      "text": "echaréis a todos los moradores de la tierra de delante de vosotros, y destruiréis todas sus pinturas, y todas sus imágenes de fundición destruiréis, y destruiréis todos sus altos;",
+      "topic": ""
+    },
+    "53": {
+      "text": "y echaréis a los moradores de la tierra, y habitaréis en ella; porque yo os la he dado para que la heredéis.",
+      "topic": ""
+    },
+    "54": {
+      "text": "Y heredaréis la tierra por suertes por vuestras familias; al mucho daréis mucho por su heredad, y al poco daréis poco por su heredad; donde le saliere la suerte, allí la tendrá; por las tribus de vuestros padres heredaréis.",
+      "topic": ""
+    },
+    "55": {
+      "text": "Y si no echareis a los moradores de la tierra de delante de vosotros, sucederá que los que dejareis de ellos serán por aguijones en vuestros ojos, y por espinas en vuestros costados, y os afligirán sobre la tierra en que vosotros habitareis.",
+      "topic": ""
+    },
+    "56": {
+      "text": "Y será, como yo pensé hacerles a ellos, haré a vosotros.",
+      "topic": ""
+    }
+  }
+}

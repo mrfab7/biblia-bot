@@ -1,0 +1,44 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "61",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "«Al Músico principal: sobre Neginot: Salmo de David» Oye, oh Dios, mi clamor; atiende mi oración.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Desde el cabo de la tierra clamaré a ti, cuando mi corazón desmayare: Llévame a la peña más alta que yo.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Porque tú has sido mi refugio, y torre fuerte delante del enemigo.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Yo habitaré en tu tabernáculo para siempre; estaré seguro bajo el abrigo de tus alas. (Selah)",
+      "topic": ""
+    },
+    "5": {
+      "text": "Porque tú, oh Dios, has oído mis votos, has dado heredad a los que temen tu nombre.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Días sobre días añadirás al rey; sus años serán como generación y generación.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Estará para siempre delante de Dios: Misericordia y verdad prepara para que lo guarden.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Así cantaré salmos a tu nombre para siempre, pagando mis votos cada día.",
+      "topic": ""
+    }
+  }
+}

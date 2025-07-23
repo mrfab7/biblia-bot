@@ -1,0 +1,64 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "108",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Canción de Salmo: de David. Mi corazón está firme, oh Dios; cantaré y diré salmos; esta es mi gloria.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Despiértate, salterio y arpa; despertaré al alba.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Te alabaré, oh SEÑOR, entre los pueblos; a ti cantaré salmos entre las naciones.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Porque grande más que los cielos es tu misericordia, y hasta los cielos tu verdad.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Ensálzate sobre los cielos, oh Dios; sobre toda la tierra sea ensalzada tu gloria.",
+      "topic": ""
+    },
+    "6": {
+      "text": "¶ Para que sean librados tus amados; salva con tu diestra, y respóndeme.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Dios juró por su santuario, me alegraré; repartiré a Siquem, y mediré el valle de Sucot.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Mío será Galaad, mío será Manasés; y Efraín será la fortaleza de mi cabeza; Judá será mi legislador;",
+      "topic": ""
+    },
+    "9": {
+      "text": "Moab, la vasija de mi lavatorio; sobre Edom echaré mi calzado; sobre Palestina triunfaré con júbilo.",
+      "topic": ""
+    },
+    "10": {
+      "text": "¿Quién me guiará a la ciudad fortalecida? ¿Quién me guiará hasta Idumea?",
+      "topic": ""
+    },
+    "11": {
+      "text": "Ciertamente tú, oh Dios, que nos habías desechado; y no salías, oh Dios, con nuestros ejércitos.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Danos socorro en la angustia; porque mentirosa es la salud del hombre.",
+      "topic": ""
+    },
+    "13": {
+      "text": "En Dios haremos proezas; y él hollará de nuevo a nuestros enemigos.",
+      "topic": ""
+    }
+  }
+}

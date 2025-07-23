@@ -1,0 +1,56 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "32",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ De David: Masquil. Bienaventurado el perdonado de rebelión, el encubierto de pecado.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Bienaventurado el hombre a quien no contará el SEÑOR la iniquidad, y en cuyo espíritu no hay engaño.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Mientras callé, se envejecieron mis huesos en mi gemir todo el día.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Porque de día y de noche se agravó sobre mí tu mano; se volvió mi verdor en sequedades de verano. (Selah.)",
+      "topic": ""
+    },
+    "5": {
+      "text": "Mi pecado te declaré, y no encubrí mi iniquidad. Confesaré, dije, contra mí mis rebeliones al SEÑOR; y tú perdonarás la maldad de mi pecado. (Selah.)",
+      "topic": ""
+    },
+    "6": {
+      "text": "Por esto orará a ti todo misericordioso en el tiempo de poder hallarte; ciertamente en la inundación de las muchas aguas no llegarán éstas a él.",
+      "topic": ""
+    },
+    "7": {
+      "text": "¶ Tú eres mi escondedero; de la angustia me guardarás; con clamores de libertad me rodearás. (Selah.)",
+      "topic": ""
+    },
+    "8": {
+      "text": "Te haré entender, y te enseñaré el camino en que andarás; sobre ti fijaré mis ojos.",
+      "topic": ""
+    },
+    "9": {
+      "text": "No seáis como el caballo, o como el mulo, sin entendimiento; con cabestro y con freno su boca ha de ser sujetada, porque si no, no lleguen a ti.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Muchos dolores para el impío; mas el que espera en el SEÑOR, lo cercará la misericordia.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Alegraos en el SEÑOR, y gozaos, justos; y cantad todos vosotros los rectos de corazón.",
+      "topic": ""
+    }
+  }
+}

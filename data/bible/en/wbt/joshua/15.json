@@ -1,0 +1,264 @@
+{
+  "info": {
+    "book": "Joshua",
+    "chapter": "15",
+    "translation": "Webster Bible Translation",
+    "translationID": "wbt",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom, the wilderness of Zin southward was the uttermost part of the south border.",
+      "topic": ""
+    },
+    "2": {
+      "text": "And their south border was from the shore of the salt-sea, from the bay that looketh southward:",
+      "topic": ""
+    },
+    "3": {
+      "text": "And it went out to the south side to Maaleh-acrabbim, and passed along to Zin, and ascended on the south side to Kadesh-barnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:",
+      "topic": ""
+    },
+    "4": {
+      "text": "From thence it passed towards Azmon, and went out to the river of Egypt; and the limits of that border were at the sea: this shall be your south limit.",
+      "topic": ""
+    },
+    "5": {
+      "text": "And the east border was the salt-sea, even to the end of Jordan: and their border in the north quarter was from the bay of the sea, at the uttermost part of Jordan:",
+      "topic": ""
+    },
+    "6": {
+      "text": "And the border went up to Beth-hogla, and passed along by the north of Beth-arabah; and the border went up to the stone of Bohan the son of Reuben:",
+      "topic": ""
+    },
+    "7": {
+      "text": "And the border went up towards Debir from the valley of Achor, and so northward looking towards Gilgal, that is before the going up to Adummim, which is on the south side of the river: and the border passed towards the waters of En-shemesh, and the borders of it were at En-rogel:",
+      "topic": ""
+    },
+    "8": {
+      "text": "And the border went up by the valley of the son of Hinnom, to the south side of the Jebusite; the same is Jerusalem: and the border went up to the top of the mountain that lieth before the valley of Hinnom westward, which is at the end of the valley of the giants northward:",
+      "topic": ""
+    },
+    "9": {
+      "text": "And the border was drawn from the top of the hill to the fountain of the water of Nephtoah, and went out to the cities of mount Ephron; and the border was drawn to Baalah, which is Kirjath-jearim:",
+      "topic": ""
+    },
+    "10": {
+      "text": "And the border compassed from Baalah westward to mount Seir, and passed along to the side of mount Jearim (which is Chesalon) on the north side, and went down to Beth-shemesh, and passed on to Timnah:",
+      "topic": ""
+    },
+    "11": {
+      "text": "And the border went out to the side of Ekron northward: and the border was drawn to Shicron, and passed along to mount Baalah, and went out to Jabneel; and the terminations of the border were at the sea.",
+      "topic": ""
+    },
+    "12": {
+      "text": "And the west border was to the great sea, and its coast: this is the border of the children of Judah round about, according to their families.",
+      "topic": ""
+    },
+    "13": {
+      "text": "And to Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the LORD to Joshua, even the city of Arba the father of Anak, which city is Hebron.",
+      "topic": ""
+    },
+    "14": {
+      "text": "And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.",
+      "topic": ""
+    },
+    "15": {
+      "text": "And he went up thence to the inhabitants of Debir: and the name of Debir before was Kirjath-sepher.",
+      "topic": ""
+    },
+    "16": {
+      "text": "And Caleb said, He that smiteth Kirjath-sepher, and taketh it, to him will I give Achsah my daughter for a wife.",
+      "topic": ""
+    },
+    "17": {
+      "text": "And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter for a wife.",
+      "topic": ""
+    },
+    "18": {
+      "text": "And it came to pass, as she came to him, that she moved him to ask of her father a field. And she lighted off her ass; and Caleb said to her, What wouldst thou?",
+      "topic": ""
+    },
+    "19": {
+      "text": "Who answered, Give me a blessing; for thou hast given me a south land, give me also springs of water. And he gave her the upper springs, and the nether springs.",
+      "topic": ""
+    },
+    "20": {
+      "text": "This is the inheritance of the tribe of the children of Judah according to their families.",
+      "topic": ""
+    },
+    "21": {
+      "text": "And the uttermost cities of the tribe of the children of Judah towards the border of Edom southward were Kabzeel, and Eder, and Jagur,",
+      "topic": ""
+    },
+    "22": {
+      "text": "And Kinah, and Dimonah, and Adadah,",
+      "topic": ""
+    },
+    "23": {
+      "text": "And Kedesh, and Hazor, and Ithnan,",
+      "topic": ""
+    },
+    "24": {
+      "text": "Ziph, and Telem, and Bealoth,",
+      "topic": ""
+    },
+    "25": {
+      "text": "And Hazor, Hadattah, and Kerioth, and Hezron, which is Hazor,",
+      "topic": ""
+    },
+    "26": {
+      "text": "Aman, and Shema, and Moladah,",
+      "topic": ""
+    },
+    "27": {
+      "text": "And Hazar-gaddah, and Heshmon, and Beth-palet,",
+      "topic": ""
+    },
+    "28": {
+      "text": "And Hazar-shual, and Beer-sheba, and Bizjothjah,",
+      "topic": ""
+    },
+    "29": {
+      "text": "Baalah, and Iim, and Azem,",
+      "topic": ""
+    },
+    "30": {
+      "text": "And Eltolad, and Chesil, and Hormah,",
+      "topic": ""
+    },
+    "31": {
+      "text": "And Ziglag, and Madmannah, and Sansannah,",
+      "topic": ""
+    },
+    "32": {
+      "text": "And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities are twenty and nine, with their villages:",
+      "topic": ""
+    },
+    "33": {
+      "text": "And in the valley, Eshtaol, and Zoreah, and Ashnah,",
+      "topic": ""
+    },
+    "34": {
+      "text": "And Zanoah, and En-gannim, Tappuah, and Enam,",
+      "topic": ""
+    },
+    "35": {
+      "text": "Jarmuth, and Adullam, Socoh, and Azekah,",
+      "topic": ""
+    },
+    "36": {
+      "text": "And Sharaim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages:",
+      "topic": ""
+    },
+    "37": {
+      "text": "Zenan, and Hadashah, and Migdalgad,",
+      "topic": ""
+    },
+    "38": {
+      "text": "And Dilean, and Mizpeh, and Joktheel,",
+      "topic": ""
+    },
+    "39": {
+      "text": "Lachish, and Bozkath, and Eglon,",
+      "topic": ""
+    },
+    "40": {
+      "text": "And Cabbon, and Lahman, and Kithlish,",
+      "topic": ""
+    },
+    "41": {
+      "text": "And Gederoth, Beth-dagon, and Naamah, and Makkedah; sixteen cities with their villages:",
+      "topic": ""
+    },
+    "42": {
+      "text": "Libnah, and Ether, and Ashan,",
+      "topic": ""
+    },
+    "43": {
+      "text": "And Jiphtah, and Ashnah, and Nezib,",
+      "topic": ""
+    },
+    "44": {
+      "text": "And Keilah, and Achzib, and Mareshah; nine cities with their villages:",
+      "topic": ""
+    },
+    "45": {
+      "text": "Ekron, with her towns and her villages:",
+      "topic": ""
+    },
+    "46": {
+      "text": "From Ekron even to the sea, all that lay near Ashdod, with their villages:",
+      "topic": ""
+    },
+    "47": {
+      "text": "Ashdod, with her towns and her villages; Gaza, with her towns and her villages, to the river of Egypt, and the great sea, and its border:",
+      "topic": ""
+    },
+    "48": {
+      "text": "And in the mountains, Shamir, and Jattir, and Socoh,",
+      "topic": ""
+    },
+    "49": {
+      "text": "And Dannah, and Kirjath-sannah, which is Debir,",
+      "topic": ""
+    },
+    "50": {
+      "text": "And Anab, and Eshtemoh, and Anim,",
+      "topic": ""
+    },
+    "51": {
+      "text": "And Goshen, and Holon, and Giloh: eleven cities with their villages:",
+      "topic": ""
+    },
+    "52": {
+      "text": "Arab, and Dumah, and Eshean,",
+      "topic": ""
+    },
+    "53": {
+      "text": "And Janum, and Beth-tappuah, and Aphekah,",
+      "topic": ""
+    },
+    "54": {
+      "text": "And Humtah, and Kirjath-arba (which is Hebron) and Zior; nine cities with their villages:",
+      "topic": ""
+    },
+    "55": {
+      "text": "Maon, Carmel, and Ziph, and Juttah,",
+      "topic": ""
+    },
+    "56": {
+      "text": "And Jezreel, and Jokdeam, and Zanoah,",
+      "topic": ""
+    },
+    "57": {
+      "text": "Cain, Gibeah, and Timnah; ten cities with their villages:",
+      "topic": ""
+    },
+    "58": {
+      "text": "Halhul, Beth-zur, and Gedor,",
+      "topic": ""
+    },
+    "59": {
+      "text": "And Maarath, and Beth-anoth, and Eltekon; six cities with their villages:",
+      "topic": ""
+    },
+    "60": {
+      "text": "Kirjath-baal (which is Kirjath-jearim) and Rabbah; two cities with their villages:",
+      "topic": ""
+    },
+    "61": {
+      "text": "In the wilderness, Beth-arabah, Middin, and Secacah,",
+      "topic": ""
+    },
+    "62": {
+      "text": "And Nibshan, and the city of Salt, and En-gedi; six cities with their villages.",
+      "topic": ""
+    },
+    "63": {
+      "text": "As for the Jebusites, the inhabitants of Jerusalem, the children of Judah could not expel them: but the Jebusites dwell with the children of Judah at Jerusalem to this day.",
+      "topic": ""
+    }
+  }
+}

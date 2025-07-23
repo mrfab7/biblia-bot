@@ -1,0 +1,152 @@
+{
+  "info": {
+    "book": "Números",
+    "chapter": "11",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Y aconteció que el pueblo se quejó a oídos del SEÑOR; y lo oyó el SEÑOR, y se enardeció su furor, y se encendió en ellos fuego del SEÑOR y consumió en el extremo del campamento.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Entonces el pueblo dio voces a Moisés, y Moisés oró al SEÑOR, y se calmó el fuego.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Y llamó a aquel lugar Tabera; porque el fuego del SEÑOR se encendió en ellos.",
+      "topic": ""
+    },
+    "4": {
+      "text": "¶ Y el vulgo que se mezcló con ellos tuvo deseo, y volvieron, y aun lloraron los hijos de Israel, y dijeron: ¡Quién nos diera a comer carne!",
+      "topic": ""
+    },
+    "5": {
+      "text": "Nos acordamos del pescado que comíamos en Egipto de balde, de los pepinos, y de los melones, y de los puerros, y de las cebollas, y de los ajos;",
+      "topic": ""
+    },
+    "6": {
+      "text": "y ahora nuestra alma se seca; que nada sino maná ven nuestros ojos.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Y era el maná como semilla de culantro, y su color como color de bedelio.",
+      "topic": ""
+    },
+    "8": {
+      "text": "El pueblo se esparcía, y lo recogía, y lo molía en molinos, o lo majaba en morteros, y lo cocía en caldera, o hacía de él tortas; y su sabor era como sabor de aceite nuevo.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Y cuando descendía el rocío sobre el campamento de noche, el maná descendía sobre él.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Y oyó Moisés al pueblo, que lloraba por sus familias, cada uno a la puerta de su tienda; y el furor del SEÑOR se encendió en gran manera; también le pareció mal a Moisés.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Y dijo Moisés al SEÑOR: ¿Por qué has hecho mal a tu siervo? ¿y por qué no he hallado gracia en tus ojos, que has puesto la carga de todo este pueblo sobre mí?",
+      "topic": ""
+    },
+    "12": {
+      "text": "¿Concebí yo a todo este pueblo? ¿Lo engendré yo, para que me digas: Llévalo en tu seno, como lleva la que cría al que mama, a la tierra de la cual juraste a sus padres?",
+      "topic": ""
+    },
+    "13": {
+      "text": "¿De dónde tengo yo carne para dar a todo este pueblo? Porque lloran a mí, diciendo: Danos carne que comamos.",
+      "topic": ""
+    },
+    "14": {
+      "text": "No puedo yo solo soportar a todo este pueblo, que me es demasiado pesado.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Y si así lo haces tú conmigo, yo te ruego que me mates de repente, si he hallado gracia en tus ojos; y que yo no vea mi mal.",
+      "topic": ""
+    },
+    "16": {
+      "text": "¶ Entonces el SEÑOR dijo a Moisés: Júntame setenta varones de los ancianos de Israel, que tú sabes que son ancianos del pueblo y sus príncipes; y tráelos a la puerta del tabernáculo del testimonio, y esperen allí contigo.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Y yo descenderé y hablaré allí contigo; y tomaré del espíritu que está en ti, y pondré en ellos; y llevarán contigo la carga del pueblo, y no la llevarás tú solo.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Pero dirás al pueblo: Santificaos para mañana, y comeréis carne; porque habéis llorado en oídos del SEÑOR, diciendo: ¡Quién nos diera a comer carne! ¡Cierto mejor nos iba en Egipto! El SEÑOR, pues, os dará carne, y comeréis.",
+      "topic": ""
+    },
+    "19": {
+      "text": "No comeréis un día, ni dos días, ni cinco días, ni diez días, ni veinte días;",
+      "topic": ""
+    },
+    "20": {
+      "text": "sino hasta un mes de tiempo, hasta que os salga por las narices, y os sea en aborrecimiento; por cuanto menospreciasteis al SEÑOR que está en medio de vosotros, y llorasteis delante de él, diciendo: ¿Para qué salimos acá de Egipto?",
+      "topic": ""
+    },
+    "21": {
+      "text": "Entonces dijo Moisés: Seiscientos mil de a pie es el pueblo en medio del cual yo estoy; y tú dices: ¡Les daré carne, y comerán el tiempo de un mes!",
+      "topic": ""
+    },
+    "22": {
+      "text": "¿Se degollarán para ellos ovejas y bueyes que les basten? ¿o se juntarán para ellos todos los peces del mar para que tengan abasto?",
+      "topic": ""
+    },
+    "23": {
+      "text": "Entonces el SEÑOR respondió a Moisés: ¿Se ha acortado la mano del SEÑOR? Ahora verás si te sucede mi dicho, o no.",
+      "topic": ""
+    },
+    "24": {
+      "text": "¶ Y salió Moisés, y dijo al pueblo las palabras del SEÑOR; y juntó a los setenta varones de los ancianos del pueblo, y los hizo estar alrededor del tabernáculo.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Entonces el SEÑOR descendió en la nube, y le habló; y tomó del espíritu que estaba en él, y lo puso en los setenta varones ancianos; y fue que, al reposar sobre ellos el espíritu, profetizaron, y no cesaron.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Y habían quedado en el campamento dos varones, el uno se llamaba Eldad y el otro Medad, sobre los cuales también reposó el espíritu; estaban éstos entre los inscritos, mas no habían salido al tabernáculo; y comenzaron a profetizar en el campamento.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Y corrió un joven, y dio aviso a Moisés, y dijo: Eldad y Medad profetizan en el campamento.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Entonces respondió Josué hijo de Nun, ministro de Moisés, uno de sus jóvenes, y dijo: Señor mío Moisés, impídelos.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Y Moisés le respondió: ¿Tienes tú celos por mí? Mas quién diese que todo el pueblo del SEÑOR fuese profeta, que el SEÑOR diese su espíritu sobre ellos.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Y se recogió Moisés al campamento, él y los ancianos de Israel.",
+      "topic": ""
+    },
+    "31": {
+      "text": "¶ Y salió un viento del SEÑOR, y trajo codornices del mar, y las dejó sobre el campamento, un día de camino a un lado, y un día de camino al otro, en derredor del campamento, y casi dos codos sobre la faz de la tierra.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Entonces el pueblo estuvo levantado todo aquel día, y toda la noche, y todo el día siguiente, y recogieron codornices; el que menos, recogió diez montones; y las tendieron para sí a lo largo en derredor del campamento.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Aún estaba la carne entre los dientes de ellos, antes que fuese mascada, cuando el furor del SEÑOR se encendió en el pueblo, e hirió el SEÑOR al pueblo con una plaga muy grande.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Y llamó el nombre de aquel lugar Kibrot-hataava, por cuanto allí sepultaron al pueblo codicioso.",
+      "topic": ""
+    },
+    "35": {
+      "text": "De Kibrot-hataava movió el pueblo a Hazerot, y pararon en Hazerot.",
+      "topic": ""
+    }
+  }
+}

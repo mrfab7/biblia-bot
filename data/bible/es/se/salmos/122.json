@@ -1,0 +1,48 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "122",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Canción de las gradas: de David. Yo me alegré con los que me decían: A la Casa del SEÑOR iremos.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Nuestros pies estuvieron en tus puertas, oh Jerusalén;",
+      "topic": ""
+    },
+    "3": {
+      "text": "Jerusalén, la que es edificada como una ciudad que está bien unida entre sí.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Porque allá subieron las tribus, las tribus de JAH, el testimonio a Israel, para alabar el Nombre del SEÑOR.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Porque allá están los tronos del juicio, los tronos de la casa de David.",
+      "topic": ""
+    },
+    "6": {
+      "text": "¶ Demandad la paz de Jerusalén; sean pacificados los que te aman.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Haya paz en tu antemuro, y descanso en tus palacios.",
+      "topic": ""
+    },
+    "8": {
+      "text": "A causa de mis hermanos y mis compañeros hablaré ahora paz de ti.",
+      "topic": ""
+    },
+    "9": {
+      "text": "A causa de la Casa del SEÑOR nuestro Dios, buscaré bien para ti.",
+      "topic": ""
+    }
+  }
+}

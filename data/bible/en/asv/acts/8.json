@@ -1,0 +1,168 @@
+{
+  "info": {
+    "book": "Acts",
+    "chapter": "8",
+    "translation": "American Standard Version",
+    "translationID": "asv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "37",
+      "topic": ""
+    },
+    "2": {
+      "text": "And devout men buried Stephen, and made great lamentation over him.",
+      "topic": ""
+    },
+    "3": {
+      "text": "But Saul laid waste the church, entering into every house, and dragging men and women committed them to prison.",
+      "topic": ""
+    },
+    "4": {
+      "text": "They therefore that were scattered abroad, went about preaching the word.",
+      "topic": ""
+    },
+    "5": {
+      "text": "And Philip went down to the city of Samaria, and proclaimed unto them the Christ.",
+      "topic": ""
+    },
+    "6": {
+      "text": "And the multitudes gave heed with one accord unto the things that were spoken by Philip, when they heard, and saw the signs which he did.",
+      "topic": ""
+    },
+    "7": {
+      "text": "For from many of those that had unclean spirits, they came out, crying with a loud voice: and many that were palsied, and that were lame, were healed.",
+      "topic": ""
+    },
+    "8": {
+      "text": "And there was much joy in that city.",
+      "topic": ""
+    },
+    "9": {
+      "text": "But there was a certain man, Simon by name, who beforetime in the city used sorcery, and amazed the people of Samaria, giving out that himself was some great one:",
+      "topic": ""
+    },
+    "10": {
+      "text": "to whom they all gave heed, from the least to the greatest, saying, This man is that power of God which is called Great.",
+      "topic": ""
+    },
+    "11": {
+      "text": "And they gave heed to him, because that of long time he had amazed them with his sorceries.",
+      "topic": ""
+    },
+    "12": {
+      "text": "But when they believed Philip preaching good tidings concerning the kingdom of God and the name of Jesus Christ, they were baptized, both men and women.",
+      "topic": ""
+    },
+    "13": {
+      "text": "And Simon also himself believed: and being baptized, he continued with Philip; and beholding signs and great miracles wrought, he was amazed.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Now when the apostles that were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:",
+      "topic": ""
+    },
+    "15": {
+      "text": "who, when they were come down, prayed for them, that they might receive the Holy Spirit:",
+      "topic": ""
+    },
+    "16": {
+      "text": "for as yet it was fallen upon none of them: only they had been baptized into the name of the Lord Jesus.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Then laid they their hands on them, and they received the Holy Spirit.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Now when Simon saw that through the laying on of the apostles’ hands the Holy Spirit was given, he offered them money,",
+      "topic": ""
+    },
+    "19": {
+      "text": "saying, Give me also this power, that on whomsoever I lay my hands, he may receive the Holy Spirit.",
+      "topic": ""
+    },
+    "20": {
+      "text": "But Peter said unto him, Thy silver perish with thee, because thou hast thought to obtain the gift of God with money.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Thou hast neither part nor lot in this matter: for thy heart is not right before God.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Repent therefore of this thy wickedness, and pray the Lord, if perhaps the thought of thy heart shall be forgiven thee.",
+      "topic": ""
+    },
+    "23": {
+      "text": "For I see that thou art in the gall of bitterness and in the bond of iniquity.",
+      "topic": ""
+    },
+    "24": {
+      "text": "And Simon answered and said, Pray ye for me to the Lord, that none of the things which ye have spoken come upon me.",
+      "topic": ""
+    },
+    "25": {
+      "text": "They therefore, when they had testified and spoken the word of the Lord, returned to Jerusalem, and preached the gospel to many villages of the Samaritans.",
+      "topic": ""
+    },
+    "26": {
+      "text": "But an angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza: the same is desert.",
+      "topic": ""
+    },
+    "27": {
+      "text": "And he arose and went: and behold, a man of Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians, who was over all her treasure, who had come to Jerusalem to worship;",
+      "topic": ""
+    },
+    "28": {
+      "text": "and he was returning and sitting in his chariot, and was reading the prophet Isaiah.",
+      "topic": ""
+    },
+    "29": {
+      "text": "And the Spirit said unto Philip, Go near, and join thyself to this chariot.",
+      "topic": ""
+    },
+    "30": {
+      "text": "And Philip ran to him, and heard him reading Isaiah the prophet, and said, Understandest thou what thou readest?",
+      "topic": ""
+    },
+    "31": {
+      "text": "And he said, How can I, except some one shall guide me? And he besought Philip to come up and sit with him.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Now the passage of the Scripture which he was reading was this, He was led as a sheep to the slaughter; And as a lamb before his shearer is dumb, So he openeth not his mouth:",
+      "topic": ""
+    },
+    "33": {
+      "text": "In his humiliation his judgment was taken away: His generation who shall declare? For his life is taken from the earth.",
+      "topic": ""
+    },
+    "34": {
+      "text": "And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other?",
+      "topic": ""
+    },
+    "35": {
+      "text": "And Philip opened his mouth, and beginning from this Scripture, preached unto him Jesus.",
+      "topic": ""
+    },
+    "36": {
+      "text": "And as they went on the way, they came unto a certain water; and the eunuch saith, Behold, here is water; what doth hinder me to be baptized?",
+      "topic": ""
+    },
+    "38": {
+      "text": "And he commanded the chariot to stand still: and they both went down into the water, both Philip and the eunuch, and he baptized him.",
+      "topic": ""
+    },
+    "39": {
+      "text": "And when they came up out of the water, the Spirit of the Lord caught away Philip; and the eunuch saw him no more, for he went on his way rejoicing.",
+      "topic": ""
+    },
+    "40": {
+      "text": "But Philip was found at Azotus: and passing through he preached the gospel to all the cities, till he came to Cæsarea.",
+      "topic": ""
+    }
+  }
+}

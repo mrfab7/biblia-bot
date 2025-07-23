@@ -1,0 +1,40 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "14",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Al Vencedor: Salmo de David. Dijo el loco en su corazón: No hay Dios. Se corrompieron, hicieron obras abominables; no hay quien haga bien.",
+      "topic": ""
+    },
+    "2": {
+      "text": "El SEÑOR miró desde los cielos sobre los hijos de los hombres, por ver si había algún entendido, que buscara a Dios.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Todos declinaron, juntamente, se han corrompido; no hay quien haga bien, no hay ni siquiera uno.",
+      "topic": ""
+    },
+    "4": {
+      "text": "¶ Ciertamente conocieron ésto todos los que obran iniquidad, que devoran a mi pueblo como si pan comiesen; al SEÑOR no invocaron.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Allí temblaron de espanto; porque Dios está con la nación de los justos.",
+      "topic": ""
+    },
+    "6": {
+      "text": "El consejo del pobre habéis escarnecido, por cuanto el SEÑOR es su esperanza.",
+      "topic": ""
+    },
+    "7": {
+      "text": "¡Quién diese de Sion la salud de Israel tornando el SEÑOR la cautividad de su pueblo! Se gozará Jacob, y se alegrará Israel.",
+      "topic": ""
+    }
+  }
+}

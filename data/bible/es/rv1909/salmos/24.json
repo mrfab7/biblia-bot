@@ -1,0 +1,52 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "24",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "«Salmo de David» De Jehová es la tierra y su plenitud; el mundo y los que en él habitan.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Porque Él la fundó sobre los mares, y la afirmó sobre los ríos.",
+      "topic": ""
+    },
+    "3": {
+      "text": "¿Quién subirá al monte de Jehová? ¿Y quién estará en su lugar santo?",
+      "topic": ""
+    },
+    "4": {
+      "text": "El limpio de manos, y puro de corazón; el que no ha elevado su alma a la vanidad, ni jurado con engaño.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Él recibirá bendición de Jehová, y justicia del Dios de su salvación.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Tal es la generación de los que le buscan, de los que buscan tu rostro, oh Jacob. (Selah)",
+      "topic": ""
+    },
+    "7": {
+      "text": "Alzad, oh puertas, vuestras cabezas, y alzaos vosotras, puertas eternas, y entrará el Rey de gloria.",
+      "topic": ""
+    },
+    "8": {
+      "text": "¿Quién [es] este Rey de gloria? Jehová el fuerte y valiente, Jehová el poderoso en batalla.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Alzad, oh puertas, vuestras cabezas, y alzaos vosotras, puertas eternas, y entrará el Rey de gloria.",
+      "topic": ""
+    },
+    "10": {
+      "text": "¿Quién es este Rey de gloria? Jehová de los ejércitos, Él [es] el Rey de gloria. (Selah)",
+      "topic": ""
+    }
+  }
+}

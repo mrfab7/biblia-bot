@@ -1,0 +1,184 @@
+{
+  "info": {
+    "book": "Genesis",
+    "chapter": "36",
+    "translation": "Catholic Public Domain Version",
+    "translationID": "cpdv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "Now these are the generations of Esau, who is Edom.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Esau took wives from the daughters of Canaan: Adah the daughter of Elon the Hittite, and Oholibamah the daughter of Anah, the daughter of Zibeon the Hivite,",
+      "topic": ""
+    },
+    "3": {
+      "text": "and Basemath, the daughter of Ishmael, sister of Nebaioth.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Then Adah bore Eliphaz. Basemath conceived Reuel.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Oholibamah conceived Jeush, and Jalam, and Korah. These are the sons of Esau, who were born to him in the land of Canaan.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Then Esau took his wives, and sons, and daughters, and every soul of his house, and his substance, and cattle, and whatever he was able to obtain in the land of Canaan, and he went into another region, withdrawing from his brother Jacob.",
+      "topic": ""
+    },
+    "7": {
+      "text": "For they were very wealthy and were not able to live together. Neither was the land of their sojourn able to sustain them, because of the multitude of their flocks.",
+      "topic": ""
+    },
+    "8": {
+      "text": "And Esau lived at mount Seir: he is Edom.",
+      "topic": ""
+    },
+    "9": {
+      "text": "So these are the generations of Esau, the father of Edom, at mount Seir,",
+      "topic": ""
+    },
+    "10": {
+      "text": "and these are the names of his sons: Eliphaz the son of Adah, the wife of Esau, likewise Reuel, the son of Basemath, his wife.",
+      "topic": ""
+    },
+    "11": {
+      "text": "And Eliphaz had sons: Teman, Omar, Zepho, and Gatam, and Kenez.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Now Timna was the concubine of Eliphaz, the son of Esau. And she bore him Amalek. These are the sons of Adah, the wife of Esau.",
+      "topic": ""
+    },
+    "13": {
+      "text": "And the sons of Reuel were Nahath and Zerah, Shammah and Mizzah. These are the sons of Basemath, the wife of Esau.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Likewise, these were the sons of Oholibamah, the daughter of Anah, the daughter of Zibeon, the wife of Esau, whom she bore to him: Jeush, and Jalam, and Korah.",
+      "topic": ""
+    },
+    "15": {
+      "text": "These were leaders of the sons of Esau, the sons of Eliphaz, the firstborn of Esau: leader Teman, leader Omar, leader Zepho, leader Kenez,",
+      "topic": ""
+    },
+    "16": {
+      "text": "leader Korah, leader Gatam, leader Amalek. These are the sons of Eliphaz, in the land of Edom, and these the sons of Adah.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Likewise, these are the sons of Reuel, the son of Esau: leader Nahath, leader Zerah, leader Shammah, leader Mizzah. And these were the leaders of Reuel, in the land of Edom. These are the sons of Basemath, the wife of Esau.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Now these are the sons of Oholibamah, the wife of Esau: leader Jeush, leader Jalam, leader Korah. These were the leaders of Oholibamah, the daughter of Anah and the wife of Esau.",
+      "topic": ""
+    },
+    "19": {
+      "text": "These are the sons of Esau, and these were their leaders: this is Edom.",
+      "topic": ""
+    },
+    "20": {
+      "text": "These are the sons of Seir, the Horite, the inhabitants of the land: Lotan, and Shobal, and Zibeon, and Anah,",
+      "topic": ""
+    },
+    "21": {
+      "text": "and Dishon, and Ezer, and Dishan. These were the leaders of the Horites, the sons of Seir, in the land of Edom.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Now Lotan produced sons: Hori and Heman. But the sister of Lotan was Timna.",
+      "topic": ""
+    },
+    "23": {
+      "text": "And these are the sons of Shobal: Alvan, and Manahath, and Ebal, and Shepho, and Onam.",
+      "topic": ""
+    },
+    "24": {
+      "text": "And these are the sons of Zibeon: Aiah and Anah. This is the Anah who found the hot springs in the wilderness, when he was pasturing the donkeys of his father Zibeon.",
+      "topic": ""
+    },
+    "25": {
+      "text": "And he had a son Dishon, and a daughter Oholibamah.",
+      "topic": ""
+    },
+    "26": {
+      "text": "And these are the sons of Dishon: Hemdan, and Esheban, and Ithran, and Cheran.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Likewise, these are the sons of Ezer: Bilhan, and Zaavan, and Akan.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Then Dishan had sons: Uz and Aran.",
+      "topic": ""
+    },
+    "29": {
+      "text": "These were the leaders of the Horites: leader Lotan, leader Shobal, leader Zibeon, leader Anah,",
+      "topic": ""
+    },
+    "30": {
+      "text": "leader Dishon, leader Ezer, leader Disan. These were leaders of the Horites who ruled in the land of Seir.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Now before the sons of Israel had a king, the kings who ruled in the land of Edom were these:",
+      "topic": ""
+    },
+    "32": {
+      "text": "Bela the son of Beor, and the name of his city was Dinhabah.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Then Bela died, and Jobab, the son of Zerah from Bozrah, reigned in his place.",
+      "topic": ""
+    },
+    "34": {
+      "text": "And when Jobab was dead, Husham of the land of the Temanites reigned in his place.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Likewise, this one having died, Hadad the son of Bedad reigned in his place. He struck down Midian in the region of Moab. And the name of his city was Avith.",
+      "topic": ""
+    },
+    "36": {
+      "text": "And when Adad was dead, Samlah of Masrekah reigned in his place.",
+      "topic": ""
+    },
+    "37": {
+      "text": "Likewise, this one being dead, Shaul of the river Rehoboth, reigned in his place.",
+      "topic": ""
+    },
+    "38": {
+      "text": "And when he also had passed away, Baal-hanan, the son of Achbor, succeeded to the kingdom.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Likewise, this one being dead, Hadar reigned in his place; and the name of his city was Pau. And his wife was called Mehetabel, the daughter of Matred, daughter of Mezahab.",
+      "topic": ""
+    },
+    "40": {
+      "text": "Therefore, these were the names of the leaders of Esau, by their families, and places, and in their vocabulary: leader Timna, leader Alvah, leader Jetheth,",
+      "topic": ""
+    },
+    "41": {
+      "text": "leader Oholibamah, leader Elah, leader Pinon,",
+      "topic": ""
+    },
+    "42": {
+      "text": "leader Kanez, leader Teman, leader Mibzar,",
+      "topic": ""
+    },
+    "43": {
+      "text": "leader Magdiel, leader Iram. These were the leaders of Edom living in the land of their rule: this is Esau, the father of Idumea.",
+      "topic": ""
+    }
+  }
+}

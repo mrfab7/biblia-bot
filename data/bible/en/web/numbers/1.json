@@ -1,0 +1,228 @@
+{
+  "info": {
+    "book": "Numbers",
+    "chapter": "1",
+    "translation": "World English Bible",
+    "translationID": "web",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "Yahweh spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,",
+      "topic": ""
+    },
+    "2": {
+      "text": "“Take a census of all the congregation of the children of Israel, by their families, by their fathers’ houses, according to the number of the names, every male, one by one;",
+      "topic": ""
+    },
+    "3": {
+      "text": "from twenty years old and upward, all who are able to go out to war in Israel. You and Aaron shall number them by their divisions.",
+      "topic": ""
+    },
+    "4": {
+      "text": "With you there shall be a man of every tribe; everyone head of his fathers’ house.",
+      "topic": ""
+    },
+    "5": {
+      "text": "These are the names of the men who shall stand with you: Of Reuben: Elizur the son of Shedeur.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Of Simeon: Shelumiel the son of Zurishaddai.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Of Judah: Nahshon the son of Amminadab.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Of Issachar: Nethanel the son of Zuar.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Of Zebulun: Eliab the son of Helon.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Of the children of Joseph: Of Ephraim: Elishama the son of Ammihud. Of Manasseh: Gamaliel the son of Pedahzur.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Of Benjamin: Abidan the son of Gideoni.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Of Dan: Ahiezer the son of Ammishaddai.",
+      "topic": ""
+    },
+    "13": {
+      "text": "Of Asher: Pagiel the son of Ochran.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Of Gad: Eliasaph the son of Deuel.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Of Naphtali: Ahira the son of Enan.”",
+      "topic": ""
+    },
+    "16": {
+      "text": "These are those who were called of the congregation, the princes of the tribes of their fathers; they were the heads of the thousands of Israel.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Moses and Aaron took these men who are mentioned by name.",
+      "topic": ""
+    },
+    "18": {
+      "text": "They assembled all the congregation together on the first day of the second month; and they declared their ancestry by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, one by one.",
+      "topic": ""
+    },
+    "19": {
+      "text": "As Yahweh commanded Moses, so he numbered them in the wilderness of Sinai.",
+      "topic": ""
+    },
+    "20": {
+      "text": "The children of Reuben, Israel’s firstborn, their generations, by their families, by their fathers’ houses, according to the number of the names, one by one, every male from twenty years old and upward, all who were able to go out to war;",
+      "topic": ""
+    },
+    "21": {
+      "text": "those who were numbered of them, of the tribe of Reuben, were forty-six thousand five hundred.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Of the children of Simeon, their generations, by their families, by their fathers’ houses, those who were numbered of it, according to the number of the names, one by one, every male from twenty years old and upward, all who were able to go out to war;",
+      "topic": ""
+    },
+    "23": {
+      "text": "those who were numbered of them, of the tribe of Simeon, were fifty-nine thousand three hundred.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Of the children of Gad, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war;",
+      "topic": ""
+    },
+    "25": {
+      "text": "those who were numbered of them, of the tribe of Gad, were forty-five thousand six hundred fifty.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Of the children of Judah, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war;",
+      "topic": ""
+    },
+    "27": {
+      "text": "those who were numbered of them, of the tribe of Judah, were sixty-four thousand six hundred.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Of the children of Issachar, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war;",
+      "topic": ""
+    },
+    "29": {
+      "text": "those who were numbered of them, of the tribe of Issachar, were fifty-four thousand four hundred.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Of the children of Zebulun, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war;",
+      "topic": ""
+    },
+    "31": {
+      "text": "those who were numbered of them, of the tribe of Zebulun, were fifty-seven thousand four hundred.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Of the children of Joseph, of the children of Ephraim, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war;",
+      "topic": ""
+    },
+    "33": {
+      "text": "those who were numbered of them, of the tribe of Ephraim, were forty thousand five hundred.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Of the children of Manasseh, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war;",
+      "topic": ""
+    },
+    "35": {
+      "text": "those who were numbered of them, of the tribe of Manasseh, were thirty-two thousand two hundred.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Of the children of Benjamin, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war;",
+      "topic": ""
+    },
+    "37": {
+      "text": "those who were numbered of them, of the tribe of Benjamin, were thirty-five thousand four hundred.",
+      "topic": ""
+    },
+    "38": {
+      "text": "Of the children of Dan, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go forth to war;",
+      "topic": ""
+    },
+    "39": {
+      "text": "those who were numbered of them, of the tribe of Dan, were sixty-two thousand seven hundred.",
+      "topic": ""
+    },
+    "40": {
+      "text": "Of the children of Asher, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go forth to war;",
+      "topic": ""
+    },
+    "41": {
+      "text": "those who were numbered of them, of the tribe of Asher, were forty-one thousand five hundred.",
+      "topic": ""
+    },
+    "42": {
+      "text": "Of the children of Naphtali, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go forth to war;",
+      "topic": ""
+    },
+    "43": {
+      "text": "those who were numbered of them, of the tribe of Naphtali, were fifty-three thousand four hundred.",
+      "topic": ""
+    },
+    "44": {
+      "text": "These are those who were numbered, whom Moses and Aaron numbered, and the princes of Israel, being twelve men: they were each one for his fathers’ house.",
+      "topic": ""
+    },
+    "45": {
+      "text": "So all those who were numbered of the children of Israel by their fathers’ houses, from twenty years old and upward, all who were able to go out to war in Israel;",
+      "topic": ""
+    },
+    "46": {
+      "text": "even all those who were numbered were six hundred three thousand five hundred fifty.",
+      "topic": ""
+    },
+    "47": {
+      "text": "But the Levites after the tribe of their fathers were not numbered among them.",
+      "topic": ""
+    },
+    "48": {
+      "text": "For Yahweh spoke to Moses, saying,",
+      "topic": ""
+    },
+    "49": {
+      "text": "“Only the tribe of Levi you shall not number, neither shall you take a census of them among the children of Israel;",
+      "topic": ""
+    },
+    "50": {
+      "text": "but appoint the Levites over the Tabernacle of the Testimony, and over all its furnishings, and over all that belongs to it. They shall carry the tabernacle, and all its furnishings; and they shall take care of it, and shall encamp around it.",
+      "topic": ""
+    },
+    "51": {
+      "text": "When the tabernacle is to move, the Levites shall take it down; and when the tabernacle is to be set up, the Levites shall set it up. The stranger who comes near shall be put to death.",
+      "topic": ""
+    },
+    "52": {
+      "text": "The children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, according to their divisions.",
+      "topic": ""
+    },
+    "53": {
+      "text": "But the Levites shall encamp around the Tabernacle of the Testimony, that there may be no wrath on the congregation of the children of Israel: and the Levites shall be responsible for the Tabernacle of the Testimony.”",
+      "topic": ""
+    },
+    "54": {
+      "text": "Thus the children of Israel did. According to all that Yahweh commanded Moses, so they did.",
+      "topic": ""
+    }
+  }
+}

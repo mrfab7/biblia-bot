@@ -1,0 +1,264 @@
+{
+  "info": {
+    "book": "Josué",
+    "chapter": "15",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Y fue la suerte de la tribu de los hijos de Judá, por sus familias, junto al término de Edom, del desierto de Zin al mediodía, al lado del sur.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Y su término de la parte del mediodía fue desde la costa del mar Salado, desde la lengua que mira hacia el mediodía;",
+      "topic": ""
+    },
+    "3": {
+      "text": "y salía hacia el mediodía a la subida de Acrabim, pasando hasta Zin; y subiendo por el mediodía hasta Cades-barnea, pasaba a Hezrón, y subiendo por Adar daba vuelta a Carca;",
+      "topic": ""
+    },
+    "4": {
+      "text": "de allí pasaba a Asmón, y salía al arroyo de Egipto; y sale este término al occidente. Este pues os será el término del mediodía.",
+      "topic": ""
+    },
+    "5": {
+      "text": "El término del oriente es el mar Salado hasta el fin del Jordán. Y el término de la parte del norte, desde la lengua del mar, desde el fin del Jordán;",
+      "topic": ""
+    },
+    "6": {
+      "text": "y sube este término por Bet-hogla, y pasa del norte a Bet-arabá, y de aquí sube este término a la piedra de Bohán, hijo de Rubén.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Y torna a subir este término a Debir desde el valle de Acor; y al norte mira sobre Gilgal, que está delante de la subida de Adumín, la cual está al mediodía del arroyo; y pasa este término a las aguas de En-semes, y sale a la fuente de Rogel;",
+      "topic": ""
+    },
+    "8": {
+      "text": "y sube este término por el valle del hijo de Hinom al lado del jebuseo al mediodía; ésta es Jerusalén. Luego sube este término por la cumbre del monte que está delante del valle de Hinom hacia el occidente, el cual está al cabo del valle de los gigantes al norte;",
+      "topic": ""
+    },
+    "9": {
+      "text": "y rodea este término desde la cumbre del monte hasta la fuente de las aguas de Neftoa, y sale a la ciudades del monte de Efrón, rodeando luego el mismo término a Baala, la cual es Quiriat-jearim.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Después torna este término desde Baala hacia el occidente al monte de Seir; y pasa al lado del monte de Jearim hacia el norte, ésta es Quesalón, y desciende a Bet-semes, y pasa a Timna.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Sale luego este término al lado de Ecrón hacia el norte; y rodea el mismo término a Sicrón, y pasa por el monte de Baala, y sale a Jabneel; y sale este término al mar.",
+      "topic": ""
+    },
+    "12": {
+      "text": "El término del occidente es el mar grande. Este pues , es el término de los hijos de Judá en derredor, por sus familias.",
+      "topic": ""
+    },
+    "13": {
+      "text": "¶ Mas a Caleb, hijo de Jefone, dio parte entre los hijos de Judá, conforme al mandamiento del SEÑOR a Josué; esto es , a Quiriat-arba, del padre de Anac, que es Hebrón.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Y Caleb echó de allí tres hijos de Anac, a Sesai, Ahimán, y Talmai, hijos de Anac.",
+      "topic": ""
+    },
+    "15": {
+      "text": "De aquí subió a los que moraban en Debir; y el nombre de Debir era antes Quiriat-sefer.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Y dijo Caleb: Al que hiriere a Quiriat-sefer, y la tomare, yo le daré a mi hija Acsa por mujer.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Y la tomó Otoniel, hijo de Cenaz, hermano de Caleb; y él le dio por mujer a su hija Acsa.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Y aconteció que cuando la llevaba, él la persuadió que pidiese a su padre tierras para labrar. Ella entonces se apeó del asno. Y Caleb le dijo: ¿Qué tienes?",
+      "topic": ""
+    },
+    "19": {
+      "text": "Y ella respondió: Dame una bendición; pues que me has dado tierra de secadal, dame también fuentes de aguas. El entonces le dio las fuentes de arriba, y las de abajo.",
+      "topic": ""
+    },
+    "20": {
+      "text": "¶ Esta pues es la herencia de la tribu de los hijos de Judá por sus familias.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Y fueron las ciudades del término de la tribu de los hijos de Judá hacia el término de Edom al mediodía: Cabseel, y Edar, y Jagur,",
+      "topic": ""
+    },
+    "22": {
+      "text": "y Cina, y Dimona, y Adada,",
+      "topic": ""
+    },
+    "23": {
+      "text": "y Cedes, y Hazor, e Itnán,",
+      "topic": ""
+    },
+    "24": {
+      "text": "Zif, y Telem, Bealot,",
+      "topic": ""
+    },
+    "25": {
+      "text": "y Hazor-hadata, y Queriot-hezrón, que es Hazor,",
+      "topic": ""
+    },
+    "26": {
+      "text": "Amam, y Sema, y Molada,",
+      "topic": ""
+    },
+    "27": {
+      "text": "y Hazar-gada, y Hesmón, y Bet-pelet,",
+      "topic": ""
+    },
+    "28": {
+      "text": "y Hazar-sual, Beerseba, y Bizotia,",
+      "topic": ""
+    },
+    "29": {
+      "text": "Baala, e Iim, y Esem,",
+      "topic": ""
+    },
+    "30": {
+      "text": "y Eltolad, y Quesil, y Horma,",
+      "topic": ""
+    },
+    "31": {
+      "text": "y Siclag, y Madmana, Sansana,",
+      "topic": ""
+    },
+    "32": {
+      "text": "y Lebaot, Silhim, y Aín, y Rimón; en todas veintinueve ciudades con sus aldeas.",
+      "topic": ""
+    },
+    "33": {
+      "text": "En las llanuras, Estaol, y Zora, y Asena,",
+      "topic": ""
+    },
+    "34": {
+      "text": "y Zanoa, y En-ganim, Tapúa, y Enam,",
+      "topic": ""
+    },
+    "35": {
+      "text": "Jarmut, y Adulam, Soco, y Azeca,",
+      "topic": ""
+    },
+    "36": {
+      "text": "y Saaraim, y Aditaim, y Gedera, y Gederotaim; catorce ciudades con sus aldeas.",
+      "topic": ""
+    },
+    "37": {
+      "text": "Zenán, y Hadasa, y Migdal-gad,",
+      "topic": ""
+    },
+    "38": {
+      "text": "y Dileán, y Mizpa, y Jocteel,",
+      "topic": ""
+    },
+    "39": {
+      "text": "Laquis, y Boscat, y Eglón,",
+      "topic": ""
+    },
+    "40": {
+      "text": "y Cabón, y Lahmam, y Quitlis,",
+      "topic": ""
+    },
+    "41": {
+      "text": "y Gederot, Bet-dagón, y Naama, y Maceda; dieciséis ciudades con sus aldeas.",
+      "topic": ""
+    },
+    "42": {
+      "text": "Libna, y Eter, y Asán,",
+      "topic": ""
+    },
+    "43": {
+      "text": "y Jifta, y Asena, y Nezib,",
+      "topic": ""
+    },
+    "44": {
+      "text": "y Keila, y Aczib, y Maresa; nueve ciudades con sus aldeas.",
+      "topic": ""
+    },
+    "45": {
+      "text": "Ecrón con sus villas y sus aldeas.",
+      "topic": ""
+    },
+    "46": {
+      "text": "Desde Ecrón hasta el mar, todas las que están a la costa de Asdod con sus aldeas.",
+      "topic": ""
+    },
+    "47": {
+      "text": "Asdod con sus villas y sus aldeas; Gaza con sus villas y sus aldeas hasta el río de Egipto, y la gran mar con sus términos.",
+      "topic": ""
+    },
+    "48": {
+      "text": "Y en las montañas, Samir, y Jatir, y Soco,",
+      "topic": ""
+    },
+    "49": {
+      "text": "y Dana, y Quiriat-sana, que es Debir,",
+      "topic": ""
+    },
+    "50": {
+      "text": "y Anab, y Estemoa, y Anim,",
+      "topic": ""
+    },
+    "51": {
+      "text": "y Gosén, y Holón, y Gilo; once ciudades con sus aldeas.",
+      "topic": ""
+    },
+    "52": {
+      "text": "Arab, y Duma, y Esán,",
+      "topic": ""
+    },
+    "53": {
+      "text": "y Janum, y Bet-tapúa, y Afeca,",
+      "topic": ""
+    },
+    "54": {
+      "text": "y Humta, y Quiriat-arba, que es Hebrón, y Sior; nueve ciudades con sus aldeas.",
+      "topic": ""
+    },
+    "55": {
+      "text": "Maón, Carmel, y Zif, y Juta,",
+      "topic": ""
+    },
+    "56": {
+      "text": "Jezreel, Jocdeam, y Zanoa,",
+      "topic": ""
+    },
+    "57": {
+      "text": "Caín, Gabaa, y Timna; diez ciudades con sus aldeas.",
+      "topic": ""
+    },
+    "58": {
+      "text": "Halhul, y Bet-sur, y Gedor,",
+      "topic": ""
+    },
+    "59": {
+      "text": "y Maarat, y Bet-anot, y Eltecón; seis ciudades con sus aldeas.",
+      "topic": ""
+    },
+    "60": {
+      "text": "Quiriat-baal, que es Quiriat-jearim, y Rabá; dos ciudades con sus aldeas.",
+      "topic": ""
+    },
+    "61": {
+      "text": "En el desierto, Bet-arabá, Midín, y Secaca,",
+      "topic": ""
+    },
+    "62": {
+      "text": "y Nibsán, y la Ciudad de la Sal, y Engadi; seis ciudades con sus aldeas.",
+      "topic": ""
+    },
+    "63": {
+      "text": "Mas a los jebuseos que habitaban en Jerusalén, los hijos de Judá no los pudieron desarraigar; antes quedó el jebuseo en Jerusalén con los hijos de Judá, hasta hoy.",
+      "topic": ""
+    }
+  }
+}

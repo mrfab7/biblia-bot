@@ -1,0 +1,24 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "131",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "«Cántico gradual: de David» Jehová, no se ha envanecido mi corazón, ni mis ojos se enaltecieron; ni anduve en grandezas, ni en cosas demasiado sublimes para mí.",
+      "topic": ""
+    },
+    "2": {
+      "text": "En verdad que me he comportado y he acallado mi alma, como un niño destetado de su madre; como un niño destetado [está] mi alma.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Espera, oh Israel, en Jehová desde ahora y para siempre.",
+      "topic": ""
+    }
+  }
+}

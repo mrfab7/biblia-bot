@@ -1,0 +1,68 @@
+{
+  "info": {
+    "book": "Job",
+    "chapter": "26",
+    "translation": "Smith's Literal Translation",
+    "translationID": "slt",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "And Job will answer and say,",
+      "topic": ""
+    },
+    "2": {
+      "text": "How didst thou help to him of no strength? didst thou save the arm of no strength?",
+      "topic": ""
+    },
+    "3": {
+      "text": "How didst thou counsel to him of no wisdom? and didst thou make known help for abundance?",
+      "topic": ""
+    },
+    "4": {
+      "text": "And with whom didst thou announce words? and whose breath came forth from thee?",
+      "topic": ""
+    },
+    "5": {
+      "text": "The shades shall tremble from under the waters, and their inhabitants.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Hades is naked before him, and no covering to destruction.",
+      "topic": ""
+    },
+    "7": {
+      "text": "He stretched out the north upon emptiness, he hung up the earth upon nothing.",
+      "topic": ""
+    },
+    "8": {
+      "text": "He bound up the waters in his clouds, and the cloud was not rent under them.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Holding fast the face of the throne, he spread his cloud upon it.",
+      "topic": ""
+    },
+    "10": {
+      "text": "He marked out with a compass the law upon the face of the waters, even till the end of light with darkness.",
+      "topic": ""
+    },
+    "11": {
+      "text": "The pillars of the heavens shall be shaken, and be astonished from his reproof.",
+      "topic": ""
+    },
+    "12": {
+      "text": "By his power he caused the sea to tremble; by his understanding he smote through pride.",
+      "topic": ""
+    },
+    "13": {
+      "text": "By his spirit he polished the heavens; his hand pierced the flat serpent.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Behold these the ends of his ways; how transient a sound of the word was heard in him! and the thunder of his might who shall understand?",
+      "topic": ""
+    }
+  }
+}

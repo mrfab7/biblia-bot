@@ -1,0 +1,204 @@
+{
+  "info": {
+    "book": "Matthew",
+    "chapter": "5",
+    "translation": "American King James Version",
+    "translationID": "akjv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came to him:",
+      "topic": ""
+    },
+    "2": {
+      "text": "And he opened his mouth, and taught them, saying,",
+      "topic": ""
+    },
+    "3": {
+      "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Blessed are they that mourn: for they shall be comforted.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Blessed are the meek: for they shall inherit the earth.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Blessed are the merciful: for they shall obtain mercy.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Blessed are the pure in heart: for they shall see God.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Blessed are the peacemakers: for they shall be called the children of God.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Blessed are you, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.",
+      "topic": ""
+    },
+    "13": {
+      "text": "You are the salt of the earth: but if the salt have lost his flavor, with which shall it be salted? it is thereafter good for nothing, but to be cast out, and to be trodden under foot of men.",
+      "topic": ""
+    },
+    "14": {
+      "text": "You are the light of the world. A city that is set on an hill cannot be hid.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Neither do men light a candle, and put it under a bushel, but on a candlestick; and it gives light to all that are in the house.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfill.",
+      "topic": ""
+    },
+    "18": {
+      "text": "For truly I say to you, Till heaven and earth pass, one stroke or one pronunciation mark shall in no wise pass from the law, till all be fulfilled.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Whoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whoever shall do and teach them, the same shall be called great in the kingdom of heaven.",
+      "topic": ""
+    },
+    "20": {
+      "text": "For I say to you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, you shall in no case enter into the kingdom of heaven.",
+      "topic": ""
+    },
+    "21": {
+      "text": "You have heard that it was said of them of old time, You shall not kill; and whoever shall kill shall be in danger of the judgment:",
+      "topic": ""
+    },
+    "22": {
+      "text": "But I say to you, That whoever is angry with his brother without a cause shall be in danger of the judgment: and whoever shall say to his brother, Raca, shall be in danger of the council: but whoever shall say, You fool, shall be in danger of hell fire.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Therefore if you bring your gift to the altar, and there remember that your brother has ought against you;",
+      "topic": ""
+    },
+    "24": {
+      "text": "Leave there your gift before the altar, and go your way; first be reconciled to your brother, and then come and offer your gift.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Agree with your adversary quickly, whiles you are in the way with him; lest at any time the adversary deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Truly I say to you, You shall by no means come out there, till you have paid the uttermost farthing.",
+      "topic": ""
+    },
+    "27": {
+      "text": "You have heard that it was said by them of old time, You shall not commit adultery:",
+      "topic": ""
+    },
+    "28": {
+      "text": "But I say to you, That whoever looks on a woman to lust after her has committed adultery with her already in his heart.",
+      "topic": ""
+    },
+    "29": {
+      "text": "And if your right eye offend you, pluck it out, and cast it from you: for it is profitable for you that one of your members should perish, and not that your whole body should be cast into hell.",
+      "topic": ""
+    },
+    "30": {
+      "text": "And if your right hand offend you, cut it off, and cast it from you: for it is profitable for you that one of your members should perish, and not that your whole body should be cast into hell.",
+      "topic": ""
+    },
+    "31": {
+      "text": "It has been said, Whoever shall put away his wife, let him give her a writing of divorce:",
+      "topic": ""
+    },
+    "32": {
+      "text": "But I say to you, That whoever shall put away his wife, saving for the cause of fornication, causes her to commit adultery: and whoever shall marry her that is divorced commits adultery.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Again, you have heard that it has been said by them of old time, You shall not forswear yourself, but shall perform to the Lord your oaths:",
+      "topic": ""
+    },
+    "34": {
+      "text": "But I say to you, Swear not at all; neither by heaven; for it is God’s throne:",
+      "topic": ""
+    },
+    "35": {
+      "text": "Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Neither shall you swear by your head, because you can not make one hair white or black.",
+      "topic": ""
+    },
+    "37": {
+      "text": "But let your communication be, Yes, yes; No, no: for whatever is more than these comes of evil.",
+      "topic": ""
+    },
+    "38": {
+      "text": "You have heard that it has been said, An eye for an eye, and a tooth for a tooth:",
+      "topic": ""
+    },
+    "39": {
+      "text": "But I say to you, That you resist not evil: but whoever shall smite you on your right cheek, turn to him the other also.",
+      "topic": ""
+    },
+    "40": {
+      "text": "And if any man will sue you at the law, and take away your coat, let him have your cloak also.",
+      "topic": ""
+    },
+    "41": {
+      "text": "And whoever shall compel you to go a mile, go with him two.",
+      "topic": ""
+    },
+    "42": {
+      "text": "Give to him that asks you, and from him that would borrow of you turn not you away.",
+      "topic": ""
+    },
+    "43": {
+      "text": "You have heard that it has been said, You shall love your neighbor, and hate your enemy.",
+      "topic": ""
+    },
+    "44": {
+      "text": "But I say to you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which spitefully use you, and persecute you;",
+      "topic": ""
+    },
+    "45": {
+      "text": "That you may be the children of your Father which is in heaven: for he makes his sun to rise on the evil and on the good, and sends rain on the just and on the unjust.",
+      "topic": ""
+    },
+    "46": {
+      "text": "For if you love them which love you, what reward have you? do not even the publicans the same?",
+      "topic": ""
+    },
+    "47": {
+      "text": "And if you salute your brothers only, what do you more than others? do not even the publicans so?",
+      "topic": ""
+    },
+    "48": {
+      "text": "Be you therefore perfect, even as your Father which is in heaven is perfect.",
+      "topic": ""
+    }
+  }
+}

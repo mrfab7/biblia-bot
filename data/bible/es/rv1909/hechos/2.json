@@ -1,0 +1,200 @@
+{
+  "info": {
+    "book": "Hechos",
+    "chapter": "2",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Y cuando llegó el día de Pentecostés, estaban todos unánimes en un mismo lugar.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Y de repente vino un estruendo del cielo como de un viento recio que corría, el cual llenó toda la casa donde estaban sentados;",
+      "topic": ""
+    },
+    "3": {
+      "text": "y se les aparecieron lenguas repartidas, como de fuego, asentándose sobre cada uno de ellos.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Y fueron todos llenos del Espíritu Santo, y comenzaron a hablar en otras lenguas, según el Espíritu les daba que hablasen.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Moraban entonces en Jerusalén judíos, varones piadosos, de todas las naciones debajo del cielo.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Y cuando esto fue divulgado, se juntó la multitud; y estaban confusos, porque cada uno les oía hablar en su propia lengua.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Y todos estaban atónitos y maravillados, diciéndose unos a otros: Mirad, ¿no son galileos todos estos que hablan?",
+      "topic": ""
+    },
+    "8": {
+      "text": "¿Cómo, pues, les oímos nosotros hablar cada uno en nuestra lengua en la que hemos nacido?",
+      "topic": ""
+    },
+    "9": {
+      "text": "Partos y medos, y elamitas, y los que habitamos en Mesopotamia, en Judea y en Capadocia, en el Ponto y en Asia,",
+      "topic": ""
+    },
+    "10": {
+      "text": "en Frigia y Panfilia, en Egipto y en las partes de Libia que está más allá de Cirene, y romanos extranjeros, tanto judíos como prosélitos,",
+      "topic": ""
+    },
+    "11": {
+      "text": "cretenses y árabes, les oímos hablar en nuestras lenguas las maravillas de Dios.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Y estaban todos atónitos y perplejos, diciéndose unos a otros: ¿Qué significa esto?",
+      "topic": ""
+    },
+    "13": {
+      "text": "Mas otros, burlándose, decían: Están llenos de mosto.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Entonces Pedro, poniéndose en pie con los once, alzó su voz, y les habló diciendo: Varones judíos, y todos los que habitáis en Jerusalén, esto os sea notorio, y oíd mis palabras.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Porque éstos no están borrachos, como vosotros pensáis, siendo [apenas] la hora tercera del día.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Mas esto es lo que fue dicho por el profeta Joel:",
+      "topic": ""
+    },
+    "17": {
+      "text": "Y será que en los postreros días, dice Dios: Derramaré de mi Espíritu sobre toda carne; Y vuestros hijos y vuestras hijas profetizarán; Y vuestros jóvenes verán visiones; Y vuestros ancianos soñarán sueños:",
+      "topic": ""
+    },
+    "18": {
+      "text": "Y de cierto sobre mis siervos y sobre mis siervas derramaré de mi Espíritu en aquellos días, y profetizarán.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Y mostraré prodigios arriba en el cielo; y señales abajo en la tierra; sangre y fuego, y vapor de humo:",
+      "topic": ""
+    },
+    "20": {
+      "text": "El sol se tornará en tinieblas; y la luna en sangre; antes que venga el día del Señor; grande y memorable;",
+      "topic": ""
+    },
+    "21": {
+      "text": "Y sucederá que todo aquel que invocare el nombre del Señor, será salvo.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Varones israelitas, oíd estas palabras: Jesús Nazareno, varón aprobado de Dios entre vosotros con milagros y prodigios, y señales que Dios hizo en medio de vosotros por medio de Él, como también vosotros sabéis.",
+      "topic": ""
+    },
+    "23": {
+      "text": "A Éste, entregado por determinado consejo y presciencia de Dios, prendisteis y matasteis por manos de los inicuos, crucificándole;",
+      "topic": ""
+    },
+    "24": {
+      "text": "a quien Dios resucitó, habiendo soltado los dolores de la muerte, por cuanto era imposible ser retenido por ella.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Porque David dice de Él: Veía al Señor siempre delante de mí: Porque está a mi diestra, no seré conmovido.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Por lo cual mi corazón se alegró, y se gozó mi lengua; Y aun mi carne descansará en esperanza;",
+      "topic": ""
+    },
+    "27": {
+      "text": "Porque no dejarás mi alma en el infierno, ni permitirás que tu Santo vea corrupción.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Me hiciste conocer los caminos de la vida; Me llenarás de gozo con tu presencia.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Varones hermanos, permitidme hablaros libremente del patriarca David, que murió, y fue sepultado, y su sepulcro está con nosotros hasta el día de hoy.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Pero siendo profeta, y sabiendo que con juramento Dios le había jurado que del fruto de sus lomos, en cuanto a la carne, levantaría al Cristo que se sentaría sobre su trono;",
+      "topic": ""
+    },
+    "31": {
+      "text": "viéndolo antes, habló de la resurrección de Cristo, que su alma no fue dejada en el infierno, ni su carne vio corrupción.",
+      "topic": ""
+    },
+    "32": {
+      "text": "A este Jesús resucitó Dios, de lo cual todos nosotros somos testigos.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Así que, exaltado por la diestra de Dios, y habiendo recibido del Padre la promesa del Espíritu Santo, ha derramado esto que ahora vosotros veis y oís.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Porque David no subió a los cielos; pero él mismo dice: Dijo el Señor a mi Señor: Siéntate a mi diestra,",
+      "topic": ""
+    },
+    "35": {
+      "text": "hasta que ponga a tus enemigos por estrado de tus pies.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Sepa, pues, ciertísimamente toda la casa de Israel, que a este Jesús que vosotros crucificasteis, Dios le ha hecho Señor y Cristo.",
+      "topic": ""
+    },
+    "37": {
+      "text": "Y al oír [esto], se compungieron de corazón, y dijeron a Pedro y a los otros apóstoles: Varones hermanos, ¿qué haremos?",
+      "topic": ""
+    },
+    "38": {
+      "text": "Entonces Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Porque para vosotros es la promesa, y para vuestros hijos, y para todos los que están lejos; para cuantos el Señor nuestro Dios llamare.",
+      "topic": ""
+    },
+    "40": {
+      "text": "Y con otras muchas palabras testificaba y exhortaba, diciendo: Sed salvos de esta perversa generación.",
+      "topic": ""
+    },
+    "41": {
+      "text": "Así que, los que con gozo recibieron su palabra, fueron bautizados; y aquel día fueron añadidas [a ellos] como tres mil almas.",
+      "topic": ""
+    },
+    "42": {
+      "text": "Y perseveraban en la doctrina de los apóstoles, y en la comunión, y en el partimiento del pan, y en las oraciones.",
+      "topic": ""
+    },
+    "43": {
+      "text": "Y vino temor sobre toda persona: y muchas maravillas y señales eran hechas por los apóstoles.",
+      "topic": ""
+    },
+    "44": {
+      "text": "Y todos los que habían creído estaban juntos; y tenían en común todas las cosas;",
+      "topic": ""
+    },
+    "45": {
+      "text": "y vendían sus propiedades y sus bienes, y lo repartían a todos, según cada uno tenía necesidad.",
+      "topic": ""
+    },
+    "46": {
+      "text": "Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón,",
+      "topic": ""
+    },
+    "47": {
+      "text": "alabando a Dios, y teniendo favor con todo el pueblo. Y el Señor añadía cada día a la iglesia los que eran salvos.",
+      "topic": ""
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "info": {
+    "book": "Leviticus",
+    "chapter": "11",
+    "translation": "Smith's Literal Translation",
+    "translationID": "slt",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "And Jehovah will speak to Moses and to Aaron, saying to them,",
+      "topic": ""
+    },
+    "2": {
+      "text": "Speak to the sons of Israel, saying These the beasts which ye shall eat from all the cattle which are upon the earth.",
+      "topic": ""
+    },
+    "3": {
+      "text": "All cleaving the cloven hoof, and splitting, split the cloven hoof, and lifting up rumination among the cattle, ye shall eat it.",
+      "topic": ""
+    },
+    "4": {
+      "text": "But this ye shall not eat: from them bringing up rumination, and from them cleaving the cloven hoof; the camel, for it bringing up rumination, and cleaving not its cloven hoof; it is unclean to you.",
+      "topic": ""
+    },
+    "5": {
+      "text": "The coney, for this bringing up rumination, and will not cleave the cloven hoof; it is unclean to you.",
+      "topic": ""
+    },
+    "6": {
+      "text": "And the hare, for this bringing up rumination, and cleaving not the cloven hoof; it is unclean to you.",
+      "topic": ""
+    },
+    "7": {
+      "text": "And the swine, for this cleaving the cloven hoof and dividing, divided the cloven hoof, and it will not excite rumination; it is unclean to you.",
+      "topic": ""
+    },
+    "8": {
+      "text": "From their flesh ye shall not eat, and upon their carcass ye shall not touch; they are unclean to you.",
+      "topic": ""
+    },
+    "9": {
+      "text": "And this shall ye eat from all which are in the water: all which to it is a fin and scale in the water, in the seas, and in the rivers, ye shall eat them.",
+      "topic": ""
+    },
+    "10": {
+      "text": "And every one which to it is not a fin and scale in the seas and in the rivers, from all creeping in the water, and from every living soul which is in the water, they an abomination to you.",
+      "topic": ""
+    },
+    "11": {
+      "text": "And they shall be an abomination to you: from their flesh ye shall, not eat, and their carcasses ye shall abhor.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Every one which is not to it a fin and scale in the water, this is abomination to you.",
+      "topic": ""
+    },
+    "13": {
+      "text": "And these ye shall abhor from the birds; they shall not be eaten; they are an abomination: the eagle, the sea eagle, and the osprey.",
+      "topic": ""
+    },
+    "14": {
+      "text": "And the vulture, and the kite according to its kind.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Every raven according to its kind;",
+      "topic": ""
+    },
+    "16": {
+      "text": "And the daughter of the ostrich, and the night-hawk, and the seagull, and the hawk according to its kind;",
+      "topic": ""
+    },
+    "17": {
+      "text": "And the cormorant, and the gannet, and the owl;",
+      "topic": ""
+    },
+    "18": {
+      "text": "And the swan, and the pelican, and the carrion vulture;",
+      "topic": ""
+    },
+    "19": {
+      "text": "And the stork, the parrot according to its kind, and the hoopo and the bat.",
+      "topic": ""
+    },
+    "20": {
+      "text": "All creeping birds going upon four, it is an abomination to you.",
+      "topic": ""
+    },
+    "21": {
+      "text": "But this ye shall eat, from every creeping bird going upon four, to which legs from above its feet to spring with them upon the earth.",
+      "topic": ""
+    },
+    "22": {
+      "text": "These from them ye shall eat; the locust according to its kind, the winged locust according to its kind, and the locust without wings according to its kind, and the leaping locust according to its kind.",
+      "topic": ""
+    },
+    "23": {
+      "text": "And every creeping bird which to it is four feet, it is abomination to you.",
+      "topic": ""
+    },
+    "24": {
+      "text": "And for these ye shall be unclean: all touching upon their carcass shall be unclean till evening.",
+      "topic": ""
+    },
+    "25": {
+      "text": "And every one lifting up from their carcass shall cleanse his garment; and be unclean till evening.",
+      "topic": ""
+    },
+    "26": {
+      "text": "For all cattle of which it is cleaving the cloven foot and not splitting the cleft, and not bringing up rumination, they are unclean to you; every one touching upon them shall be unclean.",
+      "topic": ""
+    },
+    "27": {
+      "text": "And every one going upon his hands among all beasts going upon four, they are unclean to you: every one touching upon their carcass shall be unclean till evening.",
+      "topic": ""
+    },
+    "28": {
+      "text": "And be lifting up their carcass shall cleanse his garments, and be unclean till evening: they are unclean to you.",
+      "topic": ""
+    },
+    "29": {
+      "text": "This being unclean to you among the creeping, creeping upon the earth; the weasel, and the mouse, and the lizard according to its kind;",
+      "topic": ""
+    },
+    "30": {
+      "text": "The shrew mouse, and the chameleon, and the salamander, and the snail and the mole.",
+      "topic": ""
+    },
+    "31": {
+      "text": "These are unclean to you, among all the creeping: every one touching upon them in their dying, shall be unclean till even.",
+      "topic": ""
+    },
+    "32": {
+      "text": "And all which shall fall from them upon it in their dying, shall be unclean; from all vessels of wood, or garment, or skin, or sack, every vessel which work shall be done in them, into water shall it go, and be unclean till the evening: and it shall be clean.",
+      "topic": ""
+    },
+    "33": {
+      "text": "And every vessel of earthen upon which it shall fall from them, into its midst, all which is in its midst shall be unclean, and ye shall break it.",
+      "topic": ""
+    },
+    "34": {
+      "text": "From all food which shall be eaten which water shall come upon it, shall be unclean: and all drink which shall be drank from every vessel shall be unclean.",
+      "topic": ""
+    },
+    "35": {
+      "text": "And every thing which their carcass shall fall upon it shall be unclean: oven and cooking-furnace shall be broken down: they are unclean, and they shall be unclean to you.",
+      "topic": ""
+    },
+    "36": {
+      "text": "But a fountain and pit, a gathering of waters, shall be clean: and he touching upon their carcass shall be unclean.",
+      "topic": ""
+    },
+    "37": {
+      "text": "And when from their carcass shall fall upon any seed of sowing which shall be sown, it is clean.",
+      "topic": ""
+    },
+    "38": {
+      "text": "And when water shall be given upon the seed and from their carcass fall upon it it is unclean to you.",
+      "topic": ""
+    },
+    "39": {
+      "text": "And when there shall die from the cattle which is to you for eating, he touching upon its carcass shall be unclean till the evening.",
+      "topic": ""
+    },
+    "40": {
+      "text": "And he eating from its carcass shall cleanse his garments, and be unclean till the evening; and he lifting up its carcass shall wash his garments and be unclean till the evening.",
+      "topic": ""
+    },
+    "41": {
+      "text": "And every creeping thing creeping the earth, it is abomination; it shall not be eaten.",
+      "topic": ""
+    },
+    "42": {
+      "text": "Every thing going upon the belly, every thing going upon four always, every thing multiplying feet, of all creeping things creeping upon the earth, ye shall not eat them; for they are abomination.",
+      "topic": ""
+    },
+    "43": {
+      "text": "Ye shall not make your souls abominable by any creeping thing creeping, and ye shall not be unclean by them, and be defiled by them.",
+      "topic": ""
+    },
+    "44": {
+      "text": "For I am Jehovah, your God, and ye were consecrated and ye were holy, for I am holy: and ye shall not make your souls unclean by any creeping thing creeping upon the earth.",
+      "topic": ""
+    },
+    "45": {
+      "text": "For I am Jehovah bringing up from the land of Egypt, to be to you for God: and ye shall be holy, for I am holy.",
+      "topic": ""
+    },
+    "46": {
+      "text": "This the law of cattle, and of bird, and of every living soul creeping in the water, and for every soul creeping upon the earth.",
+      "topic": ""
+    },
+    "47": {
+      "text": "To separate between the unclean and between the clean, and between the beast being eaten and between the beast which shall not be eaten.",
+      "topic": ""
+    }
+  }
+}

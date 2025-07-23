@@ -1,0 +1,168 @@
+{
+  "info": {
+    "book": "Nehemiah",
+    "chapter": "10",
+    "translation": "American King James Version",
+    "translationID": "akjv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,",
+      "topic": ""
+    },
+    "2": {
+      "text": "Seraiah, Azariah, Jeremiah,",
+      "topic": ""
+    },
+    "3": {
+      "text": "Pashur, Amariah, Malchijah,",
+      "topic": ""
+    },
+    "4": {
+      "text": "Hattush, Shebaniah, Malluch,",
+      "topic": ""
+    },
+    "5": {
+      "text": "Harim, Meremoth, Obadiah,",
+      "topic": ""
+    },
+    "6": {
+      "text": "Daniel, Ginnethon, Baruch,",
+      "topic": ""
+    },
+    "7": {
+      "text": "Meshullam, Abijah, Mijamin,",
+      "topic": ""
+    },
+    "8": {
+      "text": "Maaziah, Bilgai, Shemaiah: these were the priests.",
+      "topic": ""
+    },
+    "9": {
+      "text": "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;",
+      "topic": ""
+    },
+    "10": {
+      "text": "And their brothers, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan,",
+      "topic": ""
+    },
+    "11": {
+      "text": "Micha, Rehob, Hashabiah,",
+      "topic": ""
+    },
+    "12": {
+      "text": "Zaccur, Sherebiah, Shebaniah,",
+      "topic": ""
+    },
+    "13": {
+      "text": "Hodijah, Bani, Beninu.",
+      "topic": ""
+    },
+    "14": {
+      "text": "The chief of the people; Parosh, Pahathmoab, Elam, Zatthu, Bani,",
+      "topic": ""
+    },
+    "15": {
+      "text": "Bunni, Azgad, Bebai,",
+      "topic": ""
+    },
+    "16": {
+      "text": "Adonijah, Bigvai, Adin,",
+      "topic": ""
+    },
+    "17": {
+      "text": "Ater, Hizkijah, Azzur,",
+      "topic": ""
+    },
+    "18": {
+      "text": "Hodijah, Hashum, Bezai,",
+      "topic": ""
+    },
+    "19": {
+      "text": "Hariph, Anathoth, Nebai,",
+      "topic": ""
+    },
+    "20": {
+      "text": "Magpiash, Meshullam, Hezir,",
+      "topic": ""
+    },
+    "21": {
+      "text": "Meshezabeel, Zadok, Jaddua,",
+      "topic": ""
+    },
+    "22": {
+      "text": "Pelatiah, Hanan, Anaiah,",
+      "topic": ""
+    },
+    "23": {
+      "text": "Hoshea, Hananiah, Hashub,",
+      "topic": ""
+    },
+    "24": {
+      "text": "Hallohesh, Pileha, Shobek,",
+      "topic": ""
+    },
+    "25": {
+      "text": "Rehum, Hashabnah, Maaseiah,",
+      "topic": ""
+    },
+    "26": {
+      "text": "And Ahijah, Hanan, Anan,",
+      "topic": ""
+    },
+    "27": {
+      "text": "Malluch, Harim, Baanah.",
+      "topic": ""
+    },
+    "28": {
+      "text": "And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands to the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;",
+      "topic": ""
+    },
+    "29": {
+      "text": "They joined to their brothers, their nobles, and entered into a curse, and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;",
+      "topic": ""
+    },
+    "30": {
+      "text": "And that we would not give our daughters to the people of the land, not take their daughters for our sons:",
+      "topic": ""
+    },
+    "31": {
+      "text": "And if the people of the land bring ware or any victuals on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the exaction of every debt.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;",
+      "topic": ""
+    },
+    "33": {
+      "text": "For the show bread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God.",
+      "topic": ""
+    },
+    "34": {
+      "text": "And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn on the altar of the LORD our God, as it is written in the law:",
+      "topic": ""
+    },
+    "35": {
+      "text": "And to bring the first fruits of our ground, and the first fruits of all fruit of all trees, year by year, to the house of the LORD:",
+      "topic": ""
+    },
+    "36": {
+      "text": "Also the firstborn of our sons, and of our cattle, as it is written in the law, and the firstborn of our herds and of our flocks, to bring to the house of our God, to the priests that minister in the house of our God:",
+      "topic": ""
+    },
+    "37": {
+      "text": "And that we should bring the first fruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, to the priests, to the chambers of the house of our God; and the tithes of our ground to the Levites, that the same Levites might have the tithes in all the cities of our tillage.",
+      "topic": ""
+    },
+    "38": {
+      "text": "And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes to the house of our God, to the chambers, into the treasure house.",
+      "topic": ""
+    },
+    "39": {
+      "text": "For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, to the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.",
+      "topic": ""
+    }
+  }
+}

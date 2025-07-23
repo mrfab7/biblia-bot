@@ -1,0 +1,52 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "141",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "«Salmo de David» Jehová, a ti clamo; apresúrate a mí; escucha mi voz, cuando a ti clamo.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Suba mi oración delante de ti como el incienso, y el levantar mis manos como la ofrenda de la tarde.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Pon guarda a mi boca, oh Jehová; Guarda la puerta de mis labios.",
+      "topic": ""
+    },
+    "4": {
+      "text": "No dejes que se incline mi corazón a cosa mala, a hacer obras impías con los que obran iniquidad, y no coma yo de sus manjares.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Que el justo me castigue, será un favor, y que me reprenda será un excelente bálsamo que no me herirá la cabeza. Pero mi oración tendrán, aun en sus calamidades.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Sus jueces serán derribados en lugares peñascosos, y oirán mis palabras, que son dulces.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Como quien hiende y rompe la tierra, son esparcidos nuestros huesos a la boca de la sepultura.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Por tanto a ti, oh Jehová Señor, miran mis ojos: En ti he confiado, no desampares mi alma.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Guárdame de los lazos que me han tendido, y de las trampas de los obradores de iniquidad.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Caigan los impíos a una en sus redes, mientras yo paso adelante.",
+      "topic": ""
+    }
+  }
+}

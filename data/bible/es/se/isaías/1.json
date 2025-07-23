@@ -1,0 +1,136 @@
+{
+  "info": {
+    "book": "Isaías",
+    "chapter": "1",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Visión de Isaías hijo de Amoz, la cual vio sobre Judá y Jerusalén, en días de Uzías, Jotam, Acaz y Ezequías, reyes de Judá.",
+      "topic": ""
+    },
+    "2": {
+      "text": "¶ Oíd, cielos, y escucha tú, tierra; porque habla el SEÑOR: Crié hijos, y los engrandecí, y ellos se rebelaron contra mí.",
+      "topic": ""
+    },
+    "3": {
+      "text": "El buey conoce a su dueño, y el asno el pesebre de sus señores; Israel no conoce, mi pueblo no tiene entendimiento.",
+      "topic": ""
+    },
+    "4": {
+      "text": "¡Oh gente pecadora, pueblo cargado de maldad, generación de malignos, hijos corruptos! Dejaron al SEÑOR, provocaron a ira al Santo de Israel; se tornaron atrás.",
+      "topic": ""
+    },
+    "5": {
+      "text": "¿Para qué os castigaré aún? Todavía os rebelaréis. Toda cabeza está enferma, y todo corazón doliente.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Desde la planta del pie hasta la cabeza no hay en él cosa entera, sino herida, hinchazón y podrida llaga; no son curadas, ni vendadas, ni suavizadas con aceite.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Vuestra tierra está destruida, vuestras ciudades puestas a fuego, vuestra tierra delante de vosotros comida de extranjeros, y asolada como asolamiento de extraños.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Y queda la hija de Sion como choza en viña, y como cabaña en melonar, como ciudad asolada.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Si el SEÑOR de los ejércitos no hubiera hecho que nos quedase un remanente pequeño, como Sodoma fuéramos, y semejantes a Gomorra.",
+      "topic": ""
+    },
+    "10": {
+      "text": "¶ Príncipes de Sodoma, oíd la palabra del SEÑOR; escuchad la ley de nuestro Dios, pueblo de Gomorra.",
+      "topic": ""
+    },
+    "11": {
+      "text": "¿Para qué me sirve la multitud de vuestros sacrificios? dirá el SEÑOR. Hastiado estoy de holocaustos de carneros, y de sebo de animales gordos; no quiero sangre de bueyes, ni de ovejas, ni de machos cabríos.",
+      "topic": ""
+    },
+    "12": {
+      "text": "¿Quién demandó esto de vuestras manos, cuando vinieseis a ver mi rostro, a hollar mis atrios?",
+      "topic": ""
+    },
+    "13": {
+      "text": "No me traigáis más presente vano; el perfume me es abominación; luna nueva y sábado, el convocar asambleas, no las puedo sufrir; iniquidad y solemnidad.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Vuestras lunas nuevas y vuestras fiestas solemnes las tiene aborrecidas mi alma: me han sido carga; cansado estoy de llevarlas.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Cuando extendiereis vuestras manos, yo esconderé de vosotros mis ojos; asimismo cuando multiplicáreis la oración, yo no oiré; llenas están de sangre vuestras manos.",
+      "topic": ""
+    },
+    "16": {
+      "text": "¶ Lavaos, y limpiaos; quitad la iniquidad de vuestras obras de delante de mis ojos; dejad de hacer lo malo;",
+      "topic": ""
+    },
+    "17": {
+      "text": "aprended a hacer el bien. Buscad juicio. Restituid al agraviado. Oíd en derecho al huérfano. Amparad a la viuda.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Venid luego, dirá el SEÑOR, y estemos a cuenta: si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos; si fueren rojos como el carmesí, serán tornados como la lana.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Si quisiereis, y oyereis, comeréis el bien de la tierra;",
+      "topic": ""
+    },
+    "20": {
+      "text": "si no quisiereis, y fuereis rebeldes, seréis consumidos a espada, porque la boca del SEÑOR lo ha dicho.",
+      "topic": ""
+    },
+    "21": {
+      "text": "¶ ¿Cómo te has tornado ramera, oh ciudad fiel? Llena estuvo de juicio, en ella habitó la equidad; mas ahora, los homicidas.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Tu plata se ha tornado en escorias, tu vino está mezclado con agua.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Tus príncipes, prevaricadores y compañeros de ladrones; todos aman las dádivas, y van tras las recompensas; no oyen en juicio al huérfano, ni llega a ellos la causa de la viuda.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Por tanto, dice el Señor DIOS de los ejércitos, el Fuerte de Israel: Ea, tomaré satisfacción de mis enemigos, me vengaré de mis adversarios;",
+      "topic": ""
+    },
+    "25": {
+      "text": "y volveré mi mano sobre ti, y limpiaré hasta lo más puro tus escorias, y quitaré todo tu estaño;",
+      "topic": ""
+    },
+    "26": {
+      "text": "y restituiré tus jueces como al principio, y tus consejeros como de primero; entonces te llamarán Ciudad de justicia, Ciudad fiel.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Sion con juicio será rescatada, y los convertidos de ella con justicia.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Mas los rebeldes y pecadores a una serán quebrantados; y los que dejaron al SEÑOR serán consumidos.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Entonces os avergonzarán los árboles que amasteis, y os afrentarán los bosques que escogisteis.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Porque seréis como el olmo que se le cae la hoja, y como huerto al que le faltan las aguas.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Y el ídolo fuerte será como estopa, y el que lo hizo como centella; y ambos serán encendidos juntamente, y no habrá quien apague.",
+      "topic": ""
+    }
+  }
+}

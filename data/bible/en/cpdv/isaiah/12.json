@@ -1,0 +1,36 @@
+{
+  "info": {
+    "book": "Isaiah",
+    "chapter": "12",
+    "translation": "Catholic Public Domain Version",
+    "translationID": "cpdv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "And you will say in that day: “I will confess to you, O Lord, because you have been angry with me; but your fury has been turned away, and you have consoled me.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Behold, God is my savior, I will act faithfully, and I will not be afraid. For the Lord is my strength and my praise, and he has become my salvation.”",
+      "topic": ""
+    },
+    "3": {
+      "text": "You will draw water with gladness from the fountains of the Savior.",
+      "topic": ""
+    },
+    "4": {
+      "text": "And you will say in that day: “Confess the Lord, and invoke his name! Make his plans known among the peoples! Remember that his name is exalted!",
+      "topic": ""
+    },
+    "5": {
+      "text": "Sing to the Lord, for he has acted magnificently! Announce it to the whole world!",
+      "topic": ""
+    },
+    "6": {
+      "text": "Exult and give praise, O habitation of Zion! For the Great One, the Holy One of Israel, is in your midst!”",
+      "topic": ""
+    }
+  }
+}

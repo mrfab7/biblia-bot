@@ -1,0 +1,180 @@
+{
+  "info": {
+    "book": "Lucas",
+    "chapter": "10",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Y después de estas cosas, señaló el Señor aun otros setenta, los cuales envió de dos en dos delante de sí, a todas las ciudades y lugares a donde él había de venir.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Y les decía: La mies a la verdad es mucha, mas los obreros pocos; por tanto, rogad al Señor de la mies que envíe obreros a su mies.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Andad, he aquí yo os envío como a corderos en medio de lobos.",
+      "topic": ""
+    },
+    "4": {
+      "text": "No llevéis bolsa, ni alforja, ni calzado; y a nadie saludéis en el camino.",
+      "topic": ""
+    },
+    "5": {
+      "text": "En cualquier casa donde entréis, primeramente decid: Paz sea a esta casa.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Y si hubiere allí algún hijo de paz, vuestra paz reposará sobre él; y si no, se volverá a vosotros.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Y posad en aquella misma casa, comiendo y bebiendo lo que os dieren; porque el obrero digno es de su salario. No os paséis de casa en casa.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Y en cualquier ciudad donde entréis, y os recibieren, comed lo que os pusieren delante;",
+      "topic": ""
+    },
+    "9": {
+      "text": "y sanad los enfermos que en ella hubiere, y decidles: Se ha llegado a vosotros el Reino de Dios.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Mas en cualquier ciudad donde entréis, y no os recibieren, saliendo por sus calles, decid:",
+      "topic": ""
+    },
+    "11": {
+      "text": "Aun el polvo que se nos ha pegado de vuestra ciudad sacudimos en vosotros; pero esto sabed, que el Reino de los cielos se ha llegado a vosotros.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Y os digo que los de Sodoma tendrán más remisión aquel día, que aquella ciudad.",
+      "topic": ""
+    },
+    "13": {
+      "text": "¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Que si en Tiro y en Sidón hubieran sido hechas las virtudes que se han hecho en vosotras, hace ya días que, sentados en cilicio y ceniza, se habrían arrepentido.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Por tanto, Tiro y Sidón tendrán más remisión que vosotras en el juicio.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Y tú, Capernaum, que hasta los cielos estás levantada, hasta los infiernos serás abajada.",
+      "topic": ""
+    },
+    "16": {
+      "text": "El que a vosotros oye, a mí oye; y el que a vosotros desecha, a mí desecha; y el que a mí desecha, desecha al que me envió.",
+      "topic": ""
+    },
+    "17": {
+      "text": "¶ Y volvieron los setenta con gozo, diciendo: Señor, aun los demonios se nos sujetan en tu nombre.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Y les dijo: Yo veía a Satanás, como un rayo que caía del cielo.",
+      "topic": ""
+    },
+    "19": {
+      "text": "He aquí os doy potestad de hollar sobre serpientes y sobre escorpiones, y sobre toda fuerza del enemigo, y nada os dañará.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Mas no os gocéis de esto, que los espíritus se os sujetan; antes gozaos de que vuestros nombres están escritos en los cielos.",
+      "topic": ""
+    },
+    "21": {
+      "text": "En aquella misma hora Jesús se alegró en espíritu, y dijo: Te confieso, oh Padre, Señor del cielo y de la tierra, que escondiste estas cosas a los sabios y entendidos, y las has revelado a los pequeños; así, Padre, porque así te agradó.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Todas las cosas me son entregadas de mi Padre; y nadie sabe quién sea el Hijo sino el Padre; ni quién sea el Padre, sino el Hijo, y a quien el Hijo lo quisiere revelar.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Y vuelto particularmente a sus discípulos, dijo: Bienaventurados los ojos que ven lo que vosotros veis;",
+      "topic": ""
+    },
+    "24": {
+      "text": "porque os digo que muchos profetas y reyes desearon ver lo que vosotros veis, y no lo vieron; y oír lo que oís, y no lo oyeron.",
+      "topic": ""
+    },
+    "25": {
+      "text": "¶ Y he aquí, un doctor de la ley se levantó, tentándole y diciendo: Maestro, ¿haciendo qué cosa heredaré la vida eterna?",
+      "topic": ""
+    },
+    "26": {
+      "text": "Y él dijo: ¿Qué está escrito de la ley? ¿Cómo lees?",
+      "topic": ""
+    },
+    "27": {
+      "text": "Y él respondiendo, dijo: Amarás al Señor tu Dios de todo tu corazón, y de toda tu alma, y de todas tus fuerzas, y de todo tu entendimiento; y a tu prójimo como a ti mismo.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Y le dijo: Bien has respondido; haz esto, y vivirás.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Mas él, queriéndose justificar a sí mismo, dijo a Jesús: ¿Y quién es mi prójimo?",
+      "topic": ""
+    },
+    "30": {
+      "text": "Y respondiendo Jesús, dijo: Un hombre descendía de Jerusalén a Jericó, y cayó entre ladrones, los cuales le despojaron; e hiriéndole, se fueron, dejándole medio muerto.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Y aconteció, que descendió un sacerdote por el mismo camino, y viéndole, pasó de lado.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Y asimismo un levita, llegando cerca de aquel lugar, y viéndole, pasó de lado.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Y un samaritano que transitaba, viniendo cerca de él, y viéndole, fue movido a misericordia;",
+      "topic": ""
+    },
+    "34": {
+      "text": "y llegándose, vendó sus heridas, echándoles aceite y vino; y poniéndole sobre su cabalgadura, le llevó a un mesón, y lo curó.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Y otro día al partir, sacó dos denarios, y los dio al huésped, y le dijo: Cúralo; y todo lo que gastares de más, cuando yo vuelva te lo pagaré.",
+      "topic": ""
+    },
+    "36": {
+      "text": "¿Quién, pues, de estos tres te parece que fue el prójimo de aquel que cayó entre ladrones?",
+      "topic": ""
+    },
+    "37": {
+      "text": "Y él dijo: El que usó con él de misericordia. Entonces Jesús le dijo: Ve, y haz tú lo mismo.",
+      "topic": ""
+    },
+    "38": {
+      "text": "¶ Y aconteció que yendo, entró él en una aldea; y una mujer llamada Marta, le recibió en su casa.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Y ésta tenía una hermana que se llamaba María, la cual sentándose a los pies de Jesús, oía su palabra.",
+      "topic": ""
+    },
+    "40": {
+      "text": "Pero Marta se distraía en muchos servicios; y sobreviniendo, dice: Señor, ¿no tienes cuidado que mi hermana me deja servir sola? Dile pues, que me ayude.",
+      "topic": ""
+    },
+    "41": {
+      "text": "Pero respondiendo Jesús, le dijo: Marta, Marta, cuidadosa estás, y con las muchas cosas estás turbada;",
+      "topic": ""
+    },
+    "42": {
+      "text": "pero sólo una cosa es necesaria; y María escogió la buena parte, la cual no le será quitada.",
+      "topic": ""
+    }
+  }
+}

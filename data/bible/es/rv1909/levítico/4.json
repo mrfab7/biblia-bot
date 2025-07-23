@@ -1,0 +1,152 @@
+{
+  "info": {
+    "book": "Levítico",
+    "chapter": "4",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Y Jehová habló a Moisés, diciendo:",
+      "topic": ""
+    },
+    "2": {
+      "text": "Habla a los hijos de Israel, diciendo: Cuando alguna persona pecare por yerro en alguno de los mandamientos de Jehová sobre cosas que no se han de hacer, y obrare contra alguno de ellos;",
+      "topic": ""
+    },
+    "3": {
+      "text": "Si un sacerdote ungido pecare según el pecado del pueblo, ofrecerá a Jehová, por su pecado que habrá cometido, un becerro sin defecto como ofrenda por el pecado.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Y traerá el becerro a la puerta del tabernáculo de la congregación delante de Jehová, y pondrá su mano sobre la cabeza del becerro, y lo degollará delante de Jehová.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Y el sacerdote ungido tomará de la sangre del becerro, y la traerá al tabernáculo de la congregación;",
+      "topic": ""
+    },
+    "6": {
+      "text": "Y mojará el sacerdote su dedo en la sangre, y rociará de aquella sangre siete veces delante de Jehová, hacia el velo del santuario.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Y el sacerdote pondrá de esa sangre sobre los cuernos del altar del incienso aromático, que está en el tabernáculo de la congregación delante de Jehová; y echará toda la sangre del becerro al pie del altar del holocausto, que está a la puerta del tabernáculo de la congregación.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Y tomará del becerro para la expiación toda la grosura, la grosura que cubre los intestinos, y toda la grosura que está sobre las entrañas,",
+      "topic": ""
+    },
+    "9": {
+      "text": "Y los dos riñones, y la grosura que está sobre ellos, y la que está sobre los ijares, y con los riñones quitará el redaño de sobre el hígado,",
+      "topic": ""
+    },
+    "10": {
+      "text": "de la manera que fue quitado del buey del sacrificio de la paz; y el sacerdote lo quemará sobre el altar del holocausto.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Y la piel del becerro, y toda su carne, con su cabeza, y sus piernas, y sus intestinos, y su estiércol.",
+      "topic": ""
+    },
+    "12": {
+      "text": "En fin, todo el becerro sacará fuera del campamento, a un lugar limpio, donde se echan las cenizas, y lo quemará al fuego sobre la leña: en donde se echan las cenizas será quemado.",
+      "topic": ""
+    },
+    "13": {
+      "text": "Y si toda la congregación de Israel hubiere errado, y el negocio estuviere oculto a los ojos del pueblo, y hubieren hecho algo contra alguno de los mandamientos de Jehová en cosas que no se han de hacer, y fueren culpables;",
+      "topic": ""
+    },
+    "14": {
+      "text": "luego que fuere entendido el pecado sobre que delinquieron, la congregación ofrecerá un becerro por expiación, y lo traerán delante del tabernáculo de la congregación.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Y los ancianos de la congregación pondrán sus manos sobre la cabeza del becerro delante de Jehová; y en presencia de Jehová degollarán aquel becerro.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Y el sacerdote ungido meterá de la sangre del becerro en el tabernáculo de la congregación.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Y mojará el sacerdote su dedo en la misma sangre, y [la] rociará siete veces delante de Jehová hacia el velo.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Y de aquella sangre pondrá sobre los cuernos del altar que está delante de Jehová en el tabernáculo de la congregación, y derramará toda la sangre al pie del altar del holocausto, que está a la puerta del tabernáculo de la congregación.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Y le quitará toda la grosura, y la quemará sobre el altar.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Y hará de aquel becerro como hizo con el becerro de la expiación; lo mismo hará de él: así hará el sacerdote expiación por ellos, y obtendrán perdón.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Y sacará el becerro fuera del campamento, y lo quemará como quemó el primer becerro; es expiación por la congregación.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Y cuando un príncipe pecare e hiciere por yerro algo contra alguno de todos los mandamientos de Jehová su Dios, sobre cosas que no se han de hacer, y es culpable;",
+      "topic": ""
+    },
+    "23": {
+      "text": "luego que le sea conocido su pecado en que ha delinquido, presentará como su ofrenda un macho cabrío sin defecto.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Y pondrá su mano sobre la cabeza del macho cabrío, y lo degollará en el lugar donde se degüella el holocausto delante de Jehová; es expiación.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Y tomará el sacerdote con su dedo de la sangre de la expiación, y pondrá sobre los cuernos del altar del holocausto, y derramará la sangre al pie del altar del holocausto:",
+      "topic": ""
+    },
+    "26": {
+      "text": "Y quemará toda su grosura sobre el altar, como la grosura del sacrificio de paz; así hará el sacerdote por él la expiación de su pecado, y tendrá perdón.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Y si alguno del pueblo común pecare por yerro, haciendo algo contra alguno de los mandamientos de Jehová en cosas que no se han de hacer, y es culpable;",
+      "topic": ""
+    },
+    "28": {
+      "text": "luego que le sea conocido su pecado que cometió, traerá como su ofrenda una cabra, una cabra sin defecto, por su pecado que habrá cometido.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Y pondrá su mano sobre la cabeza de la expiación, y la degollará en el lugar del holocausto.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Y el sacerdote tomará con su dedo de la sangre, y pondrá sobre los cuernos del altar del holocausto, y derramará toda su sangre al pie del altar.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Y le quitará toda su grosura, de la manera que fue quitada la grosura del sacrificio de paz; y el sacerdote la quemará sobre el altar en olor de suavidad a Jehová: así hará el sacerdote expiación por él, y será perdonado.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Y si trajere oveja para su ofrenda por el pecado, hembra sin defecto traerá.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Y pondrá su mano sobre la cabeza de la expiación, y la degollará por expiación en el lugar donde se degüella el holocausto.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Después tomará el sacerdote con su dedo de la sangre de la expiación, y pondrá sobre los cuernos del altar del holocausto; y derramará toda la sangre al pie del altar.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Y le quitará toda la grosura, como le es quitada la grosura al cordero del sacrificio de paz, y el sacerdote la quemará en el altar sobre la ofrenda encendida a Jehová; y le hará el sacerdote expiación de su pecado que hubiere cometido, y le será perdonado.",
+      "topic": ""
+    }
+  }
+}

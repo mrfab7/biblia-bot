@@ -1,0 +1,164 @@
+{
+  "info": {
+    "book": "Juan",
+    "chapter": "13",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Y antes de la fiesta de la pascua, sabiendo Jesús que su hora había llegado para que pasase de este mundo al Padre, como había amado a los suyos que estaban en el mundo, los amó hasta el fin.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Y cuando terminó la cena, el diablo habiendo ya puesto en el corazón de Judas Iscariote, [hijo] de Simón, que le entregase;",
+      "topic": ""
+    },
+    "3": {
+      "text": "sabiendo Jesús que el Padre le había dado todas las cosas en sus manos, y que había venido de Dios, y a Dios iba,",
+      "topic": ""
+    },
+    "4": {
+      "text": "se levantó de la cena, y se quitó su túnica, y tomando una toalla, se ciñó.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Luego puso agua en un lebrillo, y comenzó a lavar los pies de los discípulos, y a enjugarlos con la toalla con que estaba ceñido.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Entonces vino a Simón Pedro; y Pedro le dijo: Señor, ¿tú me lavas los pies?",
+      "topic": ""
+    },
+    "7": {
+      "text": "Respondió Jesús y le dijo: ‹Lo que yo hago, tú no lo entiendes ahora; pero lo entenderás después.›",
+      "topic": ""
+    },
+    "8": {
+      "text": "Pedro le dijo: No me lavarás los pies jamás. Jesús le respondió: ‹Si no te lavare, no tendrás parte conmigo.›",
+      "topic": ""
+    },
+    "9": {
+      "text": "Le dijo Simón Pedro: Señor, no sólo mis pies, sino también [mis] manos y [mi] cabeza.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Le dijo Jesús: ‹El que ha sido lavado, no necesita sino que lave [sus] pies, porque está todo limpio; y vosotros sois limpios, aunque no todos.›",
+      "topic": ""
+    },
+    "11": {
+      "text": "Pues Él sabía quién le iba a entregar, por eso dijo: ‹No sois limpios todos.›",
+      "topic": ""
+    },
+    "12": {
+      "text": "Así que, después que les hubo lavado los pies, y que hubo tomado su túnica, se sentó otra vez, y les dijo: ‹¿Sabéis lo que os he hecho?›",
+      "topic": ""
+    },
+    "13": {
+      "text": "‹Vosotros me llamáis Maestro, y Señor, y decís bien, porque lo soy.›",
+      "topic": ""
+    },
+    "14": {
+      "text": "‹Pues si yo, [vuestro] Señor y Maestro, he lavado vuestros pies, vosotros también debéis lavaros los pies los unos a los otros.›",
+      "topic": ""
+    },
+    "15": {
+      "text": "‹Porque ejemplo os he dado, para que también vosotros hagáis como yo os he hecho.›",
+      "topic": ""
+    },
+    "16": {
+      "text": "‹De cierto, de cierto os digo: El siervo no es mayor que su señor, ni el enviado es mayor que el que le envió.›",
+      "topic": ""
+    },
+    "17": {
+      "text": "‹Si sabéis estas cosas, bienaventurados seréis si las hiciereis.›",
+      "topic": ""
+    },
+    "18": {
+      "text": "‹No hablo de todos vosotros; yo conozco a los que he escogido; mas para que se cumpla la Escritura: El que come pan conmigo, levantó contra mí su calcañar.›",
+      "topic": ""
+    },
+    "19": {
+      "text": "‹Desde ahora os lo digo, antes que suceda, para que cuando suceda, creáis que yo soy.›",
+      "topic": ""
+    },
+    "20": {
+      "text": "‹De cierto, de cierto os digo: El que recibe al que yo enviare, a mí me recibe; y el que a mí recibe, recibe al que me envió.›",
+      "topic": ""
+    },
+    "21": {
+      "text": "Habiendo dicho esto, Jesús se turbó en espíritu, y testificó diciendo: ‹De cierto, de cierto os digo, que uno de vosotros me va a entregar.›",
+      "topic": ""
+    },
+    "22": {
+      "text": "Entonces los discípulos se miraban unos a otros, dudando de quién hablaba.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Y uno de sus discípulos, al cual Jesús amaba, estaba recostado en el pecho de Jesús.",
+      "topic": ""
+    },
+    "24": {
+      "text": "A éste, pues, hizo señas Simón Pedro, para que le preguntase quién era aquel de quien hablaba.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Él entonces, recostado en el pecho de Jesús, le dijo: Señor, ¿quién es?",
+      "topic": ""
+    },
+    "26": {
+      "text": "Respondió Jesús: ‹A quien yo diere el pan mojado, aquél es.› Y mojando el pan, lo dio a Judas Iscariote, [el hijo] de Simón.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Y tras el bocado Satanás entró en él. Entonces Jesús le dijo: ‹Lo que vas a hacer, hazlo pronto.›",
+      "topic": ""
+    },
+    "28": {
+      "text": "Pero ninguno de los que estaban a la mesa entendió por qué le dijo esto.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Porque algunos pensaban, ya que Judas traía la bolsa, que Jesús le dijo, compra lo que necesitamos para la fiesta; o que diese algo a los pobres.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Entonces él, habiendo recibido el bocado, salió en seguida; y era ya noche.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Entonces, cuando él hubo salido, Jesús dijo: ‹Ahora es glorificado el Hijo del Hombre, y Dios es glorificado en Él.›",
+      "topic": ""
+    },
+    "32": {
+      "text": "‹Si Dios es glorificado en Él, Dios también le glorificará en sí mismo; y en seguida le glorificará.›",
+      "topic": ""
+    },
+    "33": {
+      "text": "‹Hijitos, aún un poco estaré con vosotros. Me buscaréis; pero como dije a los judíos, así os digo a vosotros ahora: A donde yo voy, vosotros no podéis venir.›",
+      "topic": ""
+    },
+    "34": {
+      "text": "‹Un mandamiento nuevo os doy: Que os améis unos a otros; que como yo os he amado, así también os améis unos a otros.›",
+      "topic": ""
+    },
+    "35": {
+      "text": "‹En esto conocerán todos que sois mis discípulos, si tuviereis amor los unos con los otros.›",
+      "topic": ""
+    },
+    "36": {
+      "text": "Simón Pedro le dijo: Señor, ¿a dónde vas? Jesús le respondió: ‹A donde yo voy, no me puedes seguir ahora, pero me seguirás después.›",
+      "topic": ""
+    },
+    "37": {
+      "text": "Pedro le dijo: Señor, ¿por qué no te puedo seguir ahora? Mi vida pondré por ti.",
+      "topic": ""
+    },
+    "38": {
+      "text": "Jesús le respondió: ‹¿Tu vida pondrás por mí? De cierto, de cierto te digo: No cantará el gallo, sin que me hayas negado tres veces.›",
+      "topic": ""
+    }
+  }
+}

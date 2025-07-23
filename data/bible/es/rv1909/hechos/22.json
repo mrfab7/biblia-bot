@@ -1,0 +1,132 @@
+{
+  "info": {
+    "book": "Hechos",
+    "chapter": "22",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Varones hermanos y padres, oíd mi defensa que [hago] ahora ante vosotros.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Y cuando oyeron que les hablaba en lengua hebrea, guardaron más silencio. Y [les] dijo:",
+      "topic": ""
+    },
+    "3": {
+      "text": "Yo de cierto soy hombre judío, nacido en Tarso de Cilicia, pero criado en esta ciudad, educado a los pies de Gamaliel, estrictamente conforme a la ley de nuestros padres, siendo celoso de Dios, como hoy lo sois todos vosotros.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Y perseguí este Camino hasta la muerte, prendiendo y entregando en cárceles así hombres como mujeres;",
+      "topic": ""
+    },
+    "5": {
+      "text": "como también el sumo sacerdote me es testigo, y todos los ancianos; de los cuales también recibí cartas para con los hermanos; e iba a Damasco para traer presos a Jerusalén a los que estuviesen allí, para que fuesen castigados.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Y aconteció que cuando hacía mi jornada, y llegaba cerca de Damasco, como a mediodía, repentinamente resplandeció del cielo una gran luz que me rodeó;",
+      "topic": ""
+    },
+    "7": {
+      "text": "y caí al suelo, y oí una voz que me decía: ‹Saulo, Saulo, ¿por qué me persigues?›",
+      "topic": ""
+    },
+    "8": {
+      "text": "Yo entonces respondí: ¿Quién eres, Señor? Y me dijo: ‹Yo soy Jesús de Nazaret, a quién tú persigues.›",
+      "topic": ""
+    },
+    "9": {
+      "text": "Y los que estaban conmigo vieron a la verdad la luz, y se espantaron; mas no oyeron la voz del que hablaba conmigo.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Y dije: ¿Qué haré, Señor? Y el Señor me dijo: ‹Levántate y ve a Damasco, y allí se te dirá todo lo que está ordenado que hagas.›",
+      "topic": ""
+    },
+    "11": {
+      "text": "Y como yo no podía ver a causa de la gloria de aquella luz, llevado de la mano por los que estaban conmigo, vine a Damasco.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Entonces un Ananías, varón piadoso conforme a la ley, que tenía buen testimonio de todos los judíos que moraban allí,",
+      "topic": ""
+    },
+    "13": {
+      "text": "vino a mí, y acercándose, me dijo: Hermano Saulo, recibe la vista. Y yo en aquella hora le miré.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Y él dijo: El Dios de nuestros padres te ha escogido, para que conozcas su voluntad, y veas al Justo, y oigas la voz de su boca.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Porque serás testigo suyo ante todos los hombres de lo que has visto y oído.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Ahora, pues, ¿por qué te detienes? Levántate y sé bautizado; y lava tus pecados invocando el nombre del Señor.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Y me aconteció, que vuelto a Jerusalén, mientras oraba en el templo, fui arrebatado en éxtasis.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Y le vi que me decía: ‹Date prisa, y sal cuanto antes de Jerusalén; porque no recibirán tu testimonio acerca de mí.›",
+      "topic": ""
+    },
+    "19": {
+      "text": "Y yo dije: Señor, ellos saben que yo encarcelaba, y azotaba por las sinagogas a los que creían en ti;",
+      "topic": ""
+    },
+    "20": {
+      "text": "y cuando se derramaba la sangre de Esteban tu mártir, yo también estaba presente, y consentía en su muerte, y guardaba las ropas de los que le mataban.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Y me dijo: ‹Ve, porque yo te enviaré lejos, a los gentiles.›",
+      "topic": ""
+    },
+    "22": {
+      "text": "Y le oyeron hasta esta palabra; [entonces] alzaron la voz, diciendo: Quita de la tierra a tal [hombre], porque no conviene que viva.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Y como ellos daban voces y arrojaban [sus] ropas y echaban polvo al aire,",
+      "topic": ""
+    },
+    "24": {
+      "text": "el tribuno mandó que le llevasen a la fortaleza, y ordenó que fuese interrogado con azotes, para saber por qué causa clamaban así contra él.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Y cuando le ataron con correas, Pablo dijo al centurión que estaba presente: ¿Os es lícito azotar a un hombre romano sin ser condenado?",
+      "topic": ""
+    },
+    "26": {
+      "text": "Y cuando el centurión oyó esto, fue y dio aviso al tribuno, diciendo: Mira bien qué vas a hacer; porque este hombre es romano.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Entonces vino el tribuno y le dijo: Dime, ¿eres tú romano? Él dijo: Sí.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Y respondió el tribuno: Yo con grande suma alcancé esta ciudadanía. Entonces Pablo dijo: Pero yo [la] [tengo] de nacimiento.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Así que, en seguida se apartaron de él los que le iban a interrogar; y el tribuno, al saber que era romano, también tuvo temor por haberle atado.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Y al día siguiente, queriendo saber de cierto la causa por la que era acusado de los judíos, le soltó de las cadenas, y mandó venir a los príncipes de los sacerdotes y a todo su concilio; y sacando a Pablo, le presentó delante de ellos.",
+      "topic": ""
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "info": {
+    "book": "Matthew",
+    "chapter": "10",
+    "translation": "Catholic Public Domain Version",
+    "translationID": "cpdv",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "And having called together his twelve disciples, he gave them authority over unclean spirits, to cast them out and to cure every sickness and every infirmity.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Now the names of the twelve Apostles are these: the First, Simon, who is called Peter, and Andrew his brother,",
+      "topic": ""
+    },
+    "3": {
+      "text": "James of Zebedee, and John his brother, Philip and Bartholomew, Thomas and Matthew the tax collector, and James of Alphaeus, and Thaddaeus,",
+      "topic": ""
+    },
+    "4": {
+      "text": "Simon the Canaanite, and Judas Iscariot, who also betrayed him.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Jesus sent these twelve, instructing them, saying: “Do not travel by the way of the Gentiles, and do not enter into the city of the Samaritans,",
+      "topic": ""
+    },
+    "6": {
+      "text": "but instead go to the sheep who have fallen away from the house of Israel.",
+      "topic": ""
+    },
+    "7": {
+      "text": "And going forth, preach, saying: ‘For the kingdom of heaven has drawn near.’",
+      "topic": ""
+    },
+    "8": {
+      "text": "Cure the infirm, raise the dead, cleanse lepers, cast out demons. You have received freely, so give freely.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Do not choose to possess gold, nor silver, nor money in your belts,",
+      "topic": ""
+    },
+    "10": {
+      "text": "nor provisions for the journey, nor two tunics, nor shoes, nor a staff. For the laborer deserves his portion.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Now, into whatever city or town you will enter, inquire as to who is worthy within it. And stay there until you depart.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Then, when you enter into the house, greet it, saying, ‘Peace to this house.’",
+      "topic": ""
+    },
+    "13": {
+      "text": "And if, indeed, that house is worthy, your peace will rest upon it. But if it is not worthy, your peace will return to you.",
+      "topic": ""
+    },
+    "14": {
+      "text": "And whoever has neither received you, nor listened to your words, departing from that house or city, shake off the dust from your feet.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Amen I say to you, it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment, than for that city.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Behold, I am sending you like sheep in the midst of wolves. Therefore, be as prudent as serpents and as simple as doves.",
+      "topic": ""
+    },
+    "17": {
+      "text": "But beware of men. For they will hand you over to councils, and they will scourge you in their synagogues.",
+      "topic": ""
+    },
+    "18": {
+      "text": "And you shall be led before both rulers and kings for my sake, as a testimony to them and to the Gentiles.",
+      "topic": ""
+    },
+    "19": {
+      "text": "But when they hand you over, do not choose to think about how or what to speak. For what to speak shall be given to you in that hour.",
+      "topic": ""
+    },
+    "20": {
+      "text": "For it is not you who will be speaking, but the Spirit of your Father, who will speak in you.",
+      "topic": ""
+    },
+    "21": {
+      "text": "And brother will hand over brother to death, and father will hand over son. And children will rise up against parents and bring about their deaths.",
+      "topic": ""
+    },
+    "22": {
+      "text": "And you will be hated by all for the sake of my name. But whoever will have persevered, even to the end, the same shall be saved.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Now when they persecute you in one city, flee into another. Amen I say to you, you will not have exhausted all the cities of Israel, before the Son of man returns.",
+      "topic": ""
+    },
+    "24": {
+      "text": "The disciple is not above the teacher, nor is the servant above his master.",
+      "topic": ""
+    },
+    "25": {
+      "text": "It is sufficient for the disciple that he be like his teacher, and the servant, like his master. If they have called the Father of the family, ‘Beelzebub,’ how much more those of his household?",
+      "topic": ""
+    },
+    "26": {
+      "text": "Therefore, do not fear them. For nothing is covered that shall not be revealed, nor hidden that shall not be known.",
+      "topic": ""
+    },
+    "27": {
+      "text": "What I tell you in darkness, speak in the light. And what you hear whispered in the ear, preach above the rooftops.",
+      "topic": ""
+    },
+    "28": {
+      "text": "And do not be afraid of those who kill the body, but are not able to kill the soul. But instead fear him who is able to destroy both soul and body in Hell.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Are not two sparrows sold for one small coin? And yet not one of them will fall to the ground without your Father.",
+      "topic": ""
+    },
+    "30": {
+      "text": "For even the hairs of your head have all been numbered.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Therefore, do not be afraid. You are worth more than many sparrows.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Therefore, everyone who acknowledges me before men, I also will acknowledge before my Father, who is in heaven.",
+      "topic": ""
+    },
+    "33": {
+      "text": "But whoever will have denied me before men, I also will deny before my Father, who is in heaven.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Do not think that I came to send peace upon the earth. I came, not to send peace, but the sword.",
+      "topic": ""
+    },
+    "35": {
+      "text": "For I came to divide a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law.",
+      "topic": ""
+    },
+    "36": {
+      "text": "And the enemies of a man will be those of his own household.",
+      "topic": ""
+    },
+    "37": {
+      "text": "Whoever loves father or mother more than me is not worthy of me. And whoever loves son or daughter above me is not worthy of me.",
+      "topic": ""
+    },
+    "38": {
+      "text": "And whoever does not take up his cross, and follow me is not worthy of me.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Whoever finds his life, will lose it. And whoever will have lost his life because of me, shall find it.",
+      "topic": ""
+    },
+    "40": {
+      "text": "Whoever receives you, receives me. And whoever receives me, receives him who sent me.",
+      "topic": ""
+    },
+    "41": {
+      "text": "Whoever receives a prophet, in the name of a prophet, shall receive the reward of a prophet. And whoever receives the just in the name of the just shall receive the reward of the just.",
+      "topic": ""
+    },
+    "42": {
+      "text": "And whoever shall give, even to one of the least of these, a cup of cold water to drink, solely in the name of a disciple: Amen I say to you, he shall not lose his reward.”",
+      "topic": ""
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "info": {
+    "book": "Ezequiel",
+    "chapter": "27",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Y vino a mí palabra de Jehová, diciendo:",
+      "topic": ""
+    },
+    "2": {
+      "text": "Tú, hijo de hombre, levanta endechas sobre Tiro.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Y dirás a Tiro: Oh tú que estás asentada a las entradas del mar, [que eres] mercader de los pueblos de muchas islas: Así dice Jehová el Señor: Tiro, tú has dicho: Yo soy de perfecta hermosura.",
+      "topic": ""
+    },
+    "4": {
+      "text": "En el corazón de los mares [están] tus términos; los que te edificaron completaron tu belleza.",
+      "topic": ""
+    },
+    "5": {
+      "text": "De cipreses del monte Senir te fabricaron toda tu armazón; tomaron cedros del Líbano para hacerte el mástil.",
+      "topic": ""
+    },
+    "6": {
+      "text": "[De] encinas de Basán hicieron tus remos; compañía de asirios hicieron tus bancos [de] marfil de las islas de Quitim.",
+      "topic": ""
+    },
+    "7": {
+      "text": "De lino fino bordado de Egipto era tu cortina, para que te sirviese de vela; de azul y púrpura de las costas de Elisa era tu pabellón.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Los moradores de Sidón y de Arvad fueron tus remeros; tus sabios, oh Tiro, [estaban] en ti; ellos fueron tus timoneles.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Los ancianos de Gebal y sus expertos calafateadores reparaban tus junturas; todas las galeras del mar y los remeros de ellas estuvieron en ti para negociar contigo.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Persas y los de Lud, y los de Fut, fueron en tu ejército tus hombres de guerra; escudos y yelmos colgaron en ti; ellos te dieron tu honra.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Y los hijos de Arvad con tu ejército [estuvieron] sobre tus muros alrededor, y los gamadeos en tus torres; sus escudos colgaron sobre tus muros alrededor; ellos completaron tu hermosura.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Tarsis tu mercader a causa de la multitud de todas [tus] riquezas; con plata, hierro, estaño y plomo, comerciaba en tus ferias.",
+      "topic": ""
+    },
+    "13": {
+      "text": "Grecia, Tubal, y Mesec, [fueron] tus mercaderes, con hombres y con utensilios de bronce, comerciaban en tus ferias.",
+      "topic": ""
+    },
+    "14": {
+      "text": "De la casa de Togarma, caballos y jinetes y mulos, comerciaban en tu mercado.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Los hijos de Dedán [eran] tus negociantes; muchas costas tomaban mercadería de tu mano; colmillos de marfil y ébano te dieron en presente.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Siria [fue] tu mercader por la multitud de tus productos; venía a tus ferias con esmeraldas, púrpura, vestidos bordados, linos finos, corales y rubíes.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Judá, y la tierra de Israel, [eran] tus mercaderes; con trigos de Minit y Panag, miel, aceite y resina comerciaban en tu mercado.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Damasco, [era] tu mercader por la multitud de tus productos, por la abundancia de toda riqueza, con vino de Helbón y lana blanca.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Asimismo Dan y el errante Javán vinieron a tus ferias, para negociar en tu mercado con hierro labrado, casia y caña aromática.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Dedán [fue] tu mercader con paños preciosos para carros.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Arabia y todos los príncipes de Cedar, comerciaban contigo en corderos, y carneros, y machos cabríos; en estas cosas [fueron] tus mercaderes.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Los mercaderes de Seba y de Raama [fueron] tus mercaderes; con lo principal de toda especiería, y toda piedra preciosa, y oro, vinieron a tus ferias.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Harán, Cane, Edén y los mercaderes de Seba, de Asiria [y] de Quilmad, comerciaban contigo.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Éstos [eran] tus mercaderes en varias [cosas]; en mantos de azul, y bordados, y en cajas de ropas preciosas, enlazadas con cordones, y en madera de cedro.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Las naves de Tarsis, eran tus flotas que llevaban tus mercancías; y llegaste a ser opulenta y muy gloriosa en medio de los mares.",
+      "topic": ""
+    },
+    "26": {
+      "text": "En muchas aguas te engolfaron tus remeros; viento solano te quebrantó en medio de los mares.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Tus riquezas, tus mercancías, tu comercio, tus marineros, tus timoneles, tus calafateadores, los agentes de tus negocios y todos tus hombres de guerra que [hay] en ti, con toda tu compañía que en medio de ti se halla, caerán en medio de los mares el día de tu caída.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Al estrépito de las voces de tus timoneles temblarán las costas.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Y descenderán de sus naves todos los que toman remo; remeros, y todos los timoneles del mar se pararán en tierra:",
+      "topic": ""
+    },
+    "30": {
+      "text": "Y harán oír su voz sobre ti, y gritarán amargamente, y echarán polvo sobre sus cabezas, y se revolcarán en la ceniza.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Y se raparán la cabeza por causa de ti, y se ceñirán con cilicio, y llorarán por ti con amargura de corazón [y] amargo duelo.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Y en sus endechas levantarán sobre ti lamentaciones, y endecharán sobre ti [diciendo]: ¿Quién como Tiro, como la [ciudad] destruida en medio del mar?",
+      "topic": ""
+    },
+    "33": {
+      "text": "Cuando tus mercaderías salían de las naves, saciabas a muchos pueblos; a los reyes de la tierra enriqueciste con la multitud de tus riquezas y de tus mercancías.",
+      "topic": ""
+    },
+    "34": {
+      "text": "En el tiempo que serás destrozada por los mares en las profundidades de las aguas, tu comercio y toda tu compañía caerán en medio de ti.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Todos los moradores de las costas se maravillarán sobre ti, y sus reyes temblarán de espanto; y demudarán [sus] rostros.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Los mercaderes en los pueblos silbarán sobre ti; vendrás a ser espanto, y para siempre dejarás [de ser].",
+      "topic": ""
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "106",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Aleluya. Alabad a Jehová, porque [Él es] bueno; porque para siempre es su misericordia.",
+      "topic": ""
+    },
+    "2": {
+      "text": "¿Quién expresará las proezas de Jehová? ¿[Quién] contará sus alabanzas?",
+      "topic": ""
+    },
+    "3": {
+      "text": "Dichosos los que guardan juicio, los que hacen justicia en todo tiempo.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Acuérdate de mí, oh Jehová, según tu benevolencia [para con] tu pueblo; visítame con tu salvación;",
+      "topic": ""
+    },
+    "5": {
+      "text": "para que yo vea el bien de tus escogidos, para que me goce en la alegría de tu gente, y me gloríe con tu heredad.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Pecamos como nuestros padres, hicimos iniquidad, hicimos impiedad.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Nuestros padres en Egipto no entendieron tus maravillas; no se acordaron de la muchedumbre de tus misericordias; sino que se rebelaron junto al mar, el Mar Rojo.",
+      "topic": ""
+    },
+    "8": {
+      "text": "No obstante, Él los salvó por amor de su nombre, para hacer notoria su fortaleza;",
+      "topic": ""
+    },
+    "9": {
+      "text": "y reprendió al Mar Rojo, y lo secó; y les llevó por el abismo, como por un desierto;",
+      "topic": ""
+    },
+    "10": {
+      "text": "y los salvó de mano del enemigo, y los rescató de mano del adversario.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Cubrieron las aguas a sus enemigos; no quedó ni uno de ellos.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Entonces creyeron a sus palabras, y cantaron su alabanza.",
+      "topic": ""
+    },
+    "13": {
+      "text": "[Pero] pronto se olvidaron de sus obras; no esperaron su consejo.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Y ardieron de deseo en el desierto; y tentaron a Dios en la soledad.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Y Él les dio lo que pidieron; mas envió flaqueza en sus almas.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Tuvieron envidia de Moisés en el campamento, y de Aarón, el santo de Jehová.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Se abrió la tierra, y tragó a Datán, y cubrió la compañía de Abiram.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Y se encendió el fuego en su junta; la llama quemó a los impíos.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Hicieron becerro en Horeb, y adoraron una imagen de fundición.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Así cambiaron su gloria por la imagen de un buey que come hierba.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Se olvidaron de Dios su Salvador, que había hecho grandezas en Egipto;",
+      "topic": ""
+    },
+    "22": {
+      "text": "Maravillas en la tierra de Cam, cosas formidables sobre el Mar Rojo.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Y dijo que los hubiera destruido, de no haberse interpuesto Moisés su escogido ante Él en la brecha, a fin de apartar su ira, para que no los destruyese.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Pero aborrecieron la tierra deseable; no creyeron a su palabra;",
+      "topic": ""
+    },
+    "25": {
+      "text": "Antes murmuraron en sus tiendas, y no oyeron la voz de Jehová.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Por lo que alzó su mano contra ellos, para derrocarlos en el desierto,",
+      "topic": ""
+    },
+    "27": {
+      "text": "y humillar su simiente entre las naciones, y esparcirlos por las tierras.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Se unieron también a Baal-peor, y comieron los sacrificios de los muertos.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Provocaron la ira de [Dios] con sus obras, y se desató entre ellos la mortandad.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Entonces se levantó Finees, e hizo juicio; y se detuvo la plaga.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Y le fue contado por justicia, de generación en generación para siempre.",
+      "topic": ""
+    },
+    "32": {
+      "text": "También le irritaron en las aguas de Meriba; y le fue mal a Moisés por causa de ellos;",
+      "topic": ""
+    },
+    "33": {
+      "text": "Porque hicieron que el espíritu de Moisés se rebelase, haciéndole hablar precipitadamente con sus labios.",
+      "topic": ""
+    },
+    "34": {
+      "text": "No destruyeron a los pueblos que Jehová les dijo;",
+      "topic": ""
+    },
+    "35": {
+      "text": "Antes se mezclaron con las naciones, y aprendieron sus obras.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Y sirvieron a sus ídolos; los cuales les fueron por lazo.",
+      "topic": ""
+    },
+    "37": {
+      "text": "Y sacrificaron sus hijos y sus hijas a los demonios;",
+      "topic": ""
+    },
+    "38": {
+      "text": "y derramaron la sangre inocente, la sangre de sus hijos y de sus hijas, que sacrificaron a los ídolos de Canaán; y la tierra fue contaminada con sangre.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Así se contaminaron con sus obras, y se prostituyeron con sus hechos.",
+      "topic": ""
+    },
+    "40": {
+      "text": "Por tanto, la ira de Jehová se encendió contra su pueblo, tanto, que aborreció a su propia heredad;",
+      "topic": ""
+    },
+    "41": {
+      "text": "y los entregó en poder de las naciones, y se enseñorearon de ellos los que los aborrecían.",
+      "topic": ""
+    },
+    "42": {
+      "text": "Y sus enemigos los oprimieron, y fueron quebrantados debajo de su mano.",
+      "topic": ""
+    },
+    "43": {
+      "text": "Muchas veces los libró; mas ellos se rebelaron contra su consejo y fueron humillados por su iniquidad.",
+      "topic": ""
+    },
+    "44": {
+      "text": "Con todo, Él miraba cuando estaban en angustia, y oía su clamor:",
+      "topic": ""
+    },
+    "45": {
+      "text": "Y se acordaba de su pacto con ellos, y se arrepentía conforme a la muchedumbre de sus misericordias.",
+      "topic": ""
+    },
+    "46": {
+      "text": "Hizo asimismo que tuviesen misericordia de ellos todos los que los tenían cautivos.",
+      "topic": ""
+    },
+    "47": {
+      "text": "Sálvanos, Jehová Dios nuestro, y reúnenos de entre las naciones, para que alabemos tu santo nombre, para que nos gloriemos en tus alabanzas.",
+      "topic": ""
+    },
+    "48": {
+      "text": "Bendito sea Jehová, el Dios de Israel, desde la eternidad y hasta la eternidad; y diga todo el pueblo: Amén. Aleluya.",
+      "topic": ""
+    }
+  }
+}

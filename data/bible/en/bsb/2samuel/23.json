@@ -1,0 +1,168 @@
+{
+  "info": {
+    "book": "2 Samuel",
+    "chapter": "23",
+    "translation": "Berean Standard Bible",
+    "translationID": "bsb",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "These are the last words of David: “The oracle of David son of Jesse, the oracle of the man raised on high, the one anointed by the God of Jacob, and the sweet psalmist of Israel:",
+      "topic": ""
+    },
+    "2": {
+      "text": "The Spirit of the LORD spoke through me; His word was on my tongue.",
+      "topic": ""
+    },
+    "3": {
+      "text": "The God of Israel spoke; the Rock of Israel said to me, ‘He who rules the people with justice, who rules in the fear of God,",
+      "topic": ""
+    },
+    "4": {
+      "text": "is like the light of the morning at sunrise of a cloudless dawn, the glistening after the rain on the sprouting grass of the earth.’",
+      "topic": ""
+    },
+    "5": {
+      "text": "Is not my house right with God? For He has established with me an everlasting covenant, ordered and secured in every part. Will He not bring about my full salvation and my every desire?",
+      "topic": ""
+    },
+    "6": {
+      "text": "But the worthless are all like thorns raked aside, for they can never be gathered by hand.",
+      "topic": ""
+    },
+    "7": {
+      "text": "The man who touches them must be armed with iron or with the shaft of a spear. The fire burns them to ashes in the place where they lie.”",
+      "topic": ""
+    },
+    "8": {
+      "text": "These are the names of David’s mighty men: Josheb-basshebeth the Tahchemonite was chief of the Three. He wielded his spear against eight hundred men, whom he killed at one time.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Next in command was Eleazar son of Dodo the Ahohite. As one of the three mighty men, he went with David to taunt the Philistines who had gathered for battle at Pas-dammim. The men of Israel retreated,",
+      "topic": ""
+    },
+    "10": {
+      "text": "but Eleazar stood his ground and struck the Philistines until his hand grew weary and stuck to his sword. The LORD brought about a great victory that day. Then the troops returned to him, but only to plunder the dead.",
+      "topic": ""
+    },
+    "11": {
+      "text": "And after him was Shammah son of Agee the Hararite. When the Philistines had banded together near a field full of lentils, Israel’s troops fled from them.",
+      "topic": ""
+    },
+    "12": {
+      "text": "But Shammah took his stand in the middle of the field, defended it, and struck down the Philistines. So the LORD brought about a great victory.",
+      "topic": ""
+    },
+    "13": {
+      "text": "At harvest time, three of the thirty chief men went down to David at the cave of Adullam, while a company of Philistines was encamped in the Valley of Rephaim.",
+      "topic": ""
+    },
+    "14": {
+      "text": "At that time David was in the stronghold, and the garrison of the Philistines was at Bethlehem.",
+      "topic": ""
+    },
+    "15": {
+      "text": "David longed for water and said, “Oh, that someone would get me a drink of water from the well near the gate of Bethlehem!”",
+      "topic": ""
+    },
+    "16": {
+      "text": "So the three mighty men broke through the Philistine camp, drew water from the well near the gate of Bethlehem, and brought it back to David. But he refused to drink it; instead, he poured it out to the LORD,",
+      "topic": ""
+    },
+    "17": {
+      "text": "saying, “Far be it from me, O LORD, to do this! Is this not the blood of the men who risked their lives?” So he refused to drink it. Such were the exploits of the three mighty men.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Now Abishai, the brother of Joab and son of Zeruiah, was chief of the Three, and he wielded his spear against three hundred men, killed them, and won a name along with the Three.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Was he not more honored than the Three? And he became their commander, even though he was not included among the Three.",
+      "topic": ""
+    },
+    "20": {
+      "text": "And Benaiah son of Jehoiada was a man of valor from Kabzeel, a man of many exploits. He struck down two champions of Moab, and on a snowy day he went down into a pit and killed a lion.",
+      "topic": ""
+    },
+    "21": {
+      "text": "He also struck down an Egyptian, a huge man. Although the Egyptian had a spear in his hand, Benaiah went against him with a club, snatched the spear from his hand, and killed the Egyptian with his own spear.",
+      "topic": ""
+    },
+    "22": {
+      "text": "These were the exploits of Benaiah son of Jehoiada, who won a name along with the three mighty men.",
+      "topic": ""
+    },
+    "23": {
+      "text": "He was most honored among the Thirty, but he did not become one of the Three. And David appointed him over his guard.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Now these were members of the Thirty: Asahel the brother of Joab, Elhanan son of Dodo of Bethlehem,",
+      "topic": ""
+    },
+    "25": {
+      "text": "Shammah the Harodite, Elika the Harodite,",
+      "topic": ""
+    },
+    "26": {
+      "text": "Helez the Paltite, Ira son of Ikkesh the Tekoite,",
+      "topic": ""
+    },
+    "27": {
+      "text": "Abiezer the Anathothite, Mebunnai the Hushathite,",
+      "topic": ""
+    },
+    "28": {
+      "text": "Zalmon the Ahohite, Maharai the Netophathite,",
+      "topic": ""
+    },
+    "29": {
+      "text": "Heled son of Baanah the Netophathite, Ittai son of Ribai from Gibeah of the Benjamites,",
+      "topic": ""
+    },
+    "30": {
+      "text": "Benaiah the Pirathonite, Hiddai from the brooks of Gaash,",
+      "topic": ""
+    },
+    "31": {
+      "text": "Abi-albon the Arbathite, Azmaveth the Barhumite,",
+      "topic": ""
+    },
+    "32": {
+      "text": "Eliahba the Shaalbonite, the sons of Jashen, Jonathan",
+      "topic": ""
+    },
+    "33": {
+      "text": "son of Shammah the Hararite, Ahiam son of Sharar the Hararite,",
+      "topic": ""
+    },
+    "34": {
+      "text": "Eliphelet son of Ahasbai the Maacathite, Eliam son of Ahithophel the Gilonite,",
+      "topic": ""
+    },
+    "35": {
+      "text": "Hezro the Carmelite, Paarai the Arbite,",
+      "topic": ""
+    },
+    "36": {
+      "text": "Igal son of Nathan of Zobah, Bani the Gadite,",
+      "topic": ""
+    },
+    "37": {
+      "text": "Zelek the Ammonite, Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah,",
+      "topic": ""
+    },
+    "38": {
+      "text": "Ira the Ithrite, Gareb the Ithrite,",
+      "topic": ""
+    },
+    "39": {
+      "text": "and Uriah the Hittite. There were thirty-seven in all.",
+      "topic": ""
+    }
+  }
+}

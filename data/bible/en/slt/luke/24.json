@@ -1,0 +1,224 @@
+{
+  "info": {
+    "book": "Luke",
+    "chapter": "24",
+    "translation": "Smith's Literal Translation",
+    "translationID": "slt",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "And in one of the sabbaths, in the depth of the dawn of day, they came to the tomb, bringing spices which they had prepared, and certain with them.",
+      "topic": ""
+    },
+    "2": {
+      "text": "And they found the stone rolled away from the tomb.",
+      "topic": ""
+    },
+    "3": {
+      "text": "And coming in, they found not the body of the Lord Jesus.",
+      "topic": ""
+    },
+    "4": {
+      "text": "And it was in their being perplexed for this, and, behold, two men stood by them in shining garments:",
+      "topic": ""
+    },
+    "5": {
+      "text": "And they having, been afraid, and bending the face to the earth, they said to them, Why seek ye the living with the dead.",
+      "topic": ""
+    },
+    "6": {
+      "text": "He is not here, but has risen: remember how he spake to you being yet in Galilee,",
+      "topic": ""
+    },
+    "7": {
+      "text": "Saying, That the Son of man must be delivered into the hands of sinful men, and be crucified, and be raised up the third day.",
+      "topic": ""
+    },
+    "8": {
+      "text": "And they remembered his words,",
+      "topic": ""
+    },
+    "9": {
+      "text": "And having returned from the tomb, they announced these things to the eleven, and to all the rest.",
+      "topic": ""
+    },
+    "10": {
+      "text": "And they were Mary Magdalene, and Joanna, and Mary of James, and the rest with them, who said these things to the sent.",
+      "topic": ""
+    },
+    "11": {
+      "text": "And their words appeared before them as idle talk, and they believed them not.",
+      "topic": ""
+    },
+    "12": {
+      "text": "And Peter having risen, ran to the tomb; and having stooped, saw the linen bandages lying alone, and he departed, wondering in himself at what was done.",
+      "topic": ""
+    },
+    "13": {
+      "text": "And, behold, two of them were going in the same day to a town being about sixty stadia from Jerusalem, the name of which Emmaus.",
+      "topic": ""
+    },
+    "14": {
+      "text": "And they were conversing with one another concerning all things having happened.",
+      "topic": ""
+    },
+    "15": {
+      "text": "And it was in their conversing and seeking out together, and Jesus himself, having drawn near, went with them.",
+      "topic": ""
+    },
+    "16": {
+      "text": "And their eyes were holden not to know him.",
+      "topic": ""
+    },
+    "17": {
+      "text": "And he said to them, What words these which, walking about, ye discuss with one another, and are of gloomy aspect?",
+      "topic": ""
+    },
+    "18": {
+      "text": "And one having answered, to whom the name Cleopas, said to him, Sojournest thou alone in Jerusalem, and knowest not the things done in it in these days?",
+      "topic": ""
+    },
+    "19": {
+      "text": "And Jesus said to them, What things? And they said to him, The things concerning Jesus the Nazarite, who was a man, a prophet, powerful in work and words before God and all the people:",
+      "topic": ""
+    },
+    "20": {
+      "text": "And how the chief priests and our rulers delivered him to the judgment of death, and crucified him.",
+      "topic": ""
+    },
+    "21": {
+      "text": "And we hoped that this is he about to redeem Israel: but also with all these things, to day it brings the third day from which these things were.",
+      "topic": ""
+    },
+    "22": {
+      "text": "And also certain women of ours moved us out of place, having been early at the tomb;",
+      "topic": ""
+    },
+    "23": {
+      "text": "And not finding his body, they came, saying also to have seen a vision of messengers, who say he is living.",
+      "topic": ""
+    },
+    "24": {
+      "text": "And certain of them with us departed to the tomb, and found so as the women said: and him they saw not.",
+      "topic": ""
+    },
+    "25": {
+      "text": "And he said to them, O ye unwise, and slow in heart to believe in all things which the prophets spake:",
+      "topic": ""
+    },
+    "26": {
+      "text": "Must not Christ suffer these things, and enter into his glory?",
+      "topic": ""
+    },
+    "27": {
+      "text": "And having begun from Moses and from all the prophets, he explained clearly to them in all the writings concerning himself.",
+      "topic": ""
+    },
+    "28": {
+      "text": "And they drew near to the town where they were going: and he laid claim to go still further.",
+      "topic": ""
+    },
+    "29": {
+      "text": "And they constrained him, saying, Remain with us: for it is near eve, and the day has declined. And he went in to remain with them.",
+      "topic": ""
+    },
+    "30": {
+      "text": "And it was in his reclining at table with them, having taken bread, he praised, and having broken, bestowed upon them.",
+      "topic": ""
+    },
+    "31": {
+      "text": "And their eyes were opened, and they knew him; and he was removed from their view.",
+      "topic": ""
+    },
+    "32": {
+      "text": "And they said to one another, Was not our heart burning in us, as he spake to us in the way, and as he opened the writings to us.",
+      "topic": ""
+    },
+    "33": {
+      "text": "And having risen the same hour, they returned to Jerusalem, and found the eleven gathered together, and those with them.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Saying, That truly the Lord was risen, and was seen to Simon.",
+      "topic": ""
+    },
+    "35": {
+      "text": "And they recounted the things in the way, and how he was known to them in the breaking of bread.",
+      "topic": ""
+    },
+    "36": {
+      "text": "And they speaking these things, Jesus himself stood in the midst of them, and he says to them, Peace to you.",
+      "topic": ""
+    },
+    "37": {
+      "text": "And they, struck with awe and being afraid, thought to see a spirit.",
+      "topic": ""
+    },
+    "38": {
+      "text": "And he said to them, Why have ye been troubled? and wherefore do reflections come up in your hearts?",
+      "topic": ""
+    },
+    "39": {
+      "text": "See my hands and my feet, for I am he; feel, and see: for a spirit has not flesh and bones, as ye see me having.",
+      "topic": ""
+    },
+    "40": {
+      "text": "And having said this, he showed them hands and feet.",
+      "topic": ""
+    },
+    "41": {
+      "text": "And yet they not believing from joy, and wondering, he said to them, Have ye any food here?",
+      "topic": ""
+    },
+    "42": {
+      "text": "And they bestowed upon him part of a broiled fish, and of an honey comb.",
+      "topic": ""
+    },
+    "43": {
+      "text": "And having taken, he ate before them.",
+      "topic": ""
+    },
+    "44": {
+      "text": "And he said to them, These the words which I spake to you, being yet with you, for all things must be completed, written in the law of Moses, and in the prophets, and in the Psalms, concerning me.",
+      "topic": ""
+    },
+    "45": {
+      "text": "Then opened he their understanding, to understand the writings,",
+      "topic": ""
+    },
+    "46": {
+      "text": "And he said to them, That so has it been written, and so was it necessary for Christ to suffer, and to rise from the dead the third day:",
+      "topic": ""
+    },
+    "47": {
+      "text": "And repentance and remission of sins to be proclaimed in his name to all nations, having begun from Jerusalem.",
+      "topic": ""
+    },
+    "48": {
+      "text": "And ye are witnesses of these things.",
+      "topic": ""
+    },
+    "49": {
+      "text": "And, behold, I send the solemn promise of my Father upon you: and do ye sit in the city of Jerusalem, till ye be clothed with power from on high.",
+      "topic": ""
+    },
+    "50": {
+      "text": "And he led them without, even to Bethany, and having lifted up his hands, he praised them.",
+      "topic": ""
+    },
+    "51": {
+      "text": "And it was in his praising them, he was separated from them, and carried into heaven.",
+      "topic": ""
+    },
+    "52": {
+      "text": "And they having worshipped him, returned to Jerusalem with great joy.",
+      "topic": ""
+    },
+    "53": {
+      "text": "And they were always in the temple, praising and extolling God. Amen.",
+      "topic": ""
+    }
+  }
+}

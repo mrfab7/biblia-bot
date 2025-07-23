@@ -1,0 +1,52 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "111",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Alelu-JAH. Alef Alabaré al SEÑOR con todo el corazón, Bet en la compañía y en la congregación de los rectos.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Guímel Grandes son las obras del SEÑOR; Dálet buscadas de todos los que las quieren.",
+      "topic": ""
+    },
+    "3": {
+      "text": "He Honra y hermosura es su obra; Vau y su justicia permanece para siempre.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Zain Hizo memorables sus maravillas, Chet clemente y misericordioso es el SEÑOR.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Tet Dio mantenimiento a los que le temen; Yod para siempre se acordará de su pacto.",
+      "topic": ""
+    },
+    "6": {
+      "text": "¶ Caf La fortaleza de sus obras anunció a su pueblo, Lámed dándoles la heredad de los gentiles.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Mem Las obras de sus manos son verdad y juicio, Nun fieles son todos sus mandamientos;",
+      "topic": ""
+    },
+    "8": {
+      "text": "Sámec Son firmes de siglo a siglo, Ayin hechos en verdad y en rectitud.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Pe Redención ha enviado a su pueblo, Tsade encargó para siempre su pacto, Cof santo y reverendo es su Nombre.",
+      "topic": ""
+    },
+    "10": {
+      "text": "Resh El principio de la sabiduría es el temor del SEÑOR, Sin buen entendimiento tienen todos los que ponen por obra su voluntad; Tau su loor permanece para siempre.",
+      "topic": ""
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "78",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "«Masquil de Asaf» Escucha, pueblo mío, mi ley; inclinad vuestro oído a las palabras de mi boca.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Abriré mi boca en parábolas; hablaré cosas escondidas desde la antigüedad;",
+      "topic": ""
+    },
+    "3": {
+      "text": "las cuales hemos oído y entendido; y que nuestros padres nos las contaron.",
+      "topic": ""
+    },
+    "4": {
+      "text": "No las encubriremos a sus hijos, contando a la generación venidera las alabanzas de Jehová y su fortaleza, y las maravillas que hizo.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Él estableció testimonio en Jacob, y puso ley en Israel; la cual mandó a nuestros padres que la enseñasen a sus hijos;",
+      "topic": ""
+    },
+    "6": {
+      "text": "para que lo sepa la generación venidera, y los hijos que nacerán; y los que se levantarán, lo cuenten a sus hijos;",
+      "topic": ""
+    },
+    "7": {
+      "text": "a fin de que pongan en Dios su confianza, y no se olviden de las obras de Dios, sino que guarden sus mandamientos;",
+      "topic": ""
+    },
+    "8": {
+      "text": "y no sean como sus padres, generación contumaz y rebelde; generación que no apercibió su corazón, y cuyo espíritu no fue fiel para con Dios.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Los hijos de Efraín, arqueros armados, volvieron la espalda el día de la batalla.",
+      "topic": ""
+    },
+    "10": {
+      "text": "No guardaron el pacto de Dios, ni quisieron andar en su ley;",
+      "topic": ""
+    },
+    "11": {
+      "text": "antes se olvidaron de sus obras, y de sus maravillas que les había mostrado.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Delante de sus padres hizo maravillas en la tierra de Egipto, en el campo de Zoán.",
+      "topic": ""
+    },
+    "13": {
+      "text": "Dividió el mar y los hizo pasar; detuvo las aguas como en un montón.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Y los guió de día con nube, y toda la noche con resplandor de fuego.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Hendió las peñas en el desierto; y les dio a beber como de grandes abismos;",
+      "topic": ""
+    },
+    "16": {
+      "text": "Sacó corrientes de la peña, e hizo descender aguas como ríos.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Pero aún siguieron pecando contra Él, provocando al Altísimo en el desierto.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Pues tentaron a Dios en su corazón, pidiendo comida a su gusto.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Y hablaron contra Dios, diciendo: ¿Podrá Dios poner mesa en el desierto?",
+      "topic": ""
+    },
+    "20": {
+      "text": "He aquí, Él hirió la peña, y brotaron aguas, y arroyos salieron ondeando: ¿Podrá también dar pan? ¿Podrá proveer carne para su pueblo?",
+      "topic": ""
+    },
+    "21": {
+      "text": "Por tanto, oyó Jehová, y se indignó: y se encendió el fuego contra Jacob, y el furor subió también contra Israel;",
+      "topic": ""
+    },
+    "22": {
+      "text": "Por cuanto no creyeron a Dios, ni confiaron en su salvación:",
+      "topic": ""
+    },
+    "23": {
+      "text": "a pesar de que mandó a las nubes de arriba, y abrió las puertas de los cielos,",
+      "topic": ""
+    },
+    "24": {
+      "text": "e hizo llover sobre ellos maná para comer, y les dio trigo de los cielos.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Pan de nobles comió el hombre; les envió comida hasta saciarles.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Hizo que soplase el viento del este en el cielo, y trajo con su poder el viento del sur.",
+      "topic": ""
+    },
+    "27": {
+      "text": "E hizo llover sobre ellos carne como polvo, y aves de alas como la arena del mar.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Las hizo caer en medio de su campamento, alrededor de sus tiendas.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Y comieron, y se saciaron mucho; les cumplió, pues, su deseo.",
+      "topic": ""
+    },
+    "30": {
+      "text": "No habían quitado de sí su deseo, aún estaba la comida en su boca,",
+      "topic": ""
+    },
+    "31": {
+      "text": "cuando vino sobre ellos el furor de Dios, y mató a los más robustos de ellos, y derribó a los escogidos de Israel.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Con todo esto, pecaron aún, y no dieron crédito a sus maravillas.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Por tanto, consumió sus días en vanidad, y sus años en tribulación.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Si los hería de muerte, entonces buscaban a Dios; entonces se volvían solícitos en busca suya.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Y se acordaban que Dios era su refugio; y el Dios Altísimo su Redentor.",
+      "topic": ""
+    },
+    "36": {
+      "text": "Mas le lisonjeaban con su boca, y con su lengua le mentían;",
+      "topic": ""
+    },
+    "37": {
+      "text": "pues sus corazones no eran rectos para con Él, ni estuvieron firmes en su pacto.",
+      "topic": ""
+    },
+    "38": {
+      "text": "Pero Él, misericordioso, perdonaba la maldad y no los destruía; y apartó muchas veces su ira, y no despertó todo su enojo.",
+      "topic": ""
+    },
+    "39": {
+      "text": "Y se acordó de que [eran] carne; soplo que va y no vuelve.",
+      "topic": ""
+    },
+    "40": {
+      "text": "¡Cuántas veces lo provocaron en el desierto, lo enojaron en la soledad!",
+      "topic": ""
+    },
+    "41": {
+      "text": "Y volvían y tentaban a Dios, y ponían límite al Santo de Israel.",
+      "topic": ""
+    },
+    "42": {
+      "text": "No se acordaron de su mano, del día que los redimió de angustia;",
+      "topic": ""
+    },
+    "43": {
+      "text": "cuando puso en Egipto sus señales, y sus maravillas en el campo de Zoán;",
+      "topic": ""
+    },
+    "44": {
+      "text": "y volvió sus ríos en sangre, y sus corrientes, para que no bebiesen.",
+      "topic": ""
+    },
+    "45": {
+      "text": "Envió entre ellos enjambres de moscas que los devoraban, y ranas que los destruyeron.",
+      "topic": ""
+    },
+    "46": {
+      "text": "Dio también al pulgón sus frutos, y sus trabajos a la langosta.",
+      "topic": ""
+    },
+    "47": {
+      "text": "Sus viñas destruyó con granizo, y sus higuerales con escarcha;",
+      "topic": ""
+    },
+    "48": {
+      "text": "y entregó al granizo sus bestias, y a los rayos sus ganados.",
+      "topic": ""
+    },
+    "49": {
+      "text": "Envió sobre ellos el furor de su ira, enojo, indignación y angustia, enviándoles ángeles destructores.",
+      "topic": ""
+    },
+    "50": {
+      "text": "Dispuso camino a su furor; no eximió la vida de ellos de la muerte, sino que entregó su vida a la mortandad;",
+      "topic": ""
+    },
+    "51": {
+      "text": "e hirió a todo primogénito en Egipto, las primicias de su fuerza en las tiendas de Cam.",
+      "topic": ""
+    },
+    "52": {
+      "text": "Pero hizo salir a su pueblo como ovejas, y los llevó por el desierto, como un rebaño.",
+      "topic": ""
+    },
+    "53": {
+      "text": "Y los guió con seguridad, de modo que no tuvieran miedo; y el mar cubrió a sus enemigos.",
+      "topic": ""
+    },
+    "54": {
+      "text": "Los metió después en los términos de su santuario, en este monte que adquirió su diestra.",
+      "topic": ""
+    },
+    "55": {
+      "text": "Y echó a las naciones de delante de ellos, y con cuerdas les repartió sus tierras por heredad; e hizo habitar en sus tiendas a las tribus de Israel.",
+      "topic": ""
+    },
+    "56": {
+      "text": "Mas ellos tentaron y enojaron al Dios Altísimo, y no guardaron sus testimonios;",
+      "topic": ""
+    },
+    "57": {
+      "text": "sino que se volvieron, y se rebelaron como sus padres; se volvieron como arco engañoso,",
+      "topic": ""
+    },
+    "58": {
+      "text": "y lo enojaron con sus lugares altos, y lo provocaron a celo con sus esculturas.",
+      "topic": ""
+    },
+    "59": {
+      "text": "Lo oyó Dios, y se enojó, y en gran manera aborreció a Israel.",
+      "topic": ""
+    },
+    "60": {
+      "text": "Dejó por tanto el tabernáculo de Silo, la tienda en que habitó entre los hombres;",
+      "topic": ""
+    },
+    "61": {
+      "text": "y entregó al cautiverio su poder, y su gloria en mano del enemigo.",
+      "topic": ""
+    },
+    "62": {
+      "text": "Entregó también su pueblo a la espada, y se airó contra su heredad.",
+      "topic": ""
+    },
+    "63": {
+      "text": "El fuego devoró sus jóvenes, y sus vírgenes no fueron loadas en cantos nupciales.",
+      "topic": ""
+    },
+    "64": {
+      "text": "Sus sacerdotes cayeron a espada, y sus viudas no hicieron lamentación.",
+      "topic": ""
+    },
+    "65": {
+      "text": "Entonces despertó el Señor como de un sueño, como un valiente que grita excitado por el vino;",
+      "topic": ""
+    },
+    "66": {
+      "text": "e hirió a sus enemigos en las partes posteriores; les dio afrenta perpetua.",
+      "topic": ""
+    },
+    "67": {
+      "text": "Y desechó el tabernáculo de José, y no escogió a la tribu de Efraín.",
+      "topic": ""
+    },
+    "68": {
+      "text": "Sino que escogió a la tribu de Judá, el monte de Sión, al cual amó.",
+      "topic": ""
+    },
+    "69": {
+      "text": "Y edificó su santuario a manera de eminencia, como la tierra que cimentó para siempre.",
+      "topic": ""
+    },
+    "70": {
+      "text": "Y eligió a David su siervo, y lo tomó de las majadas de las ovejas;",
+      "topic": ""
+    },
+    "71": {
+      "text": "de tras las paridas lo trajo, para que apacentase a Jacob, su pueblo, y a Israel, su heredad.",
+      "topic": ""
+    },
+    "72": {
+      "text": "Y los apacentó conforme a la integridad de su corazón; y los pastoreó con la pericia de sus manos.",
+      "topic": ""
+    }
+  }
+}

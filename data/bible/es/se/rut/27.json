@@ -1,0 +1,148 @@
+{
+  "info": {
+    "book": "Rut",
+    "chapter": "27",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ De veinticinco años era Jotam cuando comenzó a reinar, y dieciséis años reinó en Jerusalén. El nombre de su madre fue Jerusa, hija de Sadoc.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Y él hizo lo recto en ojos del SEÑOR, conforme a todas las cosas que había hecho Uzías su padre, salvo que no entró en el templo del SEÑOR. Pero el pueblo se corrompía aún.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Edificó él la puerta mayor de la Casa del SEÑOR, y en el muro de la fortaleza edificó mucho.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Además edificó ciudades en las montañas de Judá, y labró palacios y torres en los bosques.",
+      "topic": ""
+    },
+    "5": {
+      "text": "También tuvo él guerra con el rey de los hijos de Amón, a los cuales venció; y le dieron los hijos de Amón en aquel año cien talentos de plata, y diez mil coros de trigo, y diez mil de cebada. Esto le dieron los amonitas, y lo mismo en el segundo año, y en el tercero.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Así que Jotam fue fortificado, porque preparó sus caminos delante del SEÑOR su Dios.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Lo demás de los hechos de Jotam, y todas sus guerras, y sus caminos, he aquí está escrito en el libro de los reyes de Israel y de Judá.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Cuando comenzó a reinar era de veinticinco años, y dieciséis años reinó en Jerusalén.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Y durmió Jotam con sus padres, y lo sepultaron en la ciudad de David; y reinó en su lugar Acaz su hijo.",
+      "topic": ""
+    },
+    "10": {
+      "text": "El séptimo del séptimo mes era Heles Pelonita, de los hijos de Efraín; y en su cuadrilla había veinticuatro mil.",
+      "topic": ""
+    },
+    "11": {
+      "text": "El octavo del octavo mes era Sibecai husatita, de Zarahi; y en su cuadrilla había veinticuatro mil.",
+      "topic": ""
+    },
+    "12": {
+      "text": "El noveno del noveno mes era Abiezer anatotita, de los benjamitas; y en su cuadrilla había veinticuatro mil.",
+      "topic": ""
+    },
+    "13": {
+      "text": "El décimo del décimo mes era Maharai netofatita, de Zarahi; y en su cuadrilla había veinticuatro mil.",
+      "topic": ""
+    },
+    "14": {
+      "text": "El undécimo del undécimo mes era Benaía piratonita, de los hijos de Efraín; y en su cuadrilla había veinticuatro mil.",
+      "topic": ""
+    },
+    "15": {
+      "text": "El duodécimo del duodécimo mes era Heldai netofatita, de Otoniel; y en su división había veinticuatro mil.",
+      "topic": ""
+    },
+    "16": {
+      "text": "¶ Asimismo presidían sobre las tribus de Israel: sobre los rubenitas el príncipe Eliezer hijo de Zicri; sobre los simeonitas, Sefatías, hijo de Maaca.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Sobre los levitas, Hasabías hijo de Kemuel. Sobre los aaronitas, Sadoc.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Sobre Judá, Eliú, uno de los hermanos de David. Sobre los de Isacar, Omri hijo de Micael.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Sobre los de Zabulón, Ismaías hijo de Abdías. Sobre los de Neftalí, Jeremot hijo de Azriel.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Sobre los hijos de Efraín, Oseas hijo de Azazías. Sobre la media tribu de Manasés, Joel hijo de Pedaías.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Sobre la otra media tribu de Manasés en Galaad, Iddo hijo de Zacarías. Sobre los de Benjamín, Jaasiel hijo de Abner.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Y sobre Dan, Azareel hijo de Jeroham. Estos son los capitanes de las tribus de Israel.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Y no tomó David el número de los que eran de veinte años abajo, por cuanto el SEÑOR había dicho que él había de multiplicar a Israel como las estrellas del cielo.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Joab hijo de Sarvia había comenzado a contar, mas no acabó, y por esto vino la ira sobre Israel; y así el número no fue puesto en el registro de las crónicas del rey David.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Y Azmavet hijo de Adiel tenía cargo de los tesoros del rey; y de los tesoros de los campos, y de las ciudades, y de las aldeas y castillos, Jonatán hijo de Uzías;",
+      "topic": ""
+    },
+    "26": {
+      "text": "y de los que trabajaban en la labranza de las tierras, Ezri hijo de Quelub;",
+      "topic": ""
+    },
+    "27": {
+      "text": "y a cargo de las viñas Simei ramatita; y de las cosas que pertenecían a las viñas, y de las bodegas, Zabdi sifmita;",
+      "topic": ""
+    },
+    "28": {
+      "text": "y de los olivares e higuerales que había en las campiñas, Baal-hanán gederita; y de los almacenes del aceite, Joás;",
+      "topic": ""
+    },
+    "29": {
+      "text": "de las vacas que pastaban en Sarón, Sitrai saronita; y de las vacas que estaban en los valles, Safat hijo de Adlai;",
+      "topic": ""
+    },
+    "30": {
+      "text": "y de los camellos, Obil ismaelita; y de las asnas, Jehedías meronotita;",
+      "topic": ""
+    },
+    "31": {
+      "text": "y de las ovejas, Jaziz agareno. Todos estos eran príncipes de la hacienda del rey David.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Y Jonatán, tío de David, era el consejero, varón prudente y escriba; y Jehiel hijo de Hacmoni tenía a cargo los hijos del rey.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Ahitofel era consejero del rey; y Husai arquita era amigo del rey.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Después de Ahitofel era Joiada hijo de Benaía, y Abiatar. Y Joab era el general del ejército del rey.",
+      "topic": ""
+    }
+  }
+}

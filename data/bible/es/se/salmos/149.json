@@ -1,0 +1,48 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "149",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Alelu-JAH. Cantad al SEÑOR canción nueva; su alabanza sea en la congregación de los misericordiosos.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Alégrese Israel con su Hacedor; los hijos de Sion se gocen con su Rey.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Alaben su Nombre con baile; con adufe y arpa canten a él.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Porque el SEÑOR toma contentamiento con su pueblo; hermoseará a los humildes con salud.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Se gozarán los misericordiosos con gloria; cantarán sobre sus camas.",
+      "topic": ""
+    },
+    "6": {
+      "text": "¶ Ensalzamientos de Dios modularán en sus gargantas; y espadas de dos filos habrá en sus manos;",
+      "topic": ""
+    },
+    "7": {
+      "text": "para hacer venganza de los gentiles, castigos en los pueblos;",
+      "topic": ""
+    },
+    "8": {
+      "text": "para aprisionar sus reyes en grillos, y sus nobles en cadenas de hierro;",
+      "topic": ""
+    },
+    "9": {
+      "text": "para ejecutar en ellos el juicio escrito; gloria será esto para todos sus misericordiosos. Alelu-JAH.",
+      "topic": ""
+    }
+  }
+}

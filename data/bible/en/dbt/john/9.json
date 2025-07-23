@@ -1,0 +1,176 @@
+{
+  "info": {
+    "book": "John",
+    "chapter": "9",
+    "translation": "Darby Bible Translation",
+    "translationID": "dbt",
+    "language": "English",
+    "languageID": "en"
+  },
+  "data": {
+    "1": {
+      "text": "And as he passed on, he saw a man blind from birth.",
+      "topic": ""
+    },
+    "2": {
+      "text": "And his disciples asked him, saying, Rabbi, who sinned, this [man] or his parents, that he should be born blind?",
+      "topic": ""
+    },
+    "3": {
+      "text": "Jesus answered, Neither has this [man] sinned nor his parents, but that the works of God should be manifested in him.",
+      "topic": ""
+    },
+    "4": {
+      "text": "I must work the works of him that has sent me while it is day. [The] night is coming, when no one can work.",
+      "topic": ""
+    },
+    "5": {
+      "text": "As long as I am in the world, I am [the] light of the world.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Having said these things, he spat on the ground and made mud of the spittle, and put the mud, as ointment, on his eyes.",
+      "topic": ""
+    },
+    "7": {
+      "text": "And he said to him, Go, wash in the pool of Siloam, which is interpreted, Sent. He went therefore and washed, and came seeing.",
+      "topic": ""
+    },
+    "8": {
+      "text": "The neighbours therefore, and those who used to see him before, that he was a beggar, said, Is not this he that was sitting and begging?",
+      "topic": ""
+    },
+    "9": {
+      "text": "Some said, It is he; others said, No, but he is like him: he said, It is I.",
+      "topic": ""
+    },
+    "10": {
+      "text": "They said therefore to him, How have thine eyes been opened?",
+      "topic": ""
+    },
+    "11": {
+      "text": "He answered [and said], A man called Jesus made mud and anointed mine eyes, and said to me, Go to Siloam and wash: and having gone and washed, I saw.",
+      "topic": ""
+    },
+    "12": {
+      "text": "They said therefore to him, Where is he? He says, I do not know.",
+      "topic": ""
+    },
+    "13": {
+      "text": "They bring him who was before blind to the Pharisees.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Now it was sabbath when Jesus made the mud and opened his eyes.",
+      "topic": ""
+    },
+    "15": {
+      "text": "The Pharisees therefore also again asked him how he received his sight. And he said to them, He put mud upon mine eyes, and I washed, and I see.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Some of the Pharisees therefore said, This man is not of God, for he does not keep the sabbath. Others said, How can a sinful man perform such signs? And there was a division among them.",
+      "topic": ""
+    },
+    "17": {
+      "text": "They say therefore again to the blind [man], What dost thou say of him, that he has opened thine eyes? And he said, He is a prophet.",
+      "topic": ""
+    },
+    "18": {
+      "text": "The Jews therefore did not believe concerning him that he was blind and had received sight, until they had called the parents of him that had received sight.",
+      "topic": ""
+    },
+    "19": {
+      "text": "And they asked them saying, This is your son, of whom ye say that he was born blind: how then does he now see?",
+      "topic": ""
+    },
+    "20": {
+      "text": "His parents answered [them] and said, We know that this is our son, and that he was born blind;",
+      "topic": ""
+    },
+    "21": {
+      "text": "but how he now sees we do not know, or who has opened his eyes we do not know. He is of age: ask him; he will speak concerning himself.",
+      "topic": ""
+    },
+    "22": {
+      "text": "His parents said these things because they feared the Jews, for the Jews had already agreed that if any one confessed him [to be the] Christ, he should be excommunicated from the synagogue.",
+      "topic": ""
+    },
+    "23": {
+      "text": "On this account his parents said, He is of age: ask him.",
+      "topic": ""
+    },
+    "24": {
+      "text": "They called therefore a second time the man who had been blind, and said to him, Give glory to God: we know that this man is sinful.",
+      "topic": ""
+    },
+    "25": {
+      "text": "He answered therefore, If he is sinful I know not. One thing I know, that, being blind [before], now I see.",
+      "topic": ""
+    },
+    "26": {
+      "text": "And they said to him again, What did he do to thee? how opened he thine eyes?",
+      "topic": ""
+    },
+    "27": {
+      "text": "He answered them, I told you already and ye did not hear: why do ye desire to hear again? do ye also wish to become his disciples?",
+      "topic": ""
+    },
+    "28": {
+      "text": "They railed at him, and said, Thou art his disciple, but we are disciples of Moses.",
+      "topic": ""
+    },
+    "29": {
+      "text": "We know that God spoke to Moses; but [as to] this [man], we know not whence he is.",
+      "topic": ""
+    },
+    "30": {
+      "text": "The man answered and said to them, Now in this is a wonderful thing, that ye do not know whence he is, and he has opened mine eyes.",
+      "topic": ""
+    },
+    "31": {
+      "text": "[But] we know that God does not hear sinners; but if any one be God-fearing and do his will, him he hears.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Since time was, it has not been heard that any one opened the eyes of one born blind.",
+      "topic": ""
+    },
+    "33": {
+      "text": "If this [man] were not of God he would be able to do nothing.",
+      "topic": ""
+    },
+    "34": {
+      "text": "They answered and said to him, Thou hast been wholly born in sins, and thou teachest us? And they cast him out.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Jesus heard that they had cast him out, and having found him, he said to him, Thou, dost thou believe on the Son of God?",
+      "topic": ""
+    },
+    "36": {
+      "text": "He answered and said, And who is he, Lord, that I may believe on him?",
+      "topic": ""
+    },
+    "37": {
+      "text": "And Jesus said to him, Thou hast both seen him, and he that speaks with thee is he.",
+      "topic": ""
+    },
+    "38": {
+      "text": "And he said, I believe, Lord: and he did him homage.",
+      "topic": ""
+    },
+    "39": {
+      "text": "And Jesus said, For judgment am I come into this world, that they which see not may see, and they which see may become blind.",
+      "topic": ""
+    },
+    "40": {
+      "text": "And [some] of the Pharisees who were with him heard these things, and they said to him, Are we blind also?",
+      "topic": ""
+    },
+    "41": {
+      "text": "Jesus said to them, If ye were blind ye would not have sin; but now ye say, We see, your sin remains.",
+      "topic": ""
+    }
+  }
+}

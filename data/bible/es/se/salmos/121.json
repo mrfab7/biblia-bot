@@ -1,0 +1,44 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "121",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Canción de las gradas. Alzaré mis ojos a los montes, de donde vendrá mi socorro.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Mi socorro viene de parte del SEÑOR, que hizo los cielos y la tierra.",
+      "topic": ""
+    },
+    "3": {
+      "text": "No dará tu pie al resbaladero; ni se dormirá el que te guarda.",
+      "topic": ""
+    },
+    "4": {
+      "text": "He aquí, no se adormecerá ni dormirá el que guarda a Israel.",
+      "topic": ""
+    },
+    "5": {
+      "text": "El SEÑOR será tu guardador; el SEÑOR será tu sombra a tu mano derecha.",
+      "topic": ""
+    },
+    "6": {
+      "text": "El sol no te fatigará de día, ni la luna de noche.",
+      "topic": ""
+    },
+    "7": {
+      "text": "El SEÑOR te guardará de todo mal; el guardará tu alma.",
+      "topic": ""
+    },
+    "8": {
+      "text": "El SEÑOR guardará tu salida y tu entrada, desde ahora y para siempre.",
+      "topic": ""
+    }
+  }
+}

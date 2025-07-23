@@ -1,0 +1,28 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "123",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Canción de las gradas. A ti alcé mis ojos, a ti que habitas en los cielos.",
+      "topic": ""
+    },
+    "2": {
+      "text": "He aquí como los ojos de los siervos miran a la mano de sus señores, y como los ojos de la sierva a la mano de su señora; así nuestros ojos esperan al SEÑOR nuestro Dios, hasta que tenga misericordia de nosotros.",
+      "topic": ""
+    },
+    "3": {
+      "text": "Ten misericordia de nosotros, oh SEÑOR, ten misericordia de nosotros; porque estamos muy hastiados de menosprecio.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Muy hastiada está nuestra alma del escarnio de los que están en holgura; del menosprecio de los soberbios.",
+      "topic": ""
+    }
+  }
+}

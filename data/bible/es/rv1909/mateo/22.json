@@ -1,0 +1,196 @@
+{
+  "info": {
+    "book": "Mateo",
+    "chapter": "22",
+    "translation": "Reina Valera 1909",
+    "translationID": "rv1909",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "Y respondiendo Jesús, les volvió a hablar en parábolas, diciendo:",
+      "topic": ""
+    },
+    "2": {
+      "text": "‹El reino de los cielos es semejante a un rey que hizo bodas a su hijo,›",
+      "topic": ""
+    },
+    "3": {
+      "text": "‹y envió a sus siervos para que llamasen a los convidados a las bodas; mas no quisieron venir.›",
+      "topic": ""
+    },
+    "4": {
+      "text": "‹Volvió a enviar otros siervos, diciendo: Decid a los convidados: He aquí, mi comida he preparado, mis toros y animales engordados han sido muertos, y todo [está] preparado; venid a las bodas.›",
+      "topic": ""
+    },
+    "5": {
+      "text": "‹Pero ellos, lo tuvieron en poco, y se fueron, uno a su labranza, y otro a sus negocios;›",
+      "topic": ""
+    },
+    "6": {
+      "text": "‹y los otros, tomando a sus siervos, los afrentaron y los mataron.›",
+      "topic": ""
+    },
+    "7": {
+      "text": "‹Y oyéndolo el rey, se indignó; y enviando sus ejércitos, destruyó a aquellos homicidas, y puso a fuego su ciudad.›",
+      "topic": ""
+    },
+    "8": {
+      "text": "‹Entonces dijo a sus siervos: Las bodas a la verdad están preparadas; pero los que fueron convidados no eran dignos.›",
+      "topic": ""
+    },
+    "9": {
+      "text": "‹Id, pues, a las salidas de los caminos, y llamad a las bodas a cuantos halléis.›",
+      "topic": ""
+    },
+    "10": {
+      "text": "‹Y saliendo los siervos por los caminos, juntaron a todos los que hallaron, juntamente malos y buenos; y las bodas fueron llenas de convidados.›",
+      "topic": ""
+    },
+    "11": {
+      "text": "‹Y cuando el rey vino para ver a los convidados, vio allí a un hombre que no estaba vestido de boda,›",
+      "topic": ""
+    },
+    "12": {
+      "text": "‹y le dijo: Amigo, ¿cómo entraste acá sin estar vestido de boda? Mas él enmudeció.›",
+      "topic": ""
+    },
+    "13": {
+      "text": "‹Entonces el rey dijo a los que servían: Atadle de pies y manos, llevadle y echadle en las tinieblas de afuera; allí será el lloro y el crujir de dientes.›",
+      "topic": ""
+    },
+    "14": {
+      "text": "‹Porque muchos son llamados, pero pocos [son] escogidos.›",
+      "topic": ""
+    },
+    "15": {
+      "text": "Entonces los fariseos fueron y consultaron de cómo le prenderían en [alguna] palabra.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Y le enviaron los discípulos de ellos, con los herodianos, diciendo: Maestro, sabemos que eres veraz, y que enseñas con verdad el camino de Dios, y que no te cuidas de nadie, porque no miras la apariencia de los hombres.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Dinos, pues, qué te parece: ¿Es lícito dar tributo a César, o no?",
+      "topic": ""
+    },
+    "18": {
+      "text": "Pero Jesús, conociendo la malicia de ellos, les dijo: ‹¿Por qué me tentáis, hipócritas?›",
+      "topic": ""
+    },
+    "19": {
+      "text": "‹Mostradme la moneda del tributo.› Y ellos le presentaron un denario.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Entonces les dijo: ‹¿De quién [es] esta imagen, y la inscripción?›",
+      "topic": ""
+    },
+    "21": {
+      "text": "Le dijeron: De César. Entonces Él les dijo: ‹Dad, pues, a César lo que es de César, y a Dios lo que es de Dios.›",
+      "topic": ""
+    },
+    "22": {
+      "text": "Y oyendo esto, se maravillaron, y dejándole, se fueron.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Aquel día, vinieron a Él los saduceos, que dicen que no hay resurrección, y le preguntaron,",
+      "topic": ""
+    },
+    "24": {
+      "text": "diciendo: Maestro, Moisés dijo: Si alguno muriere sin hijos, su hermano se casará con su esposa, y levantará descendencia a su hermano.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Hubo, pues, entre nosotros siete hermanos; y el primero se casó, y murió; y no teniendo descendencia, dejó su esposa a su hermano;",
+      "topic": ""
+    },
+    "26": {
+      "text": "así también el segundo, y el tercero, hasta el séptimo.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Y después de todos murió también la mujer.",
+      "topic": ""
+    },
+    "28": {
+      "text": "En la resurrección, pues, ¿de cuál de los siete será esposa, pues todos la tuvieron?",
+      "topic": ""
+    },
+    "29": {
+      "text": "Entonces respondiendo Jesús, les dijo: ‹Erráis, no conociendo las Escrituras, ni el poder de Dios.›",
+      "topic": ""
+    },
+    "30": {
+      "text": "‹Porque en la resurrección ni se casan, ni se dan en casamiento, sino que son como los ángeles de Dios en el cielo.›",
+      "topic": ""
+    },
+    "31": {
+      "text": "‹Pero en cuanto a la resurrección de los muertos, ¿no habéis leído lo que os fue dicho por Dios, cuando dijo:›",
+      "topic": ""
+    },
+    "32": {
+      "text": "‹Yo soy el Dios de Abraham, y el Dios de Isaac, y el Dios de Jacob? Dios no es Dios de muertos, sino de vivos.›",
+      "topic": ""
+    },
+    "33": {
+      "text": "Y oyéndolo la multitud, se maravillaban de su doctrina.",
+      "topic": ""
+    },
+    "34": {
+      "text": "Y cuando los fariseos oyeron que había hecho callar a los saduceos, se juntaron a una.",
+      "topic": ""
+    },
+    "35": {
+      "text": "Entonces uno de ellos, [que era] intérprete de la ley, preguntó por tentarle, diciendo:",
+      "topic": ""
+    },
+    "36": {
+      "text": "Maestro, ¿cuál [es] el gran mandamiento en la ley?",
+      "topic": ""
+    },
+    "37": {
+      "text": "Y Jesús le dijo: ‹Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente.›",
+      "topic": ""
+    },
+    "38": {
+      "text": "‹Éste es el primero y grande mandamiento.›",
+      "topic": ""
+    },
+    "39": {
+      "text": "‹Y el segundo es semejante a éste: Amarás a tu prójimo como a ti mismo.›",
+      "topic": ""
+    },
+    "40": {
+      "text": "‹De estos dos mandamientos pende toda la ley y los profetas.›",
+      "topic": ""
+    },
+    "41": {
+      "text": "Y juntándose los fariseos, Jesús les preguntó,",
+      "topic": ""
+    },
+    "42": {
+      "text": "diciendo: ‹¿Qué pensáis del Cristo? ¿De quién es hijo?› Le dijeron: De David.",
+      "topic": ""
+    },
+    "43": {
+      "text": "Él les dijo: ‹¿Cómo entonces David en el Espíritu le llama Señor, diciendo:›",
+      "topic": ""
+    },
+    "44": {
+      "text": "‹Dijo el Señor a mi Señor: Siéntate a mi diestra, hasta que ponga a tus enemigos por estrado de tus pies.›",
+      "topic": ""
+    },
+    "45": {
+      "text": "‹Pues si David le llama Señor, ¿cómo es su hijo?›",
+      "topic": ""
+    },
+    "46": {
+      "text": "Y nadie le podía responder palabra; ni osó alguno desde aquel día preguntarle más.",
+      "topic": ""
+    }
+  }
+}

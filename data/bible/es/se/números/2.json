@@ -1,0 +1,148 @@
+{
+  "info": {
+    "book": "Números",
+    "chapter": "2",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Y habló el SEÑOR a Moisés y a Aarón, diciendo:",
+      "topic": ""
+    },
+    "2": {
+      "text": "Los hijos de Israel acamparán cada uno junto a su bandera, según las enseñas de las casas de sus padres; alrededor del tabernáculo del testimonio acamparán.",
+      "topic": ""
+    },
+    "3": {
+      "text": "¶ Estos acamparán al levante, al oriente: la bandera del ejército de Judá, por sus escuadrones; y el príncipe de los hijos de Judá, Naasón hijo de Aminadab.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Su hueste, con los contados de ellos, setenta y cuatro mil seiscientos.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Junto a él acamparán los de la tribu de Isacar; y el príncipe de los hijos de Isacar, Natanael hijo de Zuar.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Su hueste, con sus contados, cincuenta y cuatro mil cuatrocientos.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Y la tribu de Zabulón; y el príncipe de los hijos de Zabulón, Eliab hijo de Helón.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Su hueste, con sus contados, cincuenta y siete mil cuatrocientos.",
+      "topic": ""
+    },
+    "9": {
+      "text": "Todos los contados en el ejército de Judá, ciento ochenta y seis mil cuatrocientos, por sus escuadrones; irán delante.",
+      "topic": ""
+    },
+    "10": {
+      "text": "La bandera del ejército de Rubén al mediodía, por sus escuadrones; y el príncipe de los hijos de Rubén, Elisur hijo de Sedeur.",
+      "topic": ""
+    },
+    "11": {
+      "text": "Su hueste, con sus contados, cuarenta y seis mil quinientos.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Y acamparán junto a él los de la tribu de Simeón; y el príncipe de los hijos de Simeón, Selumiel hijo de Zurisadai.",
+      "topic": ""
+    },
+    "13": {
+      "text": "Su hueste, con los contados de ellos, cincuenta y nueve mil trescientos.",
+      "topic": ""
+    },
+    "14": {
+      "text": "Y la tribu de Gad; y el príncipe de los hijos de Gad, Eliasaf hijo de Reuel.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Su hueste, con los contados de ellos, cuarenta y cinco mil seiscientos cincuenta.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Todos los contados en el ejército de Rubén, ciento cincuenta y un mil cuatrocientos cincuenta, por sus escuadrones; irán los segundos.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Luego irá el tabernáculo del testimonio, el campamento de los levitas en medio de los ejércitos; de la manera que asientan el campamento, así caminarán, cada uno en su lugar, junto a sus banderas.",
+      "topic": ""
+    },
+    "18": {
+      "text": "La bandera del ejército de Efraín por sus escuadrones, al occidente; y el príncipe de los hijos de Efraín, Elisama hijo de Amiud.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Su hueste, con los contados de ellos, cuarenta mil quinientos.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Junto a él estará la tribu de Manasés; y el príncipe de los hijos de Manasés, Gamaliel hijo de Pedasur.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Su hueste, con los contados de ellos, treinta y dos mil doscientos.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Y la tribu de Benjamín; y el príncipe de los hijos de Benjamín, Abidán hijo de Gedeoni.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Su hueste, con los contados de ellos, treinta y cinco mil cuatrocientos.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Todos los contados en el ejército de Efraín, ciento ocho mil cien, por sus escuadrones; irán los terceros.",
+      "topic": ""
+    },
+    "25": {
+      "text": "La bandera del ejército de Dan estará al aquilón, por sus escuadrones; y el príncipe de los hijos de Dan, Ahiezer hijo de Amisadai.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Su hueste, con los contados de ellos, sesenta y dos mil setecientos.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Junto a él acamparán los de la tribu de Aser; y el príncipe de los hijos de Aser, Pagiel hijo de Ocrán.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Su hueste, con los contados de ellos, cuarenta y un mil quinientos.",
+      "topic": ""
+    },
+    "29": {
+      "text": "Y la tribu de Neftalí; y el príncipe de los hijos de Neftalí, Ahira hijo de Enán.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Su hueste, con los contados de ellos, cincuenta y tres mil cuatrocientos.",
+      "topic": ""
+    },
+    "31": {
+      "text": "Todos los contados en el ejército de Dan, ciento cincuenta y siete mil seiscientos; irán los postreros tras sus banderas.",
+      "topic": ""
+    },
+    "32": {
+      "text": "Estos son los contados de los hijos de Israel, por las casas de sus padres; todos los contados por ejércitos, por sus escuadrones, seiscientos tres mil quinientos cincuenta.",
+      "topic": ""
+    },
+    "33": {
+      "text": "Mas los levitas no fueron contados entre los hijos de Israel; como el SEÑOR lo mandó a Moisés.",
+      "topic": ""
+    },
+    "34": {
+      "text": "E hicieron los hijos de Israel conforme a todas las cosas que el SEÑOR mandó a Moisés; así asentaron el campamento por sus banderas, y así marcharon cada uno por sus familias, según las casas de sus padres.",
+      "topic": ""
+    }
+  }
+}

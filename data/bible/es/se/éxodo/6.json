@@ -1,0 +1,132 @@
+{
+  "info": {
+    "book": "Éxodo",
+    "chapter": "6",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ El SEÑOR respondió a Moisés: Ahora verás lo que yo haré al Faraón; porque con mano fuerte los ha de dejar ir; y con mano fuerte los ha de echar de su tierra.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Habló todavía Dios a Moisés, y le dijo: Yo soy el SEÑOR;",
+      "topic": ""
+    },
+    "3": {
+      "text": "y me aparecí a Abraham, a Isaac y a Jacob como Dios Omnipotente, mas en mi Nombre el SEÑOR (YHWH ) no me notifiqué a ellos.",
+      "topic": ""
+    },
+    "4": {
+      "text": "Y también establecí mi pacto con ellos, que les daría la tierra de Canaán, la tierra en que fueron extranjeros, y en la cual peregrinaron.",
+      "topic": ""
+    },
+    "5": {
+      "text": "Y asimismo yo he oído el gemido de los hijos de Israel, a quienes hacen servir los egipcios, y me he acordado de mi pacto.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Por tanto dirás a los hijos de Israel: Yo soy el SEÑOR; y yo os sacaré de debajo de las cargas de Egipto, y os libraré de su servidumbre, y os redimiré con brazo extendido, y con juicios grandes.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Y os tomaré por mi pueblo y seré vuestro Dios: y vosotros sabréis que yo soy el SEÑOR vuestro Dios, que os saco de debajo de las cargas de Egipto.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Y os meteré en la tierra, por la cual alcé mi mano que la daría a Abraham, a Isaac y a Jacob; y yo os la daré por heredad. Yo soy el SEÑOR.",
+      "topic": ""
+    },
+    "9": {
+      "text": "De esta manera habló Moisés a los hijos de Israel; mas ellos no escuchaban a Moisés a causa de la congoja de espíritu, y de la dura servidumbre.",
+      "topic": ""
+    },
+    "10": {
+      "text": "¶ Y habló El SEÑOR a Moisés, diciendo:",
+      "topic": ""
+    },
+    "11": {
+      "text": "Entra, y habla al Faraón rey de Egipto, que deje ir de su tierra a los hijos de Israel.",
+      "topic": ""
+    },
+    "12": {
+      "text": "Y respondió Moisés delante del SEÑOR, diciendo: He aquí, los hijos de Israel no me escuchan, ¿cómo pues me escuchará el Faraón, mayormente siendo yo incircunciso de labios?",
+      "topic": ""
+    },
+    "13": {
+      "text": "Entonces el SEÑOR habló a Moisés y a Aarón, y les dio mandamiento para los hijos de Israel, y para el Faraón rey de Egipto, para que sacasen a los hijos de Israel de la tierra de Egipto.",
+      "topic": ""
+    },
+    "14": {
+      "text": "¶ Estas son las cabezas de las familias de sus padres. Los hijos de Rubén, el primogénito de Israel: Hanoc y Falú, Hezrón y Carmi; estas son las familias de Rubén.",
+      "topic": ""
+    },
+    "15": {
+      "text": "Los hijos de Simeón: Jemuel, y Jamín, y Ohad, y Jaquín, y Zohar, y Saúl, hijo de una cananea; estas son las familias de Simeón.",
+      "topic": ""
+    },
+    "16": {
+      "text": "Y estos son los nombres de los hijos de Leví por sus linajes: Gersón, y Coat, y Merari. Y los años de la vida de Leví fueron ciento treinta y siete años.",
+      "topic": ""
+    },
+    "17": {
+      "text": "Y los hijos de Gersón: Libni, y Simei, por sus familias.",
+      "topic": ""
+    },
+    "18": {
+      "text": "Y los hijos de Coat: Amram, e Izhar, y Hebrón, y Uziel. Y los años de la vida de Coat fueron ciento treinta y tres años.",
+      "topic": ""
+    },
+    "19": {
+      "text": "Y los hijos de Merari: Mahli, y Musi; estas son las familias de Leví por sus linajes.",
+      "topic": ""
+    },
+    "20": {
+      "text": "Y Amram tomó por mujer a Jocabed su tía, la cual le dio a luz a Aarón y a Moisés. Y los años de la vida de Amram fueron ciento treinta y siete años.",
+      "topic": ""
+    },
+    "21": {
+      "text": "Y los hijos de Izhar: Coré, y Nefeg y Zicri.",
+      "topic": ""
+    },
+    "22": {
+      "text": "Y los hijos de Uziel: Misael, y Elzafán y Sitri.",
+      "topic": ""
+    },
+    "23": {
+      "text": "Y tomó Aarón por mujer a Elisabet, hija de Aminadab, hermana de Naasón; la cual le dio a luz a Nadab, y a Abiú, y a Eleazar, y a Itamar.",
+      "topic": ""
+    },
+    "24": {
+      "text": "Y los hijos de Coré: Asir, y Elcana, y Abiasaf; estas son las familias de los coreítas.",
+      "topic": ""
+    },
+    "25": {
+      "text": "Y Eleazar, hijo de Aarón, tomó para sí mujer de las hijas de Futiel, la cual le dio a luz a Finees. Y éstas son las cabezas de los padres de los levitas por sus familias.",
+      "topic": ""
+    },
+    "26": {
+      "text": "Este es aquel Aarón y aquel Moisés, a los cuales el SEÑOR dijo: Sacad a los hijos de Israel de la tierra de Egipto por sus escuadrones.",
+      "topic": ""
+    },
+    "27": {
+      "text": "Estos son los que hablaron al Faraón rey de Egipto, para sacar de Egipto a los hijos de Israel. Moisés y Aarón fueron éstos.",
+      "topic": ""
+    },
+    "28": {
+      "text": "Cuando el SEÑOR habló a Moisés en la tierra de Egipto,",
+      "topic": ""
+    },
+    "29": {
+      "text": "Entonces el SEÑOR habló a Moisés, diciendo: Yo soy el SEÑOR; di al Faraón rey de Egipto todas las cosas que yo te digo a ti.",
+      "topic": ""
+    },
+    "30": {
+      "text": "Y Moisés respondió delante del SEÑOR: He aquí, yo soy incircunciso de labios, ¿cómo pues me ha de oír el Faraón?",
+      "topic": ""
+    }
+  }
+}

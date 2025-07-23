@@ -1,0 +1,44 @@
+{
+  "info": {
+    "book": "Salmos",
+    "chapter": "130",
+    "translation": "Sagradas Escrituras",
+    "translationID": "se",
+    "language": "Español",
+    "languageID": "es"
+  },
+  "data": {
+    "1": {
+      "text": "¶ Canción de las gradas. De lo profundo te llamo, oh SEÑOR.",
+      "topic": ""
+    },
+    "2": {
+      "text": "Señor, oye mi voz; estén atentos tus oídos a la voz de mi oración.",
+      "topic": ""
+    },
+    "3": {
+      "text": "JAH, si retuvieres a los pecados, ¿Señor quién persistirá?",
+      "topic": ""
+    },
+    "4": {
+      "text": "Por lo cual hay perdón cerca de ti, para que seas temido.",
+      "topic": ""
+    },
+    "5": {
+      "text": "¶ Esperé yo al SEÑOR, esperó mi alma; a su palabra he esperado.",
+      "topic": ""
+    },
+    "6": {
+      "text": "Mi alma esperó al SEÑOR más que los centinelas esperan a la mañana, más que los centinelas a la mañana.",
+      "topic": ""
+    },
+    "7": {
+      "text": "Espere Israel al SEÑOR; porque con el SEÑOR hay misericordia; y abundante redención cerca de él.",
+      "topic": ""
+    },
+    "8": {
+      "text": "Y él redimirá a Israel de todos sus pecados.",
+      "topic": ""
+    }
+  }
+}
