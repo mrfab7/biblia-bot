@@ -1,6 +1,7 @@
-const { SlashCommandBuilder, MessageFlags } = require('discord.js');
-const { fetch } = require('../../data/utility.js');
+const { SlashCommandBuilder, MessageFlags, EmbedBuilder } = require('discord.js');
+const { fetch } = require('../../data/fetchVerse.js');
 const User = require('../../models/user');
+const emoji = require('../../data/emoji.json');
 
 module.exports = {
 	category: 'bible',
@@ -13,6 +14,8 @@ module.exports = {
 		.setDescriptionLocalizations({
 			'es-ES': 'Recupera un verso de la Biblia por referencia',
 		})
+		.setIntegrationTypes(0, 1)
+		.setContexts(0, 1, 2)
 		.addStringOption(option =>
 			option
 				.setName('verse')
@@ -64,18 +67,32 @@ module.exports = {
 				.setRequired(false)),
 	async autocomplete(interaction) {
 		const focusedValue = interaction.options.getFocused(true).value;
-		const language = interaction.options.getString('language') || 'en';
+
+		const user = await User.findOne({ where: { id: interaction.user.id } });
+		const language = interaction.options.getString('language') || user.language || 'en';
+
 		const choices = require(`../../data/bible/${language}/translations.json`);
 		const filtered = choices.filter(choice => choice.name.toLowerCase().startsWith(focusedValue.toLowerCase()));
 		await interaction.respond(filtered.map(choice => ({ name: choice.name, value: choice.id })));
 	},
 	async execute(interaction) {
-		const reference = interaction.options.getString('verse');
+		await interaction.deferReply();
+
 		const user = await User.findOne({ where: { id: interaction.user.id } });
 
-		const data = await fetch(reference, user.language || 'en', user.translation || 'cpdv');
+		const reference = interaction.options.getString('verse');
+		const language = interaction.options.getString('language') || user.language || 'en';
+		const translation = interaction.options.getString('translation') || user.translation || 'cpdv';
+
+		const data = await fetch(reference, language, translation);
 		console.log(data);
 
-		await interaction.reply({ content: data.text, flags: interaction.options.getBoolean('ephemeral') });
+		const embed = new EmbedBuilder()
+			.setColor('#fbbe47')
+			.setTitle(`${data.reference} ${translation.toUpperCase()}`)
+			.setDescription(`>>> ${data.text}`)
+			.setFooter({ text: `${data.translation}, ${data.language}` });
+
+		await interaction.editReply({ embeds: [embed] });
 	},
 };
