@@ -1,14 +1,3 @@
 [
-    { "id": "akjv", "name": "Anglicised King James Version" },
-    { "id": "asv", "name": "American Standard Version" },
-    { "id": "bsb", "name": "Berean Standard Bible" },
-    { "id": "cpdv", "name": "Catholic Public Domain Version" },
-    { "id": "dbt", "name": "Darby Bible Translation" },
-    { "id": "drb", "name": "Douay-Rheims Bible" },
-    { "id": "erv", "name": "English Revised Version" },
-    { "id": "kjv", "name": "King James Version" },
-    { "id": "slt", "name": "Smith's Literal Translation" },
-    { "id": "wbt", "name": "Webster Bible Translation" },
-    { "id": "web", "name": "World English Bible" },
-    { "id": "ylt", "name": "Young's Literal Translation" }
+    { "id": "asv", "name": "American Standard Version" }
 ]
