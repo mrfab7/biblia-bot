@@ -1,0 +1,294 @@
+{
+    "genesis": {
+        "en": ["genesis", "gen", "ge", "gn"],
+        "es": ["génesis", "gen", "gé", "gn"]
+    },
+    "exodus": {
+        "en": ["exodus", "ex", "exod"],
+        "es": ["éxodo", "ex", "éx"]
+    },
+    "leviticus": {
+        "en": ["leviticus", "lev", "lv"],
+        "es": ["levítico", "lev", "lv"]
+    },
+    "numbers": {
+        "en": ["numbers", "num", "nm", "nb"],
+        "es": ["números", "núm", "nm"]
+    },
+    "deuteronomy": {
+        "en": ["deuteronomy", "deut", "dt"],
+        "es": ["deuteronomio", "deut", "dt"]
+    },
+    "joshua": {
+        "en": ["joshua", "josh", "jos"],
+        "es": ["josué", "jos"]
+    },
+    "judges": {
+        "en": ["judges", "judg", "jdg", "jg"],
+        "es": ["jueces", "jue"]
+    },
+    "ruth": {
+        "en": ["ruth", "ru"],
+        "es": ["rut", "rt"]
+    },
+    "1samuel": {
+        "en": ["1 samuel", "1 sam", "1sa", "first samuel"],
+        "es": ["1 samuel", "1 sam", "1 s", "primera de samuel"]
+    },
+    "2samuel": {
+        "en": ["2 samuel", "2 sam", "2sa", "second samuel"],
+        "es": ["2 samuel", "2 sam", "2 s", "segunda de samuel"]
+    },
+    "1kings": {
+        "en": ["1 kings", "1 kgs", "1ki", "first kings"],
+        "es": ["1 reyes", "1 re", "primera de reyes"]
+    },
+    "2kings": {
+        "en": ["2 kings", "2 kgs", "2ki", "second kings"],
+        "es": ["2 reyes", "2 re", "segunda de reyes"]
+    },
+    "1chronicles": {
+        "en": ["1 chronicles", "1 chr", "first chronicles"],
+        "es": ["1 crónicas", "1 cr", "primera de crónicas"]
+    },
+    "2chronicles": {
+        "en": ["2 chronicles", "2 chr", "second chronicles", "2nd chronicles", "2ch"],
+        "es": ["2 crónicas", "2 cr", "segunda de crónicas", "2nd crónicas", "2cr"]
+    },
+    "ezra": {
+        "en": ["ezra", "ezr"],
+        "es": ["esdras", "esd"]
+    },
+    "nehemiah": {
+        "en": ["nehemiah", "neh", "ne", "nehm"],
+        "es": ["nehemías", "neh", "ne", "nehm"]
+    },
+    "tobit": {
+        "en": ["tobit", "tob", "tb"],
+        "es": ["tobit", "tob", "tb"]
+    },
+    "judith": {
+        "en": ["judith", "jdt"],
+        "es": ["judith", "jdt"]
+    },
+    "esther": {
+        "en": ["esther", "est"],
+        "es": ["ester", "est"]
+    },
+    "1maccabees": {
+        "en": ["1 maccabees", "1 macc", "first maccabees"],
+        "es": ["1 macabeos", "1 mac", "primera de macabeos"]
+    },
+    "2maccabees": {
+        "en": ["2 maccabees", "2 macc", "second maccabees"],
+        "es": ["2 macabeos", "2 mac", "segunda de macabeos"]
+    },
+    "job": {
+        "en": ["job", "jb"],
+        "es": ["job", "job"]
+    },
+    "psalms": {
+        "en": ["psalms", "ps", "pslm", "psa", "psm", "pss"],
+        "es": ["salmos", "sal"]
+    },
+    "proverbs": {
+        "en": ["proverbs", "prov", "prv", "pr"],
+        "es": ["proverbios", "prov", "prv"]
+    },
+    "ecclesiastes": {
+        "en": ["ecclesiastes", "eccles", "ecc", "qoh"],
+        "es": ["eclesiastés", "ecl", "qoh"]
+    },
+    "songofsolomon": {
+        "en": ["song of solomon", "song of songs", "canticles", "sos", "so", "cant", "song"],
+        "es": ["cantar de los cantares", "cantar", "cant"]
+    },
+    "wisdom": {
+        "en": ["wisdom", "wisdom of solomon", "wis"],
+        "es": ["sabiduría", "sab"]
+    },
+    "sirach": {
+        "en": ["sirach", "ecclesiasticus", "sir"],
+        "es": ["eclesiástico", "sir"]
+    },
+    "isaiah": {
+        "en": ["isaiah", "isa", "is"],
+        "es": ["isaías", "is"]
+    },
+    "jeremiah": {
+        "en": ["jeremiah", "jer", "je", "jr"],
+        "es": ["jeremías", "jer"]
+    },
+    "lamentations": {
+        "en": ["lamentations", "lam", "la"],
+        "es": ["lamentaciones", "lam"]
+    },
+    "baruch": {
+        "en": ["baruch", "bar"],
+        "es": ["baruc", "bar"]
+    },
+    "ezekiel": {
+        "en": ["ezekiel", "ezek", "eze", "ez"],
+        "es": ["ezequiel", "ez"]
+    },
+    "daniel": {
+        "en": ["daniel", "dan", "dn"],
+        "es": ["daniel", "dan", "dn"]
+    },
+    "hosea": {
+        "en": ["hosea", "hos", "ho"],
+        "es": ["oseas", "os"]
+    },
+    "joel": {
+        "en": ["joel", "jl"],
+        "es": ["joel", "jl"]
+    },
+    "amos": {
+        "en": ["amos", "am"],
+        "es": ["amós", "am"]
+    },
+    "obadiah": {
+        "en": ["obadiah", "obad", "ob"],
+        "es": ["abdías", "abd"]
+    },
+    "jonah": {
+        "en": ["jonah", "jon"],
+        "es": ["jonás", "jon"]
+    },
+    "micah": {
+        "en": ["micah", "mic"],
+        "es": ["miqueas", "miq"]
+    },
+    "nahum": {
+        "en": ["nahum", "nah"],
+        "es": ["nahúm", "nah"]
+    },
+    "habakkuk": {
+        "en": ["habakkuk", "hab"],
+        "es": ["habacuc", "hab"]
+    },
+    "zephaniah": {
+        "en": ["zephaniah", "zeph", "zep"],
+        "es": ["sofonías", "sof"]
+    },
+    "haggai": {
+        "en": ["haggai", "hag"],
+        "es": ["ageo", "ag"]
+    },
+    "zechariah": {
+        "en": ["zechariah", "zech", "zec"],
+        "es": ["zacarías", "zac"]
+    },
+    "malachi": {
+        "en": ["malachi", "mal"],
+        "es": ["malaquías", "mal"]
+    },
+    "matthew": {
+        "en": ["matthew", "matt", "mt"],
+        "es": ["mateo", "mt"]
+    },
+    "mark": {
+        "en": ["mark", "mk", "mrk"],
+        "es": ["marcos", "mc"]
+    },
+    "luke": {
+        "en": ["luke", "lk", "lu"],
+        "es": ["lucas", "lc"]
+    },
+    "john": {
+        "en": ["john", "jn", "jhn"],
+        "es": ["juan", "jn"]
+    },
+    "acts": {
+        "en": ["acts", "acts of the apostles", "ac", "act"],
+        "es": ["hechos", "hch"]
+    },
+    "romans": {
+        "en": ["romans", "rom", "ro", "rm"],
+        "es": ["romanos", "rom"]
+    },
+    "1corinthians": {
+        "en": ["1 corinthians", "1 cor", "first corinthians"],
+        "es": ["1 corintios", "1 cor", "primera de corintios"]
+    },
+    "2corinthians": {
+        "en": ["2 corinthians", "2 cor", "second corinthians"],
+        "es": ["2 corintios", "2 cor", "segunda de corintios"]
+    },
+    "galatians": {
+        "en": ["galatians", "gal"],
+        "es": ["gálatas", "gal"]
+    },
+    "ephesians": {
+        "en": ["ephesians", "eph"],
+        "es": ["efesios", "ef"]
+    },
+    "philippians": {
+        "en": ["philippians", "phil", "php", "pp"],
+        "es": ["filipenses", "fil"]
+    },
+    "colossians": {
+        "en": ["colossians", "col"],
+        "es": ["colosenses", "col"]
+    },
+    "1thessalonians": {
+        "en": ["1 thessalonians", "1 thess", "first thessalonians"],
+        "es": ["1 tesalonicenses", "1 tes", "primera de tesalonicenses"]
+    },
+    "2thessalonians": {
+        "en": ["2 thessalonians", "2 thess", "second thessalonians"],
+        "es": ["2 tesalonicenses", "2 tes", "segunda de tesalonicenses"]
+    },
+    "1timothy": {
+        "en": ["1 timothy", "1 tim", "first timothy"],
+        "es": ["1 timoteo", "1 tim", "primera de timoteo"]
+    },
+    "2timothy": {
+        "en": ["2 timothy", "2 tim", "second timothy"],
+        "es": ["2 timoteo", "2 tim", "segunda de timoteo"]
+    },
+    "titus": {
+        "en": ["titus", "tit"],
+        "es": ["tito", "tit"]
+    },
+    "philemon": {
+        "en": ["philemon", "philem", "phm"],
+        "es": ["filemón", "flm"]
+    },
+    "hebrews": {
+        "en": ["hebrews", "heb"],
+        "es": ["hebreos", "heb"]
+    },
+    "james": {
+        "en": ["james", "jas", "jm"],
+        "es": ["santiago", "sant"]
+    },
+    "1peter": {
+        "en": ["1 peter", "1 pet", "first peter"],
+        "es": ["1 pedro", "1 ped", "primera de pedro"]
+    },
+    "2peter": {
+        "en": ["2 peter", "2 pet", "second peter"],
+        "es": ["2 pedro", "2 ped", "segunda de pedro"]
+    },
+    "1john": {
+        "en": ["1 john", "1 jn", "first john"],
+        "es": ["1 juan", "1 jn", "primera de juan"]
+    },
+    "2john": {
+        "en": ["2 john", "2 jn", "second john"],
+        "es": ["2 juan", "2 jn", "segunda de juan"]
+    },
+    "3john": {
+        "en": ["3 john", "3 jn", "third john"],
+        "es": ["3 juan", "3 jn", "tercera de juan"]
+    },
+    "jude": {
+        "en": ["jude", "jud"],
+        "es": ["judas", "jud"]
+    },
+    "revelation": {
+        "en": ["revelation", "rev", "apocalypse", "apoc"],
+        "es": ["apocalipsis", "apoc"]
+    }
+}
