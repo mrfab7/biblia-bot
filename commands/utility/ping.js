@@ -33,7 +33,6 @@ module.exports = {
 			const embed = new EmbedBuilder()
 				.setColor('#0099ff')
 				.setTitle(`${pingSymbol} Pong! Latency: \`${apiLatency}ms\``)
-				.setFooter({ text: 'Ping command executed successfully.' });
 			await interaction.reply({ embeds: [embed] });
 		}
 		catch (error) {
