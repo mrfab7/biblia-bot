@@ -1,0 +1,23 @@
+{
+    "languages": {
+        "en": "English",
+        "es": "Español"
+    },
+    "translations": {
+        "asv": "American Standard Version",
+        "bsb": "Berean Study Bible",
+        "dra": "Duay-Rheims 1899",
+        "fbv": "Free Bible Version",
+        "kjv": "King James Version",
+        "lsv": "Literal Standard Version",
+        "rv": "Revised Version 1885",
+        "t4t": "Translation for Translators",
+        "web": "World English Bible (American Edition)",
+        "webbe": "World English Bible (British Edition)",
+        
+        "bes": "La Biblia en Español Sencillo",
+        "pddpt": "Palabra de Dios para ti",
+        "rv09": "Reina Valera 1909",
+        "vbl": "Versión Biblia Libre"
+    }
+}
