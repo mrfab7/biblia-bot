@@ -1,4 +1,5 @@
 const { Events } = require('discord.js');
+const chalk = require('chalk');
 const sequelize = require('../db');
 
 module.exports = {
@@ -7,6 +8,6 @@ module.exports = {
 	async execute(client) {
 		await sequelize.authenticate();
   		await sequelize.sync();
-		console.log(`Ready! Logged in as ${client.user.tag}`);
+		console.log(chalk.green(`Ready! Logged in as ${client.user.tag}`));
 	},
 };
