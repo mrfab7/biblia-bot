@@ -1,10 +1,14 @@
-const { SlashCommandBuilder, MessageFlags, EmbedBuilder } = require('discord.js');
+const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 const { fetch } = require('../../data/fetchVerse.js');
 const User = require('../../models/user');
 const emoji = require('../../data/emoji.json');
 
 module.exports = {
+	name: 'verse',
 	category: 'bible',
+	description: 'Retrieve a Bible verse by reference.\nSupports aliases, Genesis => ge, John => jn etc.\nUse `/config <language|translation>` to set your default language and translation.',
+	usage: '/verse <verse> [language] [translation] [ephemeral]',
+	example: '/verse <John 3:16> [English] [American Standard Version] # returns "For God so loved the world..."\n/verse <Psalm 23:1> [Español] [La Biblia en Español Sencillo] # returns "El Señor es mi Pastor; Nada me faltará"',
 	data: new SlashCommandBuilder()
 		.setName('verse')
 		.setNameLocalizations({
@@ -73,7 +77,7 @@ module.exports = {
 
 		const choices = require(`../../data/bible/${language}/translations.json`);
 		const filtered = choices.filter(choice => choice.name.toLowerCase().startsWith(focusedValue.toLowerCase()));
-		await interaction.respond(filtered.map(choice => ({ name: choice.name, value: choice.id })));
+		await interaction.respond(filtered.map(choice => ({ name: `${choice.name} (${choice.id.toUpperCase()})`, value: choice.id })));
 	},
 	async execute(interaction) {
 		await interaction.deferReply();
@@ -82,17 +86,24 @@ module.exports = {
 
 		const reference = interaction.options.getString('verse');
 		const language = interaction.options.getString('language') || user.language || 'en';
-		const translation = interaction.options.getString('translation') || user.translation || 'cpdv';
+		const translation = interaction.options.getString('translation') || user.translation || require(`../../data/bible/${language}/translations.json`)[language][0].id;
 
 		const data = await fetch(reference, language, translation);
-		console.log(data);
+		if (data.error) {
+			const embed = new EmbedBuilder()
+				.setColor('#e66363')
+				.setTitle(`${emoji.filenotfound} Error`)
+				.setDescription(`An error occured while trying to retrieve the verse.\n\`\`\`${data.error}\`\`\``);
 
-		const embed = new EmbedBuilder()
-			.setColor('#fbbe47')
-			.setTitle(`${data.reference} ${translation.toUpperCase()}`)
-			.setDescription(`>>> ${data.text}`)
-			.setFooter({ text: `${data.translation}, ${data.language}` });
+			await interaction.editReply({ embeds: [embed] });
+		}
+		else {
+			const embed = new EmbedBuilder()
+				.setColor('#fbbe47')
+				.setTitle(`${emoji.bible} ${data.reference} ${translation.toUpperCase()}`)
+				.setDescription(`${data.text}`);
 
-		await interaction.editReply({ embeds: [embed] });
+			await interaction.editReply({ embeds: [embed] });
+		}
 	},
 };
