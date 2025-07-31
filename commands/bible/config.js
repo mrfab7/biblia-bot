@@ -1,8 +1,12 @@
-const { SlashCommandBuilder, MessageFlags } = require('discord.js');
+const { SlashCommandBuilder, EmbedBuilder, MessageFlags } = require('discord.js');
 const User = require('../../models/user');
+const dictionary = require('../../data/dictionary.json');
 
 module.exports = {
+	name: 'config',
 	category: 'bible',
+	description: 'Configure your settings for Biblia here.\n\n **Language**: The language you want to use for Bible verses. Currently only English and Spanish are supported.\n**Translation**: The version of the Bible you prefer. A more detailed list shows up when picking the translation.\n\nUse `/config view` to see your current settings.',
+	usage: '/config <subcommand> [language/translation]',
 	data: new SlashCommandBuilder()
 		.setName('config')
 		.setDescription('Configure the Bible command settings.')
@@ -26,7 +30,7 @@ module.exports = {
 				.addStringOption(option =>
 					option
 						.setName('translation')
-						.setDescription('The translation to set as default (e.g. CPDV, KJV)')
+						.setDescription('The translation to set as default (e.g. ASV, KJV)')
 						.setRequired(true)
 						.setAutocomplete(true)))
 		.addSubcommand(subcommand =>
@@ -35,10 +39,13 @@ module.exports = {
 				.setDescription('View your current Bible configuration.')),
 	async autocomplete(interaction) {
 		const focusedValue = interaction.options.getFocused(true).value;
-		const language = interaction.options.getString('language') || 'en';
+
+		const user = await User.findOne({ where: { id: interaction.user.id } });
+		const language = interaction.options.getString('language') || user.language || 'en';
+
 		const choices = require(`../../data/bible/${language}/translations.json`);
 		const filtered = choices.filter(choice => choice.name.toLowerCase().startsWith(focusedValue.toLowerCase()));
-		await interaction.respond(filtered.map(choice => ({ name: choice.name, value: choice.id })));
+		await interaction.respond(filtered.map(choice => ({ name: `${choice.name} (${choice.id.toUpperCase()})`, value: choice.id })));
 	},
 	async execute(interaction) {
 		if (interaction.options.getSubcommand() === 'view') {
@@ -46,7 +53,14 @@ module.exports = {
 			if (!user) {
 				return interaction.reply({ content: 'You have not set any Bible configuration yet.', flags: MessageFlags.Ephemeral });
 			}
-			return interaction.reply({ content: `Your current configuration:\nLanguage: ${user.language}\nTranslation: ${user.translation}`, flags: MessageFlags.Ephemeral });
+
+			const embed = new EmbedBuilder()
+				.setColor('#0099ff')
+				.setTitle('Your Biblia Configuration')
+				.addFields(
+					{ name: 'Accessibility', value: `Language: \`${dictionary.languages[user.language]}\`\nTranslation: \`${dictionary.translations[user.translation]}\``, inline: true });
+
+			return interaction.reply({ embeds: [embed], flags: MessageFlags.Ephemeral });
 		}
 		else {
 			const language = interaction.options.getString('language');
@@ -55,13 +69,13 @@ module.exports = {
 			let user = await User.findOne({ where: { id: interaction.user.id } });
 
 			if (!user) {
-				user = await User.create({ id: interaction.user.id, language: language || 'en', translation: translation || 'cpdv' });
+				user = await User.create({ id: interaction.user.id, language: language || 'en', translation: translation || 'asv' });
 			}
 			else {
 				if (language) {
 					user.language = language;
 					if (language === 'en') {
-						user.translation = 'cpdv';
+						user.translation = 'asv';
 					}
 					else if (language === 'es') {
 						user.translation = 'se';
@@ -72,8 +86,15 @@ module.exports = {
 				}
 			}
 
+			const changes = `${language ? `Language set to \`${dictionary.languages[language]}\`` : ''}${translation ? `Translation set to \`${dictionary.translations[translation]}\`` : ''}`;
+
+			const embed = new EmbedBuilder()
+				.setColor('#0099ff')
+				.setTitle('Biblia Configuration Updated')
+				.setDescription(changes);
+
 			await user.save();
-			await interaction.reply({ content: `Configuration updated! Language: ${user.language}, Translation: ${user.translation}`, flags: MessageFlags.Ephemeral });
+			await interaction.reply({ embeds: [embed], flags: MessageFlags.Ephemeral });
 		}
 	},
 };
