@@ -1,4 +1,5 @@
 const { Events, MessageFlags } = require('discord.js');
+const chalk = require('chalk');
 
 module.exports = {
 	name: Events.InteractionCreate,
@@ -21,7 +22,7 @@ module.exports = {
 			}
 		}
 		catch (error) {
-			console.error(error);
+			console.error(chalk.red.bold(error));
 			if (interaction.replied || interaction.deferred) {
 				await interaction.followUp({ content: 'There was an error while executing this command!', flags: MessageFlags.Ephemeral });
 			}
