@@ -1,5 +1,6 @@
 [
-    { "id": "rv1909", "name": "Reina Valera 1909" },
-    { "id": "se", "name": "Sagradas Escrituras" },
-    { "id": "se", "name": "test" }
+    { "id": "bes", "name": "La Biblia en Español Sencillo" },
+    { "id": "pddpt", "name": "Palabra de Dios para ti" },
+    { "id": "rv09", "name": "Reina Valera 1909" },
+    { "id": "vbl", "name": "Versión Biblia Libre" }
 ]

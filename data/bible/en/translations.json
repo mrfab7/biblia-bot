@@ -1,3 +1,12 @@
 [
-    { "id": "asv", "name": "American Standard Version" }
+    { "id": "asv", "name": "American Standard Version" },
+    { "id": "bsb", "name": "Berean Study Bible"},
+    { "id": "dra", "name": "Duay-Rheims 1899"},
+    { "id": "fbv", "name": "Free Bible Version"},
+    { "id": "kjv", "name": "King James Version"},
+    { "id": "lsv", "name": "Literal Standard Version"},
+    { "id": "rv", "name": "Revised Version 1885"},
+    { "id": "t4t", "name": "Translation for Translators"},
+    { "id": "web", "name": "World English Bible (American Edition)"},
+    { "id": "bsb", "name": "World English Bible (British Edition)"}
 ]

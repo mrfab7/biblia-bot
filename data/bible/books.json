@@ -49,7 +49,7 @@
     },
     "1chronicles": {
         "en": ["1 chronicles", "1 chr", "first chronicles"],
-        "es": ["1 crónicas", "1 cr", "primera de crónicas"]
+        "es": ["1 crónicas", "1crónicas", "1 cr", "1cr", "primera de crónicas", "primeradecrónicas"]
     },
     "2chronicles": {
         "en": ["2 chronicles", "2 chr", "second chronicles", "2nd chronicles", "2ch"],
@@ -88,7 +88,7 @@
         "es": ["job", "job"]
     },
     "psalms": {
-        "en": ["psalms", "ps", "pslm", "psa", "psm", "pss"],
+        "en": ["psalms", "psalm", "ps", "pslm", "psa", "psm", "pss"],
         "es": ["salmos", "sal"]
     },
     "proverbs": {
@@ -101,7 +101,7 @@
     },
     "songofsolomon": {
         "en": ["song of solomon", "song of songs", "canticles", "sos", "so", "cant", "song"],
-        "es": ["cantar de los cantares", "cantar", "cant"]
+        "es": ["cantar de los cantares", "cantardeloscantares", "cantar", "cant"]
     },
     "wisdom": {
         "en": ["wisdom", "wisdom of solomon", "wis"],
@@ -208,12 +208,12 @@
         "es": ["romanos", "rom"]
     },
     "1corinthians": {
-        "en": ["1 corinthians", "1 cor", "first corinthians"],
-        "es": ["1 corintios", "1 cor", "primera de corintios"]
+        "en": ["1 corinthians", "1corinthians", "1 cor", "1cor", "first corinthians", "firstcorinthians", "1co", "1 corinth", "1 corin", "1 corin.", "1 cor.", "1co."],
+        "es": ["1 corintios", "1corinitios", "1 cor", "1cor", "primera de corintios", "primeradecrónicas"]
     },
     "2corinthians": {
         "en": ["2 corinthians", "2 cor", "second corinthians"],
-        "es": ["2 corintios", "2 cor", "segunda de corintios"]
+        "es": ["2 corintios", "2corinitios", "2 cor", "2cor", "segunda de corintios", "segundadecrónicas"]
     },
     "galatians": {
         "en": ["galatians", "gal"],
