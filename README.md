@@ -16,6 +16,8 @@
 > All translations are cloned from [wldeh's bible-api](https://github.com/wldeh/bible-api)
 <details>
 
+There are more translations and languages planned, this isn't the final list.
+
 <summary>English Translations (10)</summary>
 
 - American Standard Version (ASV)
@@ -41,3 +43,4 @@
 - Versión Biblia Libre (VBL)
 
 </details>
+
